@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Digitales Papier.
+klappentext: Introductions
 <> date: 2018-02-26 18:48
 <> author: luke_weidenwalker
 ---
