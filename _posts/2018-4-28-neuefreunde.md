@@ -1,7 +1,7 @@
 ---
 layout: post
 title: neue freunde
-klappentext: lul
+klappentext: Manchmal muss man das halbvolle Glas einfach nehmen und wem auf den Kopf haun.
 <> date: 2018-04-28 20:00
 <> author: contentmaschine
 ---
