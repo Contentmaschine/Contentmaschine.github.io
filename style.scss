@@ -112,13 +112,14 @@ img {
 .butt {
   background-color: $white;
   text-align: left;
+  border: none;
 }
 
-/*.button:hover {
+.butt:hover {
 	border: 1px solid $lightGray;
 	background-color: $white;
 	text-align: left
-}*/
+}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
