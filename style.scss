@@ -210,8 +210,21 @@ img {
   }
 }
 
-nav {
-  float: right;
+nav-right-align-left {
+  align: left;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+	
+nav-left-align-right {
+  align: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
