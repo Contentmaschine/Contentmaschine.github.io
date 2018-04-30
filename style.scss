@@ -222,6 +222,7 @@ nav-right-align-left {
     display: block;
     font-size: 16px;
   }
+}
 	
 nav-left-align-right {
   align: right;
@@ -235,19 +236,19 @@ nav-left-align-right {
     display: block;
     font-size: 16px;
   }
+}
 
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+a {
+margin-left: 20px;
+color: $darkGray;
+text-align: right;
+font-weight: 300;
+letter-spacing: 1px;
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
+@include mobile {
+margin: 0 10px;
+color: $blue;
+}
 }
 
 //
@@ -278,10 +279,10 @@ nav-left-align-right {
     margin-top: 10px;
   }
 
-  .read-more {
+  /*.read-more {
     text-transform: uppercase;
     font-size: 15px;
-  }
+  }*/
 }
 
 .wrapper-footer {
