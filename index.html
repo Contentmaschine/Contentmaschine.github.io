@@ -5,12 +5,12 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <button type="button" class="btn btn-outline-dark">
+      <button type="button" class="butt" value="
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
         <div class="entry">
           {{ post.klappentext }}
         </div>
+      ">
       </button>
       
     </article>
