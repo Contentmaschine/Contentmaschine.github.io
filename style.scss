@@ -110,7 +110,8 @@ img {
 }
 
 .btn {
-  border: 1px solid $lightGray
+  border: 1px solid $lightGray;
+  background: $white;
 }
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
