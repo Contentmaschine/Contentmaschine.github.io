@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  //margin: 0 auto;
   max-width: 740px;
   width: 100%;
 }
@@ -154,7 +154,7 @@ img {
 }
 
 .masthead {
-  padding: 20px 0px;
+  padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
