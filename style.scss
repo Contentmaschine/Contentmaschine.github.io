@@ -17,6 +17,7 @@ html {
   font-size: 100%;
 }
 
+
 body {
   background: $white;
   font: 18px/1.4 $helvetica;
@@ -70,9 +71,11 @@ p {
 a {
   text-decoration: none;
 	cursor: pointer;
+	color: inherit;
   &:hover, &:active {
     text-decoration: none;
     text-shadow: 1px 1px 1px $darkGray;
+    color: inherit;
   }
 }
 
