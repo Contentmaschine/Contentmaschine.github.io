@@ -120,9 +120,14 @@ img {
 }
 
 .butt:hover {
-	border: 1px solid $lightGray;
-	background-color: $white;
-	text-align: left
+  border: 1px solid $lightGray;
+  background-color: $white;
+  text-align: left
+}
+
+.hyperlink-top {
+	text-decoration:underline;
+	text-shadow:none;
 }
 
 // Fixes images in popup boxes from Google Translate
