@@ -71,7 +71,6 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
     text-decoration: none;
     text-shadow: 1px 1px 1px $darkGray;
   }
