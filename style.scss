@@ -77,6 +77,9 @@ a {
     text-shadow: 1px 1px 1px $darkGray;
     color: inherit;
   }
+  &:onclick {
+    border: 1px 1px $white;
+  }
 }
 
 ul, ol {
