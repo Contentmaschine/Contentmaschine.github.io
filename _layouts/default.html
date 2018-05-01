@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -25,18 +25,18 @@
             
             <div class="col-3">
               <nav style="text-align:right">
-                <a href="{{ site.baseurl }}/">Blog</a>
+                <a class="hyperlink-top" href="{{ site.baseurl }}/">Blog</a>
               </nav>
             </div>
 
             <div class="col-6" align="middle">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <h1 class="site-name"><a class="hyperlink-top" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p>
             </div>
             
             <div class="col-3">
               <nav style="text-align:left">
-                <a href="{{ site.baseurl }}/about">About</a>
+                <a class="hyperlink-top" href="{{ site.baseurl }}/about">About</a>
               </nav>
             </div>
           </div>
