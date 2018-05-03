@@ -42,3 +42,18 @@ er schließt die Augen <br>
 und fällt in Dunkelheit <br> <br>
 
 &#8545; <br> <br>
+
+Erwachen an einem Ort <br>
+den die Sonne nicht kennt <br>
+einem pechschwarzen Ort <br>
+an dem sich selbst ein Schatten verrennt <br> <br>
+
+wo nur die düstersten Knospen <br>
+Blüten tragen <br>
+und finstre Kreaturen <br>
+das Zwielicht jagen <br> <br>
+
+wo die Ewigkeit herrscht <br>
+und der Wahnsinn regiert <br> 
+eine einsame Gestalt <br>
+den Verstand verliert <br> <br>
