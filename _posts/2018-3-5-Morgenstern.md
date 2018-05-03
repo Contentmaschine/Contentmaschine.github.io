@@ -37,7 +37,7 @@ der Tod war bereit <br>
 doch musste gehen <br> <br>
 
 sein Kampf ist verloren <br>
-und sein Wille entzweit <br>
+sein Wille entzweit <br>
 er schließt die Augen <br>
 und fällt in Dunkelheit <br> <br>
 
