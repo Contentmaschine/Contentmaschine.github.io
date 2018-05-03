@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morgenstern
-klappentext: wen das licht lässt fallen...
+klappentext: wen das licht lässt fallen
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
