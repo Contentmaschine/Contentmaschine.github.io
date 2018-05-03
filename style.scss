@@ -129,18 +129,26 @@ img {
   text-align: left
 }
 
-.hyperlink-top {
+/*.hyperlink-top {
 	position: fixed;
-}
+}*/
 
 .hyperlink-top:hover {
 	text-decoration:underline;
 	text-shadow:none;
 }
 
-.positioning {
-  position: fixed;
-  z-index: 999;
+.roman-numbers OL {
+  counter-reset: item;
+}
+
+.roman-numbers LI {
+  display: block;
+}
+
+.roman-numbers LI:before {
+  content: counters(item, "", upper-roman);
+  counter-increment: item;
 }
 
 // Fixes images in popup boxes from Google Translate
