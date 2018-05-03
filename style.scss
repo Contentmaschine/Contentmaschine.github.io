@@ -129,9 +129,12 @@ img {
   text-align: left
 }
 
-/*.hyperlink-top {
-	position: fixed;
-}*/
+.stickstick {
+  position: sticky;
+  top:0;
+  z-index:999;
+  background-color:$darkGray;
+}
 
 .hyperlink-top:hover {
 	text-decoration:underline;
