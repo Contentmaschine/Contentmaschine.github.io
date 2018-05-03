@@ -138,19 +138,6 @@ img {
 	text-shadow:none;
 }
 
-.roman-numbers OL {
-  counter-reset: item;
-}
-
-.roman-numbers LI {
-  display: block;
-}
-
-.roman-numbers LI:before {
-  content: counters(item, "", upper-roman);
-  counter-increment: item;
-}
-
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
