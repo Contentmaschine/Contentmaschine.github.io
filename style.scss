@@ -133,6 +133,11 @@ img {
 	text-shadow:none;
 }
 
+.positioning {
+  position: fixed;
+  z-index: 999;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
