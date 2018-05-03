@@ -91,7 +91,6 @@ ul, ol {
 ul {
   list-style-type: disc;
 }
-
 ol {
   list-style-type: decimal;
 }
@@ -131,9 +130,9 @@ img {
 
 .stickstick {
   position: sticky;
-  top:0;
-  z-index:999;
-  background-color:$white;
+  top: 2px;
+  z-index: 999;
+  background-color: $white;
 }
 
 .hyperlink-top:hover {
