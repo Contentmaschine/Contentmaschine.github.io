@@ -5,8 +5,7 @@ klappentext: wen das licht lässt fallen
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
-<ol type="I"><li>Elemento primero</li></ol>
- <br> <br>
+I
 etwas teilt die wolken <br>
 mit schwingen aus stahl <br>
 gestoßen, nicht gesprungen <br>
