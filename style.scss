@@ -130,10 +130,10 @@ img {
 
 .stickstick {
   position: sticky;
-  position: -webkit-sticky;
   top: 0;
-  z-index: 999;
   background-color: $white;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
 .hyperlink-top:hover {
