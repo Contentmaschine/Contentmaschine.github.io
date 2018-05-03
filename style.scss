@@ -130,6 +130,7 @@ img {
 
 .stickstick {
   position: sticky;
+  position: -webkit-sticky;
   top: 2px;
   z-index: 999;
   background-color: $white;
