@@ -5,7 +5,7 @@ klappentext: wen das licht lässt fallen
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
-&#8544;. <br> <br>
+&#8544; <br> <br>
 etwas teilt die wolken <br>
 mit schwingen aus stahl <br>
 gestoßen, nicht gesprungen <br>
@@ -40,3 +40,5 @@ sein Kampf ist verloren <br>
 und sein Wille entzweit <br>
 er schließt die Augen <br>
 und fällt in Dunkelheit <br> <br>
+
+&#8545; <br> <br>
