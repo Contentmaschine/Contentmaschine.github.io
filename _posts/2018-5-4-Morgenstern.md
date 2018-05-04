@@ -14,7 +14,7 @@ das Exil keine Wahl <br> <br>
 und er fällt und fällt <br>
 dieser Komet aus Licht <br>
 viel zu schnell, viel zu weit <br>
-eine schwinge sie bricht <br> <br>
+eine Schwinge sie bricht <br> <br>
 
 einst so edel und erhaben <br>
 jetzt verletzt und verloren <br>
