@@ -57,3 +57,35 @@ wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
+
+und die Leere ringt <br>
+jeden Widerstand nieder <br>
+eine Gestalt schreit <br>
+wieder und wieder und wieder <br> <br>
+
+von Blut und Rache
+träumt die brodelnde Seele
+sie wären ihm allerorts gefolgt
+auf seine Befehle
+
+auch in den Tod
+wie es sich zeigte
+
+
+
+ihr Unterfangen war, ist und wird
+nichts sein als 
+
+zwischen Wut und Schmerz
+lauschte die Nacht
+und was sie hörte gefiel
+ein Ton durchbrach die Stille sacht
+
+ein Ton
+der sich formt zu einem Lied
+Beine richten sich auf
+eine Gestalt es zu der Quelle zieht
+
+mit erneut flammenden Augen
+
+
