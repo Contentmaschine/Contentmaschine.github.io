@@ -34,7 +34,7 @@ und ein endloser Schmerz <br> <br>
 doch ein Fünkchen Leben <br>
 bleibt bestehen <br>
 der Tod war bereit <br>
-doch musste gehen <br> <br>
+aber musste gehen <br> <br>
 
 sein Kampf ist verloren <br>
 sein Wille entzweit <br>
@@ -63,28 +63,23 @@ jeden Widerstand nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
-von Blut und Rache
-träumt die brodelnde Seele
-sie wären ihm allerorts gefolgt
-auf seine Befehle
+die brodelnde Seele <br>
+träumt von Blut und Rache <br>
+von Verrätern und Freunden <br>
+von der guten Sache <br> <br>
 
-auch in den Tod
-wie es sich zeigte
+von ~strahlenden~ Mächten <br>
+die unangreifbar schienen <br>
+von einer roten Träne\von einem Tropfen Rot <br>
+und Wesen die den Tod verdienen <br> <br>
 
+zwischen all der Wut <br>
+in seiner kaputten Welt\in nebliger Welt <br>
+lauscht die Nacht <br>
+und was sie hört gefällt <br> <br>
 
-
-ihr Unterfangen war, ist und wird
-nichts sein als 
-
-zwischen Wut und Schmerz
-lauschte die Nacht
-und was sie hörte gefiel
-ein Ton durchbrach die Stille sacht
-
-ein Ton
-der sich formt zu einem Lied
-Beine richten sich auf
-eine Gestalt es zu der Quelle zieht
+darauf bricht ein einsamer Ton
+aus der Stille aus
 
 mit erneut flammenden Augen
 
