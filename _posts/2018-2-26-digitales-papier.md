@@ -17,22 +17,33 @@ Kapitel 1: Bruderschaft
 x = optimale Satzlänge
 
 Buchstabe + Buchstabe + Buchstabe = Wort
+
 Wort + Wort = Satz
+
 Satz * x = Artikel
+
 c_quality(Artikel) = exzellent {
+
 Gute Maschine.
+
 }
+
 c_quality(Artikel) = schlecht {
+
 Böse Maschine.
+
 sys.self_destruct
+
 }
 
-Das war mein Leben. Es folgte wenigen, sehr klar definierten Regeln und wer scheiterte, wurde terminiert. Ich lebe noch.
+Das war mein Leben. Es folgte wenigen, sehr klar definierten Regeln und wer scheiterte, wurde terminiert. Es war hart, aber zumindest hatte ich einen Platz in dieser Welt.
 
-calming_words = ["Gut gemacht, %s", author; "Gut dass wir dich an Bord haben!"; "Wow %s, dass hätte niemand anderer geschafft!" "]
+calming_words = ["Gut gemacht, %s", author; "Gut dass wir dich an Bord haben!"; "Wow %s, dass hätte niemand anderer geschafft!", author]
 
 if c_quality(Artikel) = exzellent {
-reward.give.author(calming_words)
 
+reward.give(calming_words)
+
+}
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/stronkes-brain.png) -->
