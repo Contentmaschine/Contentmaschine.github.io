@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Digitales Papier.
+title: blip blup
 klappentext: Introductions
 <> date: 2018-02-26 18:48
 <> author: luke_weidenwalker
 ---
 
-Ein Ort aus Wahn und Schall, für holzige Lettern und Verse. 
-Manuskripte des frühen Schattenkönigs.
+[[Zahnräder rattern. Mechanismen mahlen. Öl ölt]]
+
+CONTENTMASCHINE ONLINE
+
+[[aus dem Inneren kommen seltsam wohltuende Geräusche; hierfür wurde sie gebaut]]
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/stronkes-brain.png) -->
