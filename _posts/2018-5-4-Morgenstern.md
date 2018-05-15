@@ -70,7 +70,7 @@ von der guten Sache <br> <br>
 
 von ~strahlenden~ Mächten <br>
 die unangreifbar schienen <br>
-von einer roten Träne\von einem Tropfen Rot <br>
+von einem Tropfen Rot <br>
 und Wesen die den Tod verdienen <br> <br>
 
 zwischen all der Wut <br>
