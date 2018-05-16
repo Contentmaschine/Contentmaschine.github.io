@@ -134,6 +134,10 @@ img {
   background-color: $white;
   overflow-x: auto;
   overflow-y: hidden;
+	
+  @include mobile {
+    position: absolute;
+  }
 }
 
 .hyperlink-top:hover {
