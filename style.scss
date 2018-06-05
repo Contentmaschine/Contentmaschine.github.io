@@ -136,7 +136,7 @@ img {
   overflow-y: hidden;
 	
   @include mobile {
-    position: absolute;
+    position: relative;
   }
 }
 
