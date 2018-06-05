@@ -59,28 +59,34 @@ eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
 und die Leere ringt <br>
-jeden Widerstand nieder <br>
+jede Hoffnung nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
-die brodelnde Seele <br>
+der brodelnde Geist <br>
 träumt von Blut und Rache <br>
 von Verrätern und Freunden <br>
 von der guten Sache <br> <br>
 
-von ~strahlenden~ Mächten <br>
+von strahlenden Mächten <br>
 die unangreifbar schienen <br>
-von einem Tropfen Rot <br>
-und Wesen die den Tod verdienen <br> <br>
+und von Wesen <br>
+die den Tod verdienen <br> <br>
 
-zwischen all der Wut <br>
-in seiner kaputten Welt\in nebliger Welt <br>
+zwischen all dem Hass <br>
+in nebliger Welt <br>
 lauscht die Nacht <br>
-und was sie hört gefällt <br> <br>
+was sie hört gefällt <br> <br>
 
-darauf bricht ein einsamer Ton
-aus der Stille aus
+darauf durchbricht etwas die Stille
+ein einsamer Ton
+
 
 mit erneut flammenden Augen
+durchbricht ein Lachen die Stille
+wo Leere war 
+ist wieder Wille
+
+und ein S
 
 
