@@ -5,7 +5,7 @@ klappentext: wen das licht lässt fallen
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
-I <br> <br>
+&#8544; <br> <br>
 etwas teilt die wolken <br>
 mit schwingen aus stahl <br>
 gestoßen, nicht gesprungen <br>
@@ -73,20 +73,27 @@ die unangreifbar schienen <br>
 und von Wesen <br>
 die den Tod verdienen <br> <br>
 
-zwischen all dem Hass <br>
+zwischen all dem Chaos <br>
 in nebliger Welt <br>
 lauscht die Nacht <br>
 was sie hört gefällt <br> <br>
 
-darauf durchbricht etwas die Stille
-ein einsamer Ton
 
+machte Platz für einen einsamen Ton
+eine simple Melodie
+durchbricht die Isolation
 
-mit erneut flammenden Augen
+mehr war nicht nötig
+der Beschluss war gefasst
+das Leben zu wichtig 
+der Feind zu gehasst
+
+und mit erneut flammenden Augen
 durchbricht ein Lachen die Stille
 wo Leere war 
-ist wieder Wille
+ist wieder ein Wille 
 
-und ein S
+er würde dem Lied folgen
+bis a
 
 
