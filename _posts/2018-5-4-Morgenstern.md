@@ -73,27 +73,27 @@ die unangreifbar schienen <br>
 und von Wesen <br>
 die den Tod verdienen <br> <br>
 
-zwischen all dem Chaos <br>
+zwischen all dem ~Chaos~ <br>
 in nebliger Welt <br>
 lauscht die Nacht <br>
 was sie hört gefällt <br> <br>
 
 
-machte Platz für einen einsamen Ton
-eine simple Melodie
-durchbricht die Isolation
+//machte Platz für einen einsamen Ton <br>
+//eine simple Melodie <br>
+//durchbricht die Isolation <br> <br>
 
-mehr war nicht nötig
-der Beschluss war gefasst
-das Leben zu wichtig 
-der Feind zu gehasst
+//mehr war nicht nötig <br>
+//der Beschluss war gefasst <br>
+//das Leben zu wichtig  <br>
+//der Feind zu gehasst <br> <br>
 
-und mit erneut flammenden Augen
-durchbricht ein Lachen die Stille
-wo Leere war 
-ist wieder ein Wille 
+und mit erneut flammenden Augen <br>
+durchbricht ein Lachen die Stille  <br>
+wo Zweifel war <br>
+ist wieder ein Wille <br> <br>
 
-er würde dem Lied folgen
-bis a
+//er würde dem Lied folgen
+//bis a
 
 
