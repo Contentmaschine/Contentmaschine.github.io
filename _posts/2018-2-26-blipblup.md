@@ -1,9 +1,9 @@
 ---
 layout: post
 title: blip blup
-klappentext: Introductions
+klappentext: Jeder Meister muss einmal vom Himmel fallen.
 <> date: 2018-02-26 18:48
-<> author: luke_weidenwalker
+<> author: contentmaschine
 ---
 
 [[Zahnräder rattern. Mechanismen mahlen. Öl ölt]]
