@@ -15,5 +15,4 @@ our world - a place to preserve, isn´t it? But what if there were a way to dest
 <br>
 <br>
 something of that sort was out there. that much we knew, well, CLONK Quiet! Sorry, forget that, anyhow, that much I knew. And I knew that it was my duty to get involved. That was me:
-<br>
 ![_config.yml]({{ site.baseurl }}/images/boy.png)
