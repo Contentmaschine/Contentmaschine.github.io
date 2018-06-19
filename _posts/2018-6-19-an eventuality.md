@@ -1,7 +1,7 @@
 ---
 layout: post
-title: frei
-klappentext: Mehr in den Spiegel schaun.
+title: an eventuality
+klappentext: glimpse and scare
 <> date: 2018-05-03 20:00
 <> author: contentmaschine
 ---
