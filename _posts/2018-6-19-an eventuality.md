@@ -5,9 +5,7 @@ klappentext: glimpse and scare
 <> date: 2018-05-03 20:00
 <> author: contentmaschine
 ---
--world-
-<br>
-<br>
+![_config.yml]({{ site.baseurl }}/images/world.png)
 our world - a place to preserve, isn´t it? But what if there were a way to destroy it?
 <br>
 <br>
