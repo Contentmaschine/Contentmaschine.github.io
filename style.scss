@@ -259,6 +259,7 @@ nav {
   font-size: 18px;
 
   @include mobile {
+    text-align: center;
     float: none;
     margin-top: 9px;
     display: block;
