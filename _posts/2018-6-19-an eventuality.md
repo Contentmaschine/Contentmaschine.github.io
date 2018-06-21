@@ -6,7 +6,7 @@ klappentext: glimpse and scare
 <> author: contentmaschine
 ---
 ![_config.yml]({{ site.baseurl }}/images/world.png)
-our world - a place to preserve, isn´t it? But what if there were a way to destroy it?
+Our world - a place to preserve, isn´t it? But what if there were a way to destroy it?
 <br>
 <br>
 -wege-
@@ -18,6 +18,9 @@ Those innocent eyes. They had seen nothing yet.
 <br>
 <br>
 I was devoted and I had a vision. An abstract idea of what was needed to save us all. Problem was that I didn´t quite know yet what we were up against, but I tried nevertheless. I held speeches, urged people to listen to the winds of change, to get the same insight into time and reality as I had. I wanted them so see the inevitability of the upcoming. But without a common enemy I never stood a chance. I tried to rally them all but they wouldn´t listen, too fed up with their own lives, worlds even. No one followed me. Except one.
+<br>
+<br>
+-Engineer-
 <br>
 <br>
 A visionary and a technical mastermind, let´s call him The Engineer. He was the first to see the truth in my words and he swore unyielding loyalty to our cause. He was the only person in the world I would have died for. Still is, although... things have changed. I loved him once, but something broke when CLONK Knock it off! Ahm, where was I... Together we strived to be humanitys saviour, which in a sense we were. We brought a new age, just our place in it was unclear.
