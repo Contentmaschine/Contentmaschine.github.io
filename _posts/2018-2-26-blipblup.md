@@ -6,7 +6,7 @@ klappentext: Jeder Meister muss einmal vom Himmel fallen.
 <> author: contentmaschine
 ---
 
-[[Zahnräder rattern. Mechanismen mahlen. Öl ölt]]
+[[Räder rattern. Mechanismen mahlen. Öl ölt]]
 
 CONTENTMASCHINE ONLINE
 
