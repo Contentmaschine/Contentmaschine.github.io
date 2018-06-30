@@ -6,6 +6,14 @@ klappentext: glimpse and scare
 <> author: contentmaschine
 ---
 
+<!-- ToDo
+
++zumindest wege raufscalen
++mobile fixen
+
+-->
+
+
 ![_config.yml]({{ site.baseurl }}/images/world.png)
 
 Our world - a place to preserve, isn´t it? But what if there were a way to destroy it?
