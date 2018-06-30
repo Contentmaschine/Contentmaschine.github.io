@@ -42,7 +42,6 @@ We spent endless hours debating with some of the greatest minds of the planet, b
 <br>
 This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but beautiful <h3>CLONK</h3> WILL YOU STOP IT?!
 <br>
-<br>
 ...<br>
 ...<br>
 ...<br>
