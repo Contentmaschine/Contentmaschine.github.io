@@ -40,11 +40,14 @@ And like The Engineer before, they listened and saw the truth in my words. They 
 We spent endless hours debating with some of the greatest minds of the planet, but it was too big a task. And then it hit us, that was the point. We wouldn´t be able to solve this on our own, we needed to create a tool that could search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us.
 <br>
 <br>
-This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but beautiful <h3>CLONK</h3> WILL YOU STOP IT?!
+This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but beautiful <b>CLONK</b> WILL YOU STOP IT?!
 <br>
-...<br>
-...<br>
-...<br>
+...
+<br>
+...
+<br>
+...
+<br>
 <br>
 We completed it. After many, many years we had finally done it. We wouldn´t need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn´t.
 <br>
