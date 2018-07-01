@@ -9,14 +9,13 @@ klappentext: glimpse and scare
 <!-- ToDo
 
 +zumindest wege raufscalen
-+mobile fixen
 
 -->
 
 
 ![_config.yml]({{ site.baseurl }}/images/world.png)
 
-Our world - a place to preserve, isn´t it? But what if there were a way to destroy it?
+Our world – a place to preserve, isn´t it? But what if there were a way to destroy it?
 
 ![_config.yml]({{ site.baseurl }}/images/wege.png)
 
