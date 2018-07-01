@@ -45,6 +45,15 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.invis {
+	
+    @include mobile {
+    visibility: hidden;
+    position: absolute;
+    top: -9999px;
+  }
+}
+
 h1 {
   font-size: 30px;
   a {
