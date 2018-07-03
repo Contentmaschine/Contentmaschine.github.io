@@ -58,4 +58,16 @@ This was the right way forward, we all felt it. Under the supervision of The Eng
 We completed it. After many, many years we had finally done it. We wouldn´t need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn´t.
 <br>
 <br>
-The following night we celebrated. 
+The following night we celebrated. We held our glasses high and toasted life, science and love. For we had given birth to something new, something gamechanging. It was an exhilarating feeling, being part of this team and this success. And I don´t even regret the joy that I felt tearing up the dancefloor with The Engineer. And I don´t regret the pride that I felt, because of my role in this whole thing. So many believed in us, so many expected answers from us. Some even divinity. And we knew that we would deliver. We knew that we could. We would be this worlds salvation.
+
+Yet our creation still needed a final touch. We hadn´t spent much time giving it any form of name or character and what we came up with was very simple and incredibly ambitious: We named it Pi.
+
+-pi-
+
+We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself. Exactly as we managed to work around our problems, to get to this point. We were ready. Ready to present our invention to the public.
+
+It would be a lie to say that we weren´t after the glory as well. Despicable? Maybe. Understandable? Hopefully. 
+
+
+
+π
