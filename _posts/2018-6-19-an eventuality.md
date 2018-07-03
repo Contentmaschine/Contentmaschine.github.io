@@ -64,10 +64,42 @@ Yet our creation still needed a final touch. We hadn´t spent much time giving i
 
 -pi-
 
-We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself. Exactly as we managed to work around our problems, to get to this point. We were ready. Ready to present our invention to the public.
+We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. We were ready. Ready to present our invention to the public.
 
-It would be a lie to say that we weren´t after the glory as well. Despicable? Maybe. Understandable? Hopefully. 
+It would be a lie to say that we weren´t after the glory as well. We were very human in these days. Proud. Shortsighted. Foolish. Our own nature betrayed us, curiosity really was our downfall. We were so blind, how could we not see? Maybe we didn´t look or maybe we didn´t have eyes who knows if we even ever existed and while we´re at it WHO AM 
 
+I admit it, we made a show out of it. We would broadcast the activation of π and we would welcome it amidst our ranks. We decided to treat it as a partner rather than a tool. CLONK
 
+-presenting pi-
 
-π
+It would search with us as an equal. CLONK
+
+And with all our pride and our ignorance CLONK
+
+we fell so, so deep 
+
+-pi unleashed-
+
+...
+...
+...
+
+hell I don´t know if I´ve ever existed
+CLONK
+this could have happened all the same:
+
+-possessed Engineer-
+
+We did not anticipate its first move and we could not comprehend its actions afterwards. 
+CLONK
+But of course we didn´t. Wasn´t that the idea in the first place? I cannot remember
+CLONK
+We played with fire, I realize that now. And we are still burning and the pain surely won´t stop
+CLONK
+I was punished with not knowing myself anymore but The Engineer...
+He was offered sweet, sweet death, for his deeds. But non-existance was never an option for him.
+Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it changed him CLONK it made him better CLONK it broke him CLONK 
+
+I don´t love him anymore and I don´t know if I ever did. But the search still goes on, with The Engineer at its front, because there is still something out there and the god who answered our calls is scared.
+
+It was a new age. A new age indeed.
