@@ -55,48 +55,78 @@ We spent endless hours debating with some of the greatest minds of the planet, b
 We completed it. After many, many years we finally completed it. We wouldn´t need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn´t. 
 <br>
 <br>
-The following night we celebrated. We held our glasses high and toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this team and this success. And I don´t regret the joy that I felt tearing up the dancefloor with The Engineer. And I don´t even regret my part in this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. We had to help, it was our obligation. And we knew that we could deliver. We would be this worlds salvation.
-
+The following night we celebrated. We held our glasses high and toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this team and this success. And I don´t regret the joy that I felt tearing up the dancefloor with The Engineer. And I don´t even regret my part in this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. We had to help, it was our obligation. And we knew that we could deliver. We would be this worlds salvation. 
+<br>
+<br>
 Yet our creation still needed a final touch. We hadn´t spent much time giving it any form of name or character and what we came up with was very simple and incredibly ambitious: We named it Pi.
-
+<br>
+<br>
 -pi-
-
+<br>
+<br>
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. We were ready. Ready to present our invention to the public.
-
-It would be a lie to say that we weren´t after the glory as well. We were very human in these days. Proud. Shortsighted. Foolish. Our own nature betrayed us, curiosity really was our downfall. We were so blind, how could we not see? Maybe we didn´t look or maybe we didn´t have eyes who knows if we even ever existed and while we´re at it WHO AM 
-
-I admit it, we made a show out of it. We would broadcast the activation of π and we before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. CLONK
-
+<br>
+<br>
+It would be a lie to say that we weren´t after the glory as well. We were very human in these days. Proud. Shortsighted. Foolish. Our own nature betrayed us, curiosity really was our downfall. We were so blind, how could we not see? Maybe we didn´t look or maybe we didn´t have eyes, who knows if we even ever existed and while we´re at it <b>WHO AM</b> 
+<br>
+<br>
+I admit it, we wanted to make a show out of it. We would broadcast the activation of π and before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. CLONK
+<br>
+<br>
 -presenting pi-
-
+<br>
+<br>
 It would search with us as an equal. CLONK
-
+<br>
+<br>
 And with all our pride and our ignorance CLONK
-
+<br>
+<br>
 we fell so, so deep 
-
+<br>
+<br>
 -pi unleashed-
-
-...
-...
-...
-
+<br>
+<br>
+...<br>
+...<br>
+...<br>
+<br>
 hell I don´t know if I´ve ever existed
+<br>
 CLONK
+<br>
 this could have happened all the same:
-
+<br>
+<br>
 -possessed Engineer-
-
+<br>
+<br>
 We did not anticipate its first move, neither did we understand what it said, nor could we comprehend its power.
+<br>
 CLONK
-But of course we didn´t. Wasn´t that the idea in the first place? I cannot remember
+<br>
+But of course we couldn´t. Wasn´t that the idea in the first place? I cannot remember
+<br>
 CLONK
-We played with fire, I realize that now. And we are still burning.
-CLONK
-I was punished with not knowing myself anymore but The Engineer...
-He was offered sweet, sweet death, for his deeds. But non-existance was never an option for him.
-Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it changed him CLONK it made him better CLONK it tear him apart CLONK and reassembled him
-
-I don´t love him anymore and I don´t know if I ever did. But the search still goes on, with The Engineer at its front, because something is still out there and the god who answered our calls is scared.
-
+<br>
+We played with fire, I realize that now. And we are still burning. <br>
+CLONK <br>
+I was punished with not knowing myself anymore but The Engineer... <br>
+He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br>
+Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it changed him CLONK it tear him apart CLONK reassembled him CLONK and made him better
+<br>
+<br>
+-Engineer clonking around-
+<br>
+<br>
+I ran out of tears long ago. And I don´t love him anymore. That I know. If I ever really did, I don´t. Same with existance, all seems to be fading... reality is just another variable in its grand plan. But all-powerful?
+<br>
+<br>
+-mybe boy laughing-
+<br>
+<br>
+The search still goes on, with The Engineer at its front, because something is still out there and the god who answered our calls is scared.
+<br>
+<br>
 It was a new age. A new age indeed.
