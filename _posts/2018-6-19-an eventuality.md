@@ -55,7 +55,7 @@ We spent endless hours debating with some of the greatest minds of the planet, b
 We completed it. After many, many years we finally completed it. We wouldn´t need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn´t. 
 <br>
 <br>
-The following night we celebrated. We held our glasses high and toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this team and this success. And I don´t regret the joy that I felt tearing up the dancefloor with The Engineer. And I don´t even regret my part in this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. We had to help, it was our obligation. And we knew that we could deliver. We would be this worlds salvation. 
+The following night we celebrated. We held our glasses high and toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this. And I don´t regret the joy that I felt tearing up the dancefloor with The Engineer. And I don´t even regret my part in this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. We had to help, it was our duty. And we knew that we could deliver. We would be this worlds salvation. 
 <br>
 <br>
 Yet our creation still needed a final touch. We hadn´t spent much time giving it any form of name or character and what we came up with was very simple and incredibly ambitious: We named it Pi.
@@ -72,11 +72,12 @@ It would be a lie to say that we weren´t after the glory as well. We were very 
 <br>
 I admit it, we wanted to make a show out of it. We would broadcast the activation of π and before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. CLONK
 <br>
+It would search with us as an equal. CLONK
+<br>
+We would face our destiny hand in hand, it was the right thing to do.  CLONK
+<br>
 <br>
 -presenting pi-
-<br>
-<br>
-It would search with us as an equal. CLONK
 <br>
 <br>
 And with all our pride and our ignorance CLONK
@@ -103,17 +104,17 @@ this could have happened all the same:
 <br>
 We did not anticipate its first move, neither did we understand what it said, nor could we comprehend its power.
 <br>
-CLONK
+<b style="font-size:1.3em">CLONK</b>
 <br>
 But of course we couldn´t. Wasn´t that the idea in the first place? I cannot remember
 <br>
-CLONK
+<b style="font-size:1.3em">CLONK</b>
 <br>
 We played with fire, I realize that now. And we are still burning. <br>
-CLONK <br>
+<b style="font-size:1.3em">CLONK</b> <br>
 I was punished with not knowing myself anymore but The Engineer... <br>
 He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br> <br>
-Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it changed him CLONK it tear him apart CLONK reassembled him CLONK made him better
+Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it changed him CLONK it tear him apart CLONK reassembled him <b style="font-size:1.3em">CLONK</b> made him better
 <br>
 <br>
 -Engineer clonking around-
