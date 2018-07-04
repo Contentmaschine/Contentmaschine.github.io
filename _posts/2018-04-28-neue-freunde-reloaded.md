@@ -1,0 +1,9 @@
+---
+layout: post
+title: neue freunde reloaded
+klappentext: Leute kennenlernen.
+<> date: 2018-04-28 20:00
+<> author: contentmaschine
+---
+
+Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Das war kein ordinärer George Dubbelju. Eine vermummte Gestalt sprang aus ihrem Versteck und fauchte mich an: "Hey! Geld her oder ich stech dich ab!" Ich schaute ihn fragend an. "Mann! Geld her hab ich gesagt!" Er fuchtelte wild mit seinem Taschenmesser herum. Ich sah ihn furchtlos an: "Du hast dir den Falschen ausgesucht.", und knackte demonstrativ mit den Fingerknöcheln. "Hast du sie noch alle? Ich hab ein Messer!" Er schaute mich verständnislos an. "Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" "Schau mal so drauf, Stein schlägt Schere." "Du hast aber keinen Stein, nur zwei, zu einer Faust formbaren, Anhäufungen von Knochen." "Hey, so redest du nicht von Tod und Verderben!" "Wirklich? Tod und Verderben? Nur ein leichter Gottkomplex, nicht wahr?" "Ja, haha, du bist gerade der, der sein Wohl eindeutig über das eines anderen stellt." "Auch wieder wahr." "Irgendwelche Tipps?" "Tipps?" "Für Leben oder so." "Pff, äh, sag den Leuten die du gern hast, dass du sie gern hast?" "Horcht sich nett an. Wieso haben wir zwei eigentlich das längste Gespräch, dass ich seit langem geführt habe?" "Weil wir zwar so vernetzt sind wie noch nie, aber auch noch nie so isoliert?" "Hast du schön gesagt. Vielleicht. Bist du deswegen hier oder brauchst du wirklich Geld?" "Ganz im Ernst... eigentlich war mir nur langweilig. Und in Illegalem steckt mehr Abenteuer als in der ganzen anderen verschissenen Welt." "Du könntest auch Bücher lesen!" "Stimmt schon, aber ich will mein eigener Protagonist sein. Ich habs satt andere 
