@@ -112,8 +112,8 @@ CLONK
 We played with fire, I realize that now. And we are still burning. <br>
 CLONK <br>
 I was punished with not knowing myself anymore but The Engineer... <br>
-He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br>
-Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it changed him CLONK it tear him apart CLONK reassembled him CLONK and made him better
+He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br> <br>
+Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it changed him CLONK it tear him apart CLONK reassembled him CLONK made him better
 <br>
 <br>
 -Engineer clonking around-
