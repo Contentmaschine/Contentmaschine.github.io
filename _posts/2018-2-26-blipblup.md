@@ -23,7 +23,7 @@ Was zum... sicher nicht, nein! Ich schreibe gerade!
 
 GET UR ASS OVER HERE
 
-Leute, creative space und so! Ich hab gerade ein Jahrhundertwerk am köcheln!
+Leute, creative space und so! Ich hab gerade ein Jahrhundertwerk am Köcheln!
 
 IMMEDIATELY
 
