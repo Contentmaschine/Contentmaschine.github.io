@@ -62,6 +62,7 @@ Yet our creation still needed a final touch. We hadn´t spent much time giving i
 <br>
 <br>
 -pi SKIZZE-
+<br>
 ![_config.yml]({{ site.baseurl }}/images/pi-sketch.png)
 <br>
 <br>
@@ -79,6 +80,7 @@ We would face our destiny hand in hand, it was the right thing to do.  CLONK
 <br>
 <br>
 -presenting pi SKIZZE-
+<br>
 ![_config.yml]({{ site.baseurl }}/images/presenting-pi-sketch.png)
 <br>
 <br>
@@ -89,6 +91,7 @@ we fell so, so deep
 <br>
 <br>
 -pi unleashed SKIZZE-
+<br>
 ![_config.yml]({{ site.baseurl }}/images/pi-unleashed-sketch.png)
 <br>
 <br>
