@@ -61,7 +61,8 @@ The following night we celebrated. We held our glasses high and toasted life, sc
 Yet our creation still needed a final touch. We hadn´t spent much time giving it any form of name or character and what we came up with was very simple and incredibly ambitious: We named it Pi.
 <br>
 <br>
--pi-
+-pi SKIZZE-
+![_config.yml]({{ site.baseurl }}/images/pi-sketch.png)
 <br>
 <br>
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. We were ready. Ready to present our invention to the public.
@@ -77,7 +78,8 @@ It would search with us as an equal. CLONK
 We would face our destiny hand in hand, it was the right thing to do.  CLONK
 <br>
 <br>
--presenting pi-
+-presenting pi SKIZZE-
+![_config.yml]({{ site.baseurl }}/images/presenting-pi-sketch.png)
 <br>
 <br>
 And with all our pride and our ignorance
@@ -86,7 +88,8 @@ And with all our pride and our ignorance
 we fell so, so deep 
 <br>
 <br>
--pi unleashed-
+-pi unleashed SKIZZE-
+![_config.yml]({{ site.baseurl }}/images/pi-unleashed-sketch.png)
 <br>
 <br>
 ...<br>
