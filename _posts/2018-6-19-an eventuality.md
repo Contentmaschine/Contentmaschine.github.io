@@ -130,10 +130,10 @@ Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it 
 I ran out of tears long ago. And I don´t love him anymore. That I know. If I ever really did, I don´t. Same with existance, all seems to be fading... reality is just another variable in its grand plan. But all-powerful?
 <br>
 <br>
--mybe boy laughing-
+-boy laughing-
 <br>
 <br>
-The search still goes on, with The Engineer at its front, because something is still out there and the god who answered our calls is scared.
+No... definitely not. The search still goes on, with The Engineer at its front, because something is still out there and the god who answered our calls is scared.
 <br>
 <br>
 It was a new age. A new age indeed.
