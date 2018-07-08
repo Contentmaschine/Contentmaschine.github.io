@@ -1,7 +1,7 @@
 ---
 layout: post
 title: an eventuality
-klappentext: glimpse and scare
+klappentext: here be dragons
 <> date: 2018-05-03 20:00
 <> author: contentmaschine
 ---
@@ -36,14 +36,17 @@ A visionary and a technical mastermind, let us call him The Engineer. He was the
 I´m getting ahead of myself.
 <br>
 <br>
-Now we developed a plan, a plan to catch the publics eye ─ we had to become idols, icons of science and success, to let our warnings be heard. To get to the people who we really needed to convince. And so we worked day and night, not caring for what we did, just with demand in mind. Never stopping to innovate, together we could accomplish everyting. Soon enough we were considered the spearhead of technological advancement and with The Engineers technical prowess and my marketing skills we actually did it. We managed to exploit every aspect of modern society to get to speak to the people we so desperatly needed to convince. That something was coming and that it quite possibly could end humankind.
+Now we developed a plan, a plan to catch the publics eye ─ we had to become idols, icons of science and success, to let our warnings be heard. To get to the people who we really needed to convince. And so we worked day and night, not caring for what we did, just with demand in mind. Never stopping to innovate, together we could accomplish everything. Soon enough we were considered the spearhead of technological advancement and with The Engineers technical prowess and my marketing skills we actually did it. We managed to exploit every aspect of modern society to get to speak to the people we so desperatly needed to convince. That something was coming and that it quite possibly could end humankind.
 <br>
 <br>
 And like The Engineer before, they listened and saw the truth in my words. They finally gave us the ressources to assemble a team of the brightest and most promising technicians and scientists we could find. With the publics support and the elites standing behind us as well, we could at last begin our ~real mission.
 <br>
 <br>
-We spent endless hours debating with some of the greatest minds of the planet, but it was too big a task. And then it hit us, that was the point. We wouldn´t be able to solve this on our own, we needed to create a tool that could search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but nonetheless beautiful <b style="font-size:1.5em">CLONK</b> WILL YOU STOP IT?!
-<br>
+We spent endless hours debating with some of the greatest minds of the planet, but it was too big a task. And then it hit us, that was the point. We wouldn´t be able to solve this on our own, we needed to create a tool that could search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. 
+
+-boy & engineer looking at drawing bord with roboboy-
+
+We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but nonetheless beautiful <b style="font-size:1.5em">CLONK</b> WILL YOU STOP IT?!
 <br>
 ...
 <br>
@@ -55,13 +58,10 @@ We spent endless hours debating with some of the greatest minds of the planet, b
 We completed it. After many, many years we finally completed it. We wouldn´t need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn´t. 
 <br>
 <br>
-The following night we celebrated. We held our glasses high and toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this. And I don´t regret the joy that I felt tearing up the dancefloor with The Engineer, not the sense of purpose I got which I lacked my whole life before. And I don´t even regret my part in this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. There was no choice, we had to help. And we knew that we could deliver. We would be this worlds salvation. 
+The following night we celebrated. We held our glasses high and ~toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this. And I don´t regret the joy that I felt tearing up the dancefloor with The Engineer, neither the sweet words that were mumbled in the haze nor the sense of purpose I got. And I don´t even regret   in this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. There was no choice, we had to help. And we knew that we could deliver. We would be this worlds salvation. 
 <br>
 <br>
-Yet our creation still needed a final touch. We hadn´t decided on a name yet and what we came up with was very simple and incredibly ambitious: We named it Pi.
-<br>
-<br>
--pi SKIZZE-
+Yet our creation still needed a final touch. We hadn´t decided on a name yet and what we came up with was very simple and incredibly ambitious: We named it <i>Pi</i>.
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/pi-sketch.png)
@@ -78,7 +78,7 @@ We thought that we were ready. CLONK
 <br>
 We really did. CLONK
 <br>
--presenting pi SKIZZE-
+-presenting pi-
 <br>
 <br>
 And with all our pride and our ignorance
