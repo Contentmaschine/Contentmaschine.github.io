@@ -72,11 +72,15 @@ We thought that it embodied our journey and the essence of what we were doing to
 <br>
 We would broadcast the activation of π and before the eyes of the planet we´d welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. CLONK
 <br>
+<br>
 We would face our destiny hand in hand.  CLONK
+<br>
 <br>
 We thought that we were ready. CLONK
 <br>
+<br>
 We really did. CLONK
+<br>
 <br>
 -presenting pi-
 <br>
@@ -114,7 +118,11 @@ We played with fire, I realize that now. And we are still burning. <br>
 <b style="font-size:1.3em">CLONK</b> <br>
 I was punished with not knowing myself anymore but The Engineer... <br>
 He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br> <br>
-Now he´s endlessly working CLONK on what I cannot begin to understand CLONK it tear him apart CLONK reassembled him <b style="font-size:1.3em">CLONK</b> made him better
+Now he´s endlessly working 
+<b style="font-size:1.3em">CLONK</b> on what I cannot begin to understand 
+<b style="font-size:1.3em">CLONK</b> it tear him apart 
+<b style="font-size:1.3em">CLONK</b> reassembled him 
+<b style="font-size:1.3em">CLONK</b> made him better
 <br>
 <br>
 -Engineer clonking around-
