@@ -71,7 +71,7 @@ We thought that it embodied our journey and the essence of what we were doing to
 <br>
 <br>
 We would broadcast the activation of π and before the eyes of the planet we´d welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. We would face our destiny hand in hand.  
-<b style="font-size:1.45em">CLONK</b>
+<b style="font-size:1.37em">CLONK</b>
 <br>
 <br>
 We thought that we were ready. <b style="font-size:1.7em">CLONK</b>
