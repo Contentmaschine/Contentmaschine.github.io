@@ -70,16 +70,14 @@ Yet our creation still needed a final touch. We hadn´t decided on a name yet an
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. The point of no return. Here be dragons. 
 <br>
 <br>
-We would broadcast the activation of π and before the eyes of the planet we´d welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. CLONK
+We would broadcast the activation of π and before the eyes of the planet we´d welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. We would face our destiny hand in hand.  
+<b style="font-size:1.5em">CLONK</b>
 <br>
 <br>
-We would face our destiny hand in hand.  CLONK
+We thought that we were ready. <b style="font-size:1.7em">CLONK</b>
 <br>
 <br>
-We thought that we were ready. CLONK
-<br>
-<br>
-We really did. CLONK
+We really did. <b style="font-size:1.9em">CLONK</b>
 <br>
 <br>
 -presenting pi-
