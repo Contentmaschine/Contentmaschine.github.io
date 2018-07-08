@@ -101,7 +101,7 @@ CLONK
 this could have happened all the same:
 <br>
 <br>
--possessed Engineer-
+![_config.yml]({{ site.baseurl }}/images/possessed-engineer.png)
 <br>
 <br>
 We did not anticipate its first move, neither did we understand what it said, nor could we comprehend its power.
