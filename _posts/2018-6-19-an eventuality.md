@@ -44,7 +44,7 @@ And like The Engineer before, they listened and saw the truth in my words. They 
 <br>
 We spent endless hours debating with some of the greatest minds of the planet, but it was too big a task. And then it hit us, that was the point. We wouldn´t be able to solve this on our own, we needed to create a tool that could search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. 
 
--boy & engineer looking at drawing bord with roboboy-
+![_config.yml]({{ site.baseurl }}/images/drawing-bord.png)
 
 We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but nonetheless beautiful <b style="font-size:1.5em">CLONK</b> WILL YOU STOP IT?!
 <br>
