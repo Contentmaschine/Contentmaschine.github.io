@@ -19,16 +19,16 @@ Our world – a place to preserve, isn´t it? But what if there were a way to de
 
 ![_config.yml]({{ site.baseurl }}/images/wege.png)
 
-Something of that sort was out there. That much <b style="font-size:1.1em">CLONK</b> Quiet! Sorry, forget that, anyhow, that much I knew. And I knew that it was my duty to get involved. That was me:
+Something of that sort was out there. That much <b style="font-size:1.1em">CLONK</b> Quiet! Forget that, anyhow, that much I knew. And I knew that it was my duty to get involved. That was me:
 
 ![_config.yml]({{ site.baseurl }}/images/boy.png)
 
 Those innocent eyes. They had seen nothing yet. 
 <br>
 <br>
-I was devoted and I had a vision. An abstract idea of what was needed to save us all. Problem was that I didn´t quite know yet what we were up against, but I tried nevertheless. I held speeches, urged people to listen to the winds of change, to get the same insight into time and reality as I had. I wanted them so see the inevitability of the upcoming. But without a common enemy I never stood a chance. I tried to rally them all but they wouldn´t listen, too fed up with their own lives, worlds even. None followed me. Except one.
+I was devoted and I had a vision. An abstract idea of what was needed to save us all. Problem was that I didn´t quite know yet what we were up against, but I tried nevertheless. I held speeches, urged people to , to get the same insight into  as I had. I wanted them so see the inevitability of the upcoming. But without a common enemy I never stood a chance. I tried to rally them all but they wouldn´t listen, too fed up with their own lives, worlds even. None followed me. Except one.
 
-![_config.yml]({{ site.baseurl }}/images/Engineer.png)
+![_config.yml]({{ site.baseurl }}/images/the-engineer.png)
 
 A visionary and a technical mastermind, let us call him The Engineer. He was the first to see the truth in my words and he swore unyielding loyalty to our cause. He was the only person in the world I would have died for. Still is, although... things have changed. I loved him once, but something broke when <b style="font-size:1.3em">CLONK</b> Knock it off! Ahm, where was I... Together we strived to be humanitys saviour, which in a sense we were. We brought a new age, just
 <br>
