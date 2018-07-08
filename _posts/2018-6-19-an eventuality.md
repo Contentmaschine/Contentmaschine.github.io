@@ -81,8 +81,6 @@ We would face our destiny hand in hand, it was the right thing to do.  CLONK
 <br>
 -presenting pi SKIZZE-
 <br>
-![_config.yml]({{ site.baseurl }}/images/presenting-pi-sketch.png)
-<br>
 <br>
 And with all our pride and our ignorance
 <br>
@@ -91,8 +89,6 @@ we fell so, so deep
 <br>
 <br>
 -pi unleashed SKIZZE-
-<br>
-![_config.yml]({{ site.baseurl }}/images/pi-unleashed-sketch.png)
 <br>
 <br>
 ...<br>
