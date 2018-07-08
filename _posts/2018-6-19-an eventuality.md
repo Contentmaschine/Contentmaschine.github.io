@@ -96,8 +96,6 @@ we fell so, so deep
 <br>
 hell I don´t know if I´ve ever existed
 <br>
-CLONK
-<br>
 this could have happened all the same:
 <br>
 <br>
