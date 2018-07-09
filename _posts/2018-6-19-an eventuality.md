@@ -15,18 +15,18 @@ klappentext: here be dragons
 
 ![_config.yml]({{ site.baseurl }}/images/world.png)
 
-Our world – a place to preserve, isn´t it? But what if there were a way to destroy it?
+Our world – a place to preserve, wouldn´t you agree? But what if there was (were?) a way to destroy it?
 
 ![_config.yml]({{ site.baseurl }}/images/wege.png)
 
-Something of that sort was out there. That much <b style="font-size:1.1em">CLONK</b> Quiet! Forget that, anyhow, that much I knew. And I knew that it was my duty to get involved. That was me:
+Something of that sort was out there. That much I knew. And I knew that it was my duty to get involved. That was me:
 
 ![_config.yml]({{ site.baseurl }}/images/boy.png)
 
-Those innocent eyes. They had seen nothing yet. 
+Those innocent eyes. They had seen nothing yet. I was devoted and I had a vision. An abstract idea of what was needed to save us all. The problem was that I didn´t quite know yet what we were up against. I tried nonetheless. 
 <br>
 <br>
-I was devoted and I had a vision. An abstract idea of what was needed to save us all. Problem was that I didn´t quite know yet what we were up against, but I tried nevertheless. I held speeches, urged people to get the same insight into time and reality as I had. I wanted them so see the inevitability of the upcoming. But without a common enemy I never stood a chance. I tried to rally them all but they wouldn´t listen, too fed up with their own lives, worlds even. None followed me. Except one.
+I held speeches, urged people to get the same insight into time and reality as I had. I wanted them so see the inevitability of the upcoming. But without a common enemy I never stood a chance. I tried to rally them all but they wouldn´t listen, too fed up with their own lives. None of them followed me. Except one.
 
 ![_config.yml]({{ site.baseurl }}/images/the-engineer.png)
 
