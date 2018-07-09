@@ -33,10 +33,10 @@ I held speeches, urging people to get the same insight into time and reality as 
 A visionary and a technical mastermind, let us call him The Engineer. He was the first to see the truth in my words and he swore unyielding loyalty to our cause. He was the only person in the world I would have died for. He still is, although... things have changed. I loved him once, but something broke when <b style="font-size:1.3em">CLONK</b> <i>Knock it off!</i> Ahm, where was I... Together we strived to be humanity's saviours, which in a sense we were. We brought a new age, just-
 <br>
 <br>
-I´m getting ahead of myself.
+I'm getting ahead of myself.
 <br>
 <br>
-Now we developed a plan, a plan to catch the publics eye ─ we had to become idols, icons of science and success, to let our warnings be heard. To get to the people who we really needed to convince. And so we worked day and night, not caring for what we did, just with demand in mind. Never stopping to innovate, together we could accomplish everything. Soon enough we were considered the spearhead of technological advancement and with The Engineers technical prowess and my marketing skills we actually did it. We managed to exploit every aspect of modern society to get to speak to the people we so desperatly needed to convince. That something was coming and that it quite possibly could end humankind.
+Now we developed a plan, a plan to catch the public eye ─ we had to become idols, icons of science and success, to let our warnings be heard. To get to the people who we really needed to convince. And so we worked day and night, not caring for what we did, just with demand in mind. Never stopping to innovate, together we could accomplish everything. Soon enough we were considered the spearhead of technological advancement and with The Engineers technical prowess and my marketing skills we actually did it. We managed to exploit every aspect of modern society to get to speak to the people we so desperatly needed to convince. That something was coming and that it quite possibly could end humankind.
 <br>
 <br>
 And like The Engineer before, they listened and saw the truth in my words. They finally gave us the ressources to assemble a team of the brightest and most promising technicians and scientists we could find. With the publics support and the elites standing behind us as well, we could at last begin our ~real mission.
