@@ -30,7 +30,7 @@ I held speeches, urging people to get the same insight into time and reality as 
 
 ![_config.yml]({{ site.baseurl }}/images/the-engineer.png)
 
-A visionary and a technical mastermind, let us call him The Engineer. He was the first to see the truth in my words and he swore unyielding loyalty to our cause. He was the only person in the world I would have died for. He still is, although... things have changed. I loved him once, but something broke when <b style="font-size:1.3em">CLONK</b> <i>Knock it off!</i> Ahm, where was I... Together we strived to be humanitys' saviour, which in a sense we were. We brought a new age, just
+A visionary and a technical mastermind, let us call him The Engineer. He was the first to see the truth in my words and he swore unyielding loyalty to our cause. He was the only person in the world I would have died for. He still is, although... things have changed. I loved him once, but something broke when <b style="font-size:1.3em">CLONK</b> <i>Knock it off!</i> Ahm, where was I... Together we strived to be humanity's saviours, which in a sense we were. We brought a new age, just
 <br>
 <br>
 I´m getting ahead of myself.
