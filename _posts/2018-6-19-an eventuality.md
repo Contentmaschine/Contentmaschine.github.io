@@ -64,7 +64,7 @@ The following night we celebrated. We held our glasses high and ~toasted life, s
 Yet our creation still needed a final touch. We hadn´t decided on a name yet and what we came up with was very simple and incredibly ambitious: We named it <i>Pi</i>.
 <br>
 <br>
-![_config.yml]({{ site.baseurl }}/images/pi-sketch.png)
+![_config.yml]({{ site.baseurl }}/images/pi.png)
 <br>
 <br>
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. The point of no return. Here be dragons. 
