@@ -78,11 +78,9 @@ We thought that we were ready. <b style="font-size:1.7em">CLONK</b>
 <br>
 <br>
 We really did. <b style="font-size:1.9em">CLONK</b>
-<br>
-<br>
--presenting pi-
-<br>
-<br>
+
+![_config.yml]({{ site.baseurl }}/images/presenting-pi.png)
+
 And with all our pride and our ignorance
 <br>
 <br>
