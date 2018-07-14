@@ -85,11 +85,9 @@ And with all our pride and our ignorance
 <br>
 <br>
 we fell so, so deep 
-<br>
-<br>
--pi unleashed SKIZZE-
-<br>
-<br>
+
+![_config.yml]({{ site.baseurl }}/images/pi-unleashed.png)
+
 ...<br>
 ...<br>
 ...<br>
