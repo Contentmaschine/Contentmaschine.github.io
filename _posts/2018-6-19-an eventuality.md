@@ -46,7 +46,7 @@ We spent endless hours debating with some of the greatest minds of the planet, b
 
 ![_config.yml]({{ site.baseurl }}/images/drawing-bord.png)
 
-We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but nonetheless beautiful <b style="font-size:1.5em">CLONK</b> WILL YOU STOP IT?!
+We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put its heart and soul into development and we all knew that we were making history in these long, but nonetheless beautiful <b style="font-size:1.5em">CLONK</b> <i>WILL YOU STOP IT?!</i>
 <br>
 ...
 <br>
