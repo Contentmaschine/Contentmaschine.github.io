@@ -98,14 +98,13 @@ this could have happened all the same:
 <br>
 We did not anticipate its first move, neither did we understand what it said, nor could we comprehend its power.
 <br>
-<b style="font-size:1.3em">CLONK</b>
 <br>
 But of course we couldn´t. Wasn´t that the idea in the first place? I cannot remember
 <br>
-<b style="font-size:1.3em">CLONK</b>
+
 <br>
 We played with fire, I realize that now. And we are still burning. <br>
-<b style="font-size:1.3em">CLONK</b> <br>
+<br>
 I was punished with not knowing myself anymore but The Engineer... <br>
 He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br> <br>
 Now he´s endlessly working 
