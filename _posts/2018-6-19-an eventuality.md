@@ -43,7 +43,10 @@ We began by developing a plan, a plan to get the public's attention ─ we had t
 And finally they listened and saw the truth in my words. They gave us the resources to assemble a team of the brightest technicians and scientists we could find. With the public and the elites standing behind us, we could at last focus on our true objective.
 <br>
 <br>
-We spent endless hours debating with some of the greatest minds on the planet, but it was too daunting a task. And then it hit us, that was the point. We wouldn´t be able to solve this on our own, we needed to create a tool that would search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. 
+We spent endless hours debating with some of the greatest minds on the planet, but the task was too difficult. Even our finest tools proved too crude to solve the problems we were encountering.
+<br>
+<br>
+Then it hit us, that was the point. We wouldn't be able to solve this on our own, we needed to create a tool that would search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. 
 
 ![_config.yml]({{ site.baseurl }}/images/drawing-bord.png)
 
