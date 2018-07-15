@@ -15,7 +15,7 @@ klappentext: here be dragons
 
 ![_config.yml]({{ site.baseurl }}/images/world.png)
 
-Our world – a place to preserve, wouldn´t you agree? But what if there was (were?) a way to destroy it?
+Our world – a place to preserve, wouldn´t you agree? But what if there was a way to destroy it?
 
 ![_config.yml]({{ site.baseurl }}/images/wege.png)
 
@@ -70,14 +70,14 @@ Yet our creation still needed a final touch. We hadn´t decided on a name yet an
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. The point of no return. Here be dragons. 
 <br>
 <br>
-We would broadcast the activation of π and before the eyes of the planet we´d welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. We would face our destiny hand in hand.  
-<b style="font-size:1.25em">CLONK</b>
+We would broadcast the activation of π and before the eyes of the planet we´d welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. 
+<b style="font-size:1.5em">CLONK</b>
 <br>
 <br>
-We thought that we were ready. <b style="font-size:1.7em">CLONK</b>
+We thought that we were ready. <b style="font-size:1.9em">CLONK</b>
 <br>
 <br>
-We really did. <b style="font-size:1.9em">CLONK</b>
+We really did. <b style="font-size:2.1em">CLONK</b>
 
 ![_config.yml]({{ site.baseurl }}/images/presenting-pi.png)
 
