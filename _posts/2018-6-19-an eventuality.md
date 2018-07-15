@@ -37,13 +37,13 @@ I loved him once, but something broke along the way. Together we strived to be h
 I'm getting ahead of myself.
 <br>
 <br>
-We began by developing a plan, a plan to get the public's attention ─ we had to become idols, icons of science and success, to let our warnings be heard. To get to the people who we really had to convince. And so we worked day and night, building whatever it took, only the goal in mind. Soon enough we were considered the spearhead of technological advancement and with The Engineer's technical prowess and my rhetorics we actually did it. We managed to exploit every aspect of modern society to get to speak to the people we so desperately needed to convince. That something was coming and that it quite possibly could end humankind.
+We began by developing a plan, a plan to get the public's attention ─ we had to become idols, icons of science and success, to let our warnings be heard. To get to the people who we really had to convince. And so we worked day and night, building whatever it took, only the goal in mind. Soon enough we were considered the spearhead of technological advancement and with The Engineer's technical prowess and my rhetorics we actually did it. We managed to exploit every aspect of modern society to get to the people we so desperately needed to convince that something was coming and that it quite possibly could end humankind.
 <br>
 <br>
-And like The Engineer before, they listened and saw the truth in my words. They finally gave us the ressources to assemble a team of the brightest and most promising technicians and scientists we could find. With the publics support and the elites standing behind us as well, we could at last begin our ~real mission.
+And finally they listened and saw the truth in my words. They gave us the resources to assemble a team of the brightest technicians and scientists we could find. With the public and the elites standing behind us, we could at last focus on our true objective.
 <br>
 <br>
-We spent endless hours debating with some of the greatest minds of the planet, but it was too big a task. And then it hit us, that was the point. We wouldn´t be able to solve this on our own, we needed to create a tool that could search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. 
+We spent endless hours debating with some of the greatest minds on the planet, but it was too daunting a task. And then it hit us, that was the point. We wouldn´t be able to solve this on our own, we needed to create a tool that would search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. 
 
 ![_config.yml]({{ site.baseurl }}/images/drawing-bord.png)
 
