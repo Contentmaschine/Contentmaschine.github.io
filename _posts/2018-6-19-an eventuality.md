@@ -13,7 +13,7 @@ klappentext: here be dragons
 
 ![_config.yml]({{ site.baseurl }}/images/world.png)
 
-Our world – a place to preserve, wouldn´t you agree? But what if there was a way to destroy it?
+Our world – a place to preserve, wouldn't you agree? But what if there was a way to destroy it?
 
 ![_config.yml]({{ site.baseurl }}/images/wege.png)
 
@@ -21,10 +21,10 @@ Something of that sort was out there. That much I knew. And I knew that it was m
 
 ![_config.yml]({{ site.baseurl }}/images/boy.png)
 
-Those innocent eyes. They had seen nothing yet. I was devoted and I had a vision. An abstract idea of what was needed to save us all. The problem was that I didn´t quite know yet what we were up against. I tried nonetheless. 
+Those innocent eyes. They had seen nothing yet. I was devoted and I had a vision. An abstract idea of what was needed to save us all. The problem was that I didn't quite know yet what we were up against. I tried nonetheless. 
 <br>
 <br>
-I held speeches, urging people to get the same insight into time and reality as I had. I wanted them to see the inevitability of what was yet to come. But without a common enemy I never stood a chance. I tried to rally them all, but they wouldn´t listen, too fed up with their own lives. Except one.
+I held speeches, urging people to get the same insight into time and reality as I had. I wanted them to see the inevitability of what was yet to come. But without a common enemy I never stood a chance. I tried to rally them all, but they wouldn't listen, too fed up with their own lives. Except one.
 
 ![_config.yml]({{ site.baseurl }}/images/the-engineer.png)
 
@@ -59,13 +59,13 @@ We soon noticed that we were making progress at an eery pace, but we took it as 
 ...
 <br>
 <br>
-We completed it. After many, many years we finally completed it. We wouldn´t need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn´t. 
+We completed it. After many, many years we finally completed it. We wouldn't need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn't. 
 <br>
 <br>
-The following night we celebrated. We held our glasses high and ~toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this. And I don´t regret the joy that I felt tearing up the dancefloor with The Engineer, not the sweet words that were mumbled in the haze of the moment and definitely not the sense of purpose I got. And I don´t even regret leading this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. There was no choice, we had to help. And we knew that we could deliver. We would be this worlds salvation. 
+The following night we celebrated. We held our glasses high and ~toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this. And I don't regret the joy that I felt tearing up the dancefloor with The Engineer, not the sweet words that were mumbled in the haze of the moment and definitely not the sense of purpose I got. And I don't even regret leading this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. There was no choice, we had to help. And we knew that we could deliver. We would be this worlds salvation. 
 <br>
 <br>
-Yet our creation still needed a final touch. We hadn´t decided on a name yet and what we came up with was very simple and incredibly ambitious: We named it <i>Pi</i>.
+Yet our creation still needed a final touch. We hadn't decided on a name yet and what we came up with was very simple and incredibly ambitious: We named it <i>Pi</i>.
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/pi.png)
@@ -74,7 +74,7 @@ Yet our creation still needed a final touch. We hadn´t decided on a name yet an
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. The point of no return. Here be dragons. 
 <br>
 <br>
-We would broadcast the activation of π and before the eyes of the planet we´d welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. 
+We would broadcast the activation of π and before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. 
 <b style="font-size:1.5em">CLONK</b>
 <br>
 <br>
@@ -92,7 +92,7 @@ we fell so, so deep
 
 ![_config.yml]({{ site.baseurl }}/images/pi-unleashed.png)
 
-hell I don´t know if I´ve ever existed
+hell I don't know if I've ever existed
 <br>
 this could have happened all the same:
 <br>
@@ -103,7 +103,7 @@ this could have happened all the same:
 We did not anticipate its first move, neither did we understand what it said, nor could we comprehend its power.
 <br>
 <br>
-But of course we couldn´t. Wasn´t that the idea in the first place? I cannot remember
+But of course we couldn't. Wasn't that the idea in the first place? I cannot remember
 <br>
 
 <br>
@@ -111,7 +111,7 @@ We played with fire, I realize that now. And we are still burning. <br>
 <br>
 I was punished with not knowing myself anymore but The Engineer... <br>
 He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br> <br>
-Now he´s endlessly working 
+Now he's endlessly working 
 <b style="font-size:1.3em">CLONK</b> on what I cannot begin to understand 
 <b style="font-size:1.3em">CLONK</b> it tear him apart 
 <b style="font-size:1.3em">CLONK</b> reassembled him 
@@ -121,7 +121,7 @@ Now he´s endlessly working
 -Engineer clonking around-
 <br>
 <br>
-I ran out of tears long ago. And I don´t love him anymore. That I know. If I ever really did, I don´t. Same with existance, all seems to be fading... reality is just another variable in its grand plan. But all-powerful?
+I ran out of tears long ago. And I don't love him anymore. That I know. If I ever really did, I don't. Same with existance, all seems to be fading... reality is just another variable in its grand plan. But all-powerful?
 <br>
 <br>
 -boy laughing-
