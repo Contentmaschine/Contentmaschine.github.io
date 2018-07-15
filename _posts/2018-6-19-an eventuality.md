@@ -46,11 +46,11 @@ And finally they listened and saw the truth in my words. They gave us the resour
 We spent endless hours debating with some of the greatest minds on the planet, but the task was too difficult. Even our finest tools proved too crude to solve the problems we were encountering.
 <br>
 <br>
-Then it hit us, that was the point. We wouldn't be able to solve this on our own, we needed to create a tool that would search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which looked astonishingly promising. 
+Then it hit us, that was the point. We wouldn't be able to find the solutions on our own, so we needed to create something that would search with us. An artifical intelligence, whose intellect would surpass our own, to help us broaden our understanding of the universe, to uncover the answers that were hidden from us. This was the right way forward, we all felt it. Under the supervision of The Engineer we started to make sketches and build prototypes, which all looked astonishingly promising. 
 
 ![_config.yml]({{ site.baseurl }}/images/drawing-bord.png)
 
-We soon noticed that we were making progress at an eery pace, but we took it as prove for our theory and worked even harder. Our whole team put it's heart and soul into development and we all knew that we were making history in these long, but nonetheless beautiful <b style="font-size:1.5em">CLONK</b> <i>WILL YOU STOP IT?!</i>
+We soon noticed that we were making progress at an eery pace, but we took it as proof for our theories and worked even harder. Our whole team put their heart and soul into development and we all knew that we were making history in these long, but nonetheless beautiful <b style="font-size:1.5em">CLONK</b> <i>WILL YOU STOP IT?!</i>
 <br>
 ...
 <br>
