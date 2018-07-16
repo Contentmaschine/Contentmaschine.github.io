@@ -130,7 +130,7 @@ Now he's endlessly working
 -Engineer clonking around-
 <br>
 <br>
-I ran out of tears long ago. And I don't love him anymore. That I know. If I ever really did, I don't. Same with existence, everything seems to be fading... reality is just another variable in its grand plan. But all-powerful?
+I ran out of tears long ago. And I don't love him anymore. I don´t even know if I ever really did. Same with existence, everything seems to be fading... reality is just another variable in its grand plan. But all-powerful?
 <br>
 <br>
 -boy laughing-
