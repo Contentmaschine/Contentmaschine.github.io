@@ -59,10 +59,16 @@ We soon noticed that we were making progress at an eery pace, but we took it as 
 ...
 <br>
 <br>
-We completed it. After many, many years we finally completed it. We wouldn't need to worry about things to come anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we gave it as a security measure, we knew of its potential and we were awestruck. It would find out what we couldn't. 
+We completed it. After many, many years we finally completed it. We wouldn't need to worry about the future anymore. Our invention had passed every single test glamourously and although it was still restrained, bound to the limits we set as a security measure, we knew of its potential and we were awestruck. It would find what we couldn't. 
 <br>
 <br>
-The following night we celebrated. We held our glasses high and ~toasted life, science and love. For we had given birth to something new, something special. It was an exhilarating feeling, being part of this. And I don't regret the joy that I felt tearing up the dancefloor with The Engineer, not the sweet words that were mumbled in the haze of the moment and definitely not the sense of purpose I got. And I don't even regret leading this whole operation. So many believed in us, expected answers from us. So  many wanted to meet their god. There was no choice, we had to help. And we knew that we could deliver. We would be this worlds salvation. 
+The following night we celebrated.
+<br>
+<br>
+-boys celebrating-
+<br>
+<br>
+We held our glasses high to life, science and love, for we had given birth to something new, something special. Being part of this felt exhilarating. I don't regret the joy that I felt tearing up the dancefloor with The Engineer, not the sweet words that were mumbled in the haze of the moment and definitely not the sense of purpose I got out of it. I don't even regret leading this whole operation. So many believed in us, expected answers from us. So many wanted to glimpse at divinity. There was no choice, we had to help. And we knew that we could. We would be this world's salvation. 
 <br>
 <br>
 Yet our creation still needed a final touch. We hadn't decided on a name yet and what we came up with was very simple and incredibly ambitious: We named it <i>Pi</i>.
