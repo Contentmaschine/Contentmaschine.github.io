@@ -24,7 +24,7 @@ Something of that sort was out there. That much I knew. And I knew that it was m
 Those innocent eyes. They had seen nothing yet. I was devoted and I had a vision. An abstract idea of what was needed to save us all. The problem was that I didn't quite know yet what we were up against. I tried nonetheless. 
 <br>
 <br>
-I held speeches, urging people to get the same insight into time and reality as I had. I wanted them to see the inevitability of what was yet to come. But without a common enemy I never stood a chance. I tried to rally them all, but they wouldn't listen, too fed up with their own lives. Except one.
+I held speeches, urged people to get the same insight into time and reality as I had. I wanted them to see the inevitability of what was yet to come. But without a common enemy I never stood a chance. I tried to rally them all, but they wouldn't listen, too fed up with their own lives. Except one.
 
 ![_config.yml]({{ site.baseurl }}/images/the-engineer.png)
 
