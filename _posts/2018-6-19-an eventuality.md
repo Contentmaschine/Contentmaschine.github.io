@@ -71,7 +71,7 @@ The following night we celebrated.
 We held our glasses high to life, science and love, for we had given birth to something new, something special. Being part of this felt exhilarating. I don't regret the joy that I felt tearing up the dancefloor with The Engineer, not the sweet words that were mumbled in the haze of the moment and definitely not the sense of purpose I got out of it. I don't even regret leading this whole operation. So many believed in us, expected answers from us. So many wanted to glimpse at divinity. There was no choice, we had to help. And we knew that we could. We would be this world's salvation. 
 <br>
 <br>
-Yet our creation still needed a final touch. We hadn't decided on a name yet and what we came up with was very simple and incredibly ambitious: We named it <i>Pi</i>.
+Yet our creation still needed a final touch. Until now we hadn't decided on a name. What we came up with was incredibly ambitious though very simple: We named it <i>Pi</i>.
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/pi.png)
