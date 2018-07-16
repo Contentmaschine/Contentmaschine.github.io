@@ -71,13 +71,16 @@ The following night we celebrated.
 We held our glasses high to life, science and love, for we had given birth to something new, something special. Being part of this felt exhilarating. I don't regret the joy that I felt tearing up the dancefloor with The Engineer, not the sweet words that were mumbled in the haze of the moment and definitely not the sense of purpose I got out of it. I don't even regret leading this whole operation. So many believed in us, expected answers from us. So many wanted to glimpse at divinity. There was no choice, we had to help. And we knew that we could. We would be this world's salvation. 
 <br>
 <br>
-Yet our creation still needed a final touch. Until now we hadn't decided on a name. What we came up with was incredibly ambitious though very simple: We named it <i>Pi</i>.
+Our creation still needed a final touch. Until now we hadn't decided on a name and what we came up with was very simple yet incredibly ambitious: We named it <i>Pi</i>.
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/pi.png)
 <br>
 <br>
-We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, exactly as we managed to work around our problems, to get to this point. The point of no return. Here be dragons. 
+We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, just as we managed to work around our boundaries, to get to this point. The point of no return. Here be dragons.
+<br>
+<br>
+-mybe here be dragons-
 <br>
 <br>
 We would broadcast the activation of π and before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. 
@@ -100,7 +103,7 @@ we fell so, so deep
 
 hell I don't know if I've ever existed
 <br>
-this could have happened all the same:
+this could have been how it was all along:
 <br>
 <br>
 ![_config.yml]({{ site.baseurl }}/images/possessed-engineer.png)
@@ -115,11 +118,11 @@ But of course we couldn't. Wasn't that the idea in the first place? I cannot rem
 <br>
 We played with fire, I realize that now. And we are still burning. <br>
 <br>
-I was punished with not knowing myself anymore but The Engineer... <br>
-He was given a choice. Life in servitude or death. Well, non-existance was never an option for him. <br> <br>
+I was punished with not knowing myself anymore. But The Engineer... <br>
+he was given a choice. Life in servitude or death. Well, non-existence was never an option for him. <br> <br>
 Now he's endlessly working 
 <b style="font-size:1.3em">CLONK</b> on what I cannot begin to understand 
-<b style="font-size:1.3em">CLONK</b> it tear him apart 
+<b style="font-size:1.3em">CLONK</b> it tore him apart 
 <b style="font-size:1.3em">CLONK</b> reassembled him 
 <b style="font-size:1.3em">CLONK</b> made him better
 <br>
@@ -127,7 +130,7 @@ Now he's endlessly working
 -Engineer clonking around-
 <br>
 <br>
-I ran out of tears long ago. And I don't love him anymore. That I know. If I ever really did, I don't. Same with existance, all seems to be fading... reality is just another variable in its grand plan. But all-powerful?
+I ran out of tears long ago. And I don't love him anymore. That I know. If I ever really did, I don't. Same with existence, everything seems to be fading... reality is just another variable in its grand plan. But all-powerful?
 <br>
 <br>
 -boy laughing-
