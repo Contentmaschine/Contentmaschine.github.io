@@ -136,7 +136,7 @@ I ran out of tears long ago. And I don't love him anymore. I don´t even know if
 -boy laughing-
 <br>
 <br>
-No... definitely not. The search still goes on, with The Engineer at its front, because something is still out there and the god who answered our calls is scared.
+No... definitely not. The search goes on, with The Engineer at its front, because something is still out there and the god who answered our calls is scared.
 <br>
 <br>
 It was a new age. A new age indeed.
