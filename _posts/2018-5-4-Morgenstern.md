@@ -58,14 +58,14 @@ und der Wahnsinn regiert <br>
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-und die Leere ringt <br>
+die Leere ringt <br>
 jede Hoffnung nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
 der brodelnde Geist <br>
 träumt von Blut und Rache <br>
-von Verrätern und Freunden <br>
+von Freunden und Feinden <br>
 von der guten Sache <br> <br>
 
 von strahlenden Mächten <br>
