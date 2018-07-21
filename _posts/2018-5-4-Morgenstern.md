@@ -31,7 +31,7 @@ und ein pochendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
-doch ein Fünkchen Leben <br>
+doch ein Funken Leben <br>
 bleibt bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
@@ -58,8 +58,13 @@ und der Wahnsinn regiert <br>
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-die Leere ringt <br>
-jede Hoffnung nieder <br>
+sie bäumt sich auf <br>
+versucht zu verstehen <br>
+versucht zu lieben  <br>
+den Hass zu umgehen <br> <br>
+
+doch die Leere ringt <br>
+jeden Widerstand nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
@@ -73,11 +78,23 @@ die unangreifbar schienen <br>
 und von Wesen <br>
 die den Tod verdienen <br> <br>
 
-zwischen all dem ~Chaos~ <br>
-in nebliger Welt <br>
-lauscht die Nacht <br>
-was sie hört gefällt <br> <br>
+auf diesen Gedanken
+folgten lange keine
+er konnte nicht glauben
+dass diese Idee war die seine
 
+eine Ewigkeit an Glauben
+ersetzt durch Momente von Wahrheit
+ein ganzes Leben
+in so wenig Klarheit
+
+wie naiv
+wie schwach
+jetzt verletzt
+aber wach
+
+eine Faust ballt sich 
+so 
 
 //machte Platz für einen einsamen Ton <br>
 //eine simple Melodie <br>
