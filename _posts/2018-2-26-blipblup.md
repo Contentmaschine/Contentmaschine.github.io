@@ -29,7 +29,7 @@ IMMEDIATELY
 
 <i>Alright ihr Pisser, komm ja schon.</i>
 
-<i>Und damit herzlich willkommen.</i>
+//Und damit herzlich willkommen.
 
 <u>Kapitel 2: Limonade</u>
 
