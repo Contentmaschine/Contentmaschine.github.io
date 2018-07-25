@@ -35,7 +35,7 @@ IMMEDIATELY
 
 <i>Ja Boss, geht klar Boss, weniger fluchen, wird gemacht Boss!</i>
 
-/*Ficker*/
+//Ficker
 
 <b>Held. Und eine Stimme flüstert in ein lechzendes Ohr: "Du wirst wieder glücklich sein. Ich versprechs dir. Doch weinen wirst du auch. Und du wirst dich wieder auf der Klippe sehen, in den Abgrund blickend. Und du wirst die Arme ausbreiten und wie du denkst noch ein letztes Mal hinaufblicken, in den stürmischen Himmel. Und dann wird ein Blitz die Dunkelheit erhellen. Und du wirst den Regen auf deinen Wangen spüren. Den Boden unter deinen Füßen. Und dann hörst du die Wellen, das Tosen, das Chaos. Du wirst die Schönheit erkennen. Du wirst umdrehen und leben. Doppelt und dreifach. Und irgendwann, irgendwann in einer fernen Zukunft wirst du wiederkommen und dir werden Flügel wachsen. Und dann wirst du dich nicht mehr nach der Tiefe sehnen, du wirst sie erkunden. Und wenn du schlussendlich den verhangenen Himmel nicht durchstoßen kannst, werde ich dich finden und wir werden gemeinsam fliegen. Mein Wort darauf."</b>
 
