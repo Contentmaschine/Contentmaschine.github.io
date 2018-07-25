@@ -45,7 +45,7 @@ IMMEDIATELY
 
 //Zu knapp
 
-<b>Und sie küsste ihn auf die Nase, sprang auf wie ein fröhlicher Hase, grazil wie eine Ming-Vase, tanzte durch den Raum, wie ein Bild aus einem Traum, hielt sich selbst kaum in Zaum. Und er stand auf und steppte mit, jede Bewegung ein perfekter Tritt, für jedes Gefühl einen eigenen Schritt. Für Fremde ein Taumeln, in Tanzschulen würden sie baumeln, von Bällen vertrieben, das ist lieben. Und fühlen und werken und tanzen und twerken und mit einem Grinsen sagte er: "Du bist keine Tussi." und im nächsten Moment griff er ihr an die
+<b>Und sie küsste ihn auf die Nase, sprang auf wie ein fröhlicher Hase, grazil wie eine Ming-Vase, tanzte durch den Raum, wie ein Bild aus einem Traum, hielt sich selbst kaum in Zaum. Und er stand auf und steppte mit, jede Bewegung ein perfekter Tritt, für jedes Gefühl einen eigenen Schritt. Für Fremde ein Taumeln, in Tanzschulen würden sie baumeln, von Bällen vertrieben, das ist lieben. Und fühlen und werken und tanzen und twerken und mit einem Grinsen gab er ihr ein Bussi und im nächsten Moment griff er ihr an die
   
 INCOMING MESSAGE
 
