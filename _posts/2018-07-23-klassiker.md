@@ -50,34 +50,34 @@ sitzen, sitzen <br>
 Bleistift spitzen <br>
 keine Freude, keinen Spaß <br>
 der Durchschnitt, der <br>
-der ist das Maß <br> <br>
+der ist das Maß <br>
 
 das Maß aller Dinge <br>
 ob groß oder klein <br>
 wenn du Mittelmaß bist <br>
-dann ist alles fein <br> <br>
+dann ist alles fein <br>
 
 verstehen, verstehen <br>
 der Verstand muss gehen <br>
 denk nur gerade <br>
 und ja nicht verquer <br>
 du bist Durchschnitt <br>
-und wirst auch nicht mehr! <br> <br>
+und wirst auch nicht mehr! <br> 
 
 es ist deine Pflicht  <br>
 dich der Mehrheit zu beugen <br>
 und ohne Widerspruch <br>
-dein eigenes Ich zu leugnen <br> <br>
+dein eigenes Ich zu leugnen <br>
 
 auf Befehl hin <br>
 wer anderer zu sein <br>
 es gibt nur ja <br>
-und ja kein nein <br> <br>
+und ja kein nein <br> 
 
 aber das sollte und wollte <br>
 doch niemals so sein <br>
 und alles was bleibt <br>
-ist nichts als ein Reim <br> <br>
+ist nichts als ein Reim <br>
 
 und der Reim der folgt kommt tief aus dem Herzen <br>
 von ganz tief drin <br>
@@ -85,7 +85,7 @@ gewoben aus Kummer und Schmerzen <br>
 unter Tränen geschrieben  <br>
 mit Tinte aus Blut <br>
 verfasst an Tagen  <br>
-mit dem Kopf voll Wut: <br> <br>
+mit dem Kopf voll Wut: <br>
 
 <b>fick dich Schule <br>
 so richtig hart ins Knie <br>
@@ -102,12 +102,12 @@ noch ist die Rüstung <br>
 zeitweise offen <br>
 noch wurde keine Trauer versoffen [edit: lol (^_^)] <br>
 noch schlägt man die Pauke beharrlich <br>
-noch ists ne Festung wahrlich <br> <br>
+noch ists ne Festung wahrlich <br>
 
 diese Worte waren und werden <br>
 auch immer so sein <br>
 denn Mensch und Fuchs sein <br>
-ist ziemlich fein <br> <br>
+ist ziemlich fein <br>
 
 be ever vigilant <br>
 -f
