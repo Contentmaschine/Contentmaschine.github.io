@@ -87,11 +87,11 @@ mit Tinte aus Blut <br>
 verfasst an Tagen  <br>
 mit dem Kopf voll Wut: <br> <br>
 
-fick dich Schule <br>
+<b>fick dich Schule <br>
 so richtig hart ins Knie <br>
 ich hoffe du wirst nie wissen wie <br>
 nah du am Abgrund gestanden bist <br>
-und wie sinnlos deine Existenz wirklich ist <br> <br>
+und wie sinnlos deine Existenz wirklich ist </b> <br> <br>
 
 
 doch... noch gibt es Hoffnung <br>
