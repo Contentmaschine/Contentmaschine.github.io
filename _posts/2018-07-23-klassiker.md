@@ -101,7 +101,7 @@ noch wird gemurrt <br>
 noch ist die Rüstung <br>
 zeitweise offen <br>
 noch wurde keine Trauer versoffen [edit: lol (^_^)] <br>
-noch schlögt man die Pauke beharrlich <br>
+noch schlägt man die Pauke beharrlich <br>
 noch ists ne Festung wahrlich <br> <br>
 
 diese Worte waren und werden <br>
