@@ -42,4 +42,34 @@ immer weiter, weiter <br>
 doch kurz vor dem Aufkommen <br>
 am Boden der Tatsachen <br>
 lächeln wir uns an <br>
-und fallen gemeinsam <br>
+und fallen gemeinsam <br> <br>
+
+<u>Schule</u>
+
+sitzen, sitzen
+Bleistift spitzen
+keine Freude, keinen Spaß
+der Durchschnitt, der
+der ist das Maß
+
+das Maß aller Dinge
+ob groß oder klein
+wenn du Mittelmaß bist
+dann ist alles fein
+
+verstehen, verstehen
+der Verstand muss gehen
+denk nur gerade
+und ja nicht verquer
+du bist Durchschnitt
+und wirst auch nicht mehr!
+
+es ist deine Pflicht 
+dich der Mehrheit zu beugen
+und ohne Widerspruch
+dein eigenes Ich zu leugnen
+
+auf Befehl hin
+wer anderer zu sein
+es gibt nur ja
+und ja kein nein
