@@ -33,7 +33,7 @@ und glaub mir <br>
 ich hab genauso viel Angst vor dem Winter <br>
 wie du <br>
 Hand in Hand <br>
-erwarten wir die Zukunft <br>
+schauen wir in die Zukunft <br>
 wir blicken zurück  <br>
 auf Zeiten voller Sonnenschein <br>
 halten Gläser, randvoll mit Wein <br>
