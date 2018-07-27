@@ -44,7 +44,7 @@ am Boden der Tatsachen <br>
 lächeln wir uns an <br>
 und fallen gemeinsam <br> <br>
 
-<u>Schule</u> <br>
+/* <!-- <u>Schule</u> <br>
 
 sitzen, sitzen <br>
 Bleistift spitzen <br>
@@ -100,7 +100,7 @@ noch denkt man frei <br>
 noch wird gemurrt <br>
 noch ist die Rüstung <br>
 zeitweise offen <br>
-noch wurde keine Trauer versoffen [edit: lol (^_^)] <br>
+noch wurde keine Trauer versoffen [edit: lol] <br>
 noch schlägt man die Pauke beharrlich <br>
 noch ists ne Festung wahrlich <br>
 
@@ -111,3 +111,5 @@ ist ziemlich fein <br>
 
 be ever vigilant <br>
 -f
+-->
+*/
