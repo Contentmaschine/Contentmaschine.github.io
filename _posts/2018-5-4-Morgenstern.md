@@ -7,7 +7,7 @@ klappentext: wen das licht lässt fallen
 ---
 &#8544; <br> <br>
 etwas teilt die wolken <br>
-mit schwingen aus stahl <br>
+mit Schwingen aus Stahl <br>
 gestoßen, nicht gesprungen <br>
 das Exil keine Wahl <br> <br>
 
@@ -58,10 +58,17 @@ und der Wahnsinn regiert <br>
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-sie bäumt sich auf <br>
-versucht zu verstehen <br>
-versucht zu lieben  <br>
-den Hass zu umgehen <br> <br>
+zwei leuchtende Augen <br>
+bäumen sich auf <br>
+funkeln wild hin und her  <br>
+kommen einfach nicht drauf <br> <br>
+
+ob vom Heer der Heere <br>
+hierher verbannt <br>
+oder vom Schicksal <br>
+hierher gesandt <br> <br>
+
+irgendwas zweifelndes <br> <br>
 
 doch die Leere ringt <br>
 jeden Widerstand nieder <br>
@@ -78,32 +85,31 @@ die unangreifbar schienen <br>
 und von Wesen <br>
 die den Tod verdienen <br> <br>
 
-auf diesen Gedanken
-folgten lange keine
-er konnte nicht glauben
-dass diese Idee war die seine
+// das bleibt ziemlich sicher nicht
 
-eine Ewigkeit an Glauben
-ersetzt durch Momente von Wahrheit
-ein ganzes Leben
-in so wenig Klarheit
+auf diesen Gedanken <br>
+folgten lange keine <br>
+er konnte nicht glauben <br>
+diese Idee war die seine <br> <br>
 
-wie naiv
-wie schwach
-jetzt verletzt
-aber wach
+//meh, wird ersetzt durch einen Dolch im Gewande
 
-eine Faust ballt sich 
-so 
+eine Ewigkeit an Glauben <br>
+ersetzt durch Momente von Wahrheit <br>
+ein ganzes Leben <br>
+in so wenig Klarheit <br> <br>
+
+wie naiv <br>
+wie schwach <br>
+jetzt verletzt <br>
+aber wach <br> <br>
+
+eine Faust ballt sich  <br>
+so  <br> <br>
 
 //machte Platz für einen einsamen Ton <br>
 //eine simple Melodie <br>
 //durchbricht die Isolation <br> <br>
-
-//mehr war nicht nötig <br>
-//der Beschluss war gefasst <br>
-//das Leben zu wichtig  <br>
-//der Feind zu gehasst <br> <br>
 
 und mit erneut flammenden Augen <br>
 durchbricht ein Lachen die Stille  <br>
@@ -111,6 +117,8 @@ wo Zweifel war <br>
 ist wieder ein Wille <br> <br>
 
 //er würde dem Lied folgen
-//bis a
+//bis
+
+//jo, schreib kurz was wennst dus jz liest :P 
 
 
