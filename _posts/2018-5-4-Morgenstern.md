@@ -58,7 +58,7 @@ und der Wahnsinn regiert <br>
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-zwei leuchtende Augen <br>
+zwei lodernde Augen <br>
 bäumen sich auf <br>
 funkeln wild hin und her  <br>
 kommen einfach nicht drauf <br> <br>
@@ -68,7 +68,12 @@ hierher verbannt <br>
 oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
-irgendwas zweifelndes <br> <br>
+die Augen beben
+versuchen zu begreifen
+warum 
+
+
+<br> <br>
 
 doch die Leere ringt <br>
 jeden Widerstand nieder <br>
@@ -92,16 +97,8 @@ folgten lange keine <br>
 er konnte nicht glauben <br>
 diese Idee war die seine <br> <br>
 
-//meh, wird ersetzt durch einen Dolch im Gewande
 
-eine Ewigkeit an Glauben <br>
-ersetzt durch Momente von Wahrheit <br>
-ein ganzes Leben <br>
-in so wenig Klarheit <br> <br>
 
-wie naiv <br>
-wie schwach <br>
-jetzt verletzt <br>
 aber wach <br> <br>
 
 eine Faust ballt sich  <br>
@@ -118,7 +115,5 @@ ist wieder ein Wille <br> <br>
 
 //er würde dem Lied folgen
 //bis
-
-//jo, schreib kurz was wennst dus jz liest :P 
 
 
