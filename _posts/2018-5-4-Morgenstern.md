@@ -69,14 +69,23 @@ oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
 die Augen beben
-versuchen zu begreifen
-warum 
+versuchen zu verstehn
+doch ein dichter Nebel
+legt sich über das was geschehn
+
+nur zerfetzte Flügel
+Engelschor
+brennende Brüder
+ein verschlossenes Tor
+
+
+
 
 
 <br> <br>
 
-doch die Leere ringt <br>
-jeden Widerstand nieder <br>
+endgültig ringt die Leere <br>
+jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
