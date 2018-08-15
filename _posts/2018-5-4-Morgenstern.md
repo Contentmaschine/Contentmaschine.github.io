@@ -68,15 +68,15 @@ hierher verbannt <br>
 oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
-die Augen beben
-versuchen zu verstehn
-doch ein dichter Nebel
-legt sich über das was geschehn
+die Augen beben <br>
+versuchen zu verstehn <br>
+doch ein dichter Nebel <br>
+legt sich über das was geschehn <br> <br>
 
-nur zerfetzte Flügel
-Engelschor
-brennende Brüder
-ein verschlossenes Tor
+nur zerfetzte Flügel <br>
+Engelschor <br>
+brennende Brüder <br>
+ein verschlossenes Tor <br> <br>
 
 
 
