@@ -68,21 +68,35 @@ hierher verbannt <br>
 oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
-die Augen beben <br>
-versuchen zu verstehn <br>
+Funken sprühen <br>
+jemand versucht zu verstehn <br>
 doch ein dichter Nebel <br>
 legt sich über das was geschehn <br> <br>
 
 nur zerfetzte Flügel <br>
 Engelschor <br>
-brennende Brüder <br>
+ein erbitterter Kampf <br>
 ein verschlossenes Tor <br> <br>
 
+war es nicht er
+mit Dolch und Ziel
+war es nicht seine Schuld
+an wie tief er fiel?
 
+alles wie verschommen
+wer zog Blut am Ende
+war es er?
+warn es die seinen Hände
 
+die den Vater fällten
+ihn auf den Boden stießen
+Glück verspürten
+wie sie ihm in den Kopf schießen?
 
-
-<br> <br>
+Gedanken wogen
+Stürme toben
+im Kopf eines Zerissenen
+war alles gelogen?
 
 endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
@@ -99,28 +113,21 @@ die unangreifbar schienen <br>
 und von Wesen <br>
 die den Tod verdienen <br> <br>
 
-// das bleibt ziemlich sicher nicht
-
-auf diesen Gedanken <br>
+auf diese Worte <br>
 folgten lange keine <br>
-er konnte nicht glauben <br>
-diese Idee war die seine <br> <br>
+er wusste jetzt <br>
+die Tat war die seine <br> <br>
 
+doch nicht geglückt
+es sollte nicht sein
+seine Waffe nicht gebaut
+für ein Herz aus Stein
 
+nun eine Faust sich ballt  <br>
+seinen Zweck nicht erfüllt
 
-aber wach <br> <br>
-
-eine Faust ballt sich  <br>
-so  <br> <br>
-
-//machte Platz für einen einsamen Ton <br>
-//eine simple Melodie <br>
-//durchbricht die Isolation <br> <br>
-
-und mit erneut flammenden Augen <br>
 durchbricht ein Lachen die Stille  <br>
-wo Zweifel war <br>
-ist wieder ein Wille <br> <br>
+
 
 //er würde dem Lied folgen
 //bis
