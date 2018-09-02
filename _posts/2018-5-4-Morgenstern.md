@@ -80,7 +80,7 @@ ein verschlossenes Tor <br> <br>
 
 war es nicht er
 mit Dolch und Ziel
-war es nicht seine Schuld
+war er nicht Schuld
 an wie tief er fiel?
 
 alles wie verschommen
@@ -89,9 +89,9 @@ war es er?
 warn es die seinen Hände
 
 die den Vater fällten
-ihn auf den Boden stießen
+das Rot vergossen
 Glück verspürten
-wie sie ihm in den Kopf schießen?
+wie sie ihm in den Kopf schossen?
 
 Gedanken wogen
 Stürme toben
@@ -120,16 +120,13 @@ die Tat war die seine <br> <br>
 
 doch nicht geglückt
 es sollte nicht sein
-seine Waffe nicht gebaut
+seine Klinge nicht gebaut
 für ein Herz aus Stein
 
-nun eine Faust sich ballt  <br>
 seinen Zweck nicht erfüllt
+doch eine Faust sich ballt
+ein schauriges Lachen
+von fehlenden Wänden widerhallt
 
-durchbricht ein Lachen die Stille  <br>
-
-
-//er würde dem Lied folgen
-//bis
-
-
+und mit glühendem Blick
+sucht der Wolf den Mon
