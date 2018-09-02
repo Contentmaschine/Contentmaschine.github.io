@@ -129,4 +129,5 @@ ein schauriges Lachen
 von fehlenden Wänden widerhallt
 
 und mit glühendem Blick
-sucht der Wolf den Mon
+schaut sich ein Wolf nach einem neuen Mond um
+
