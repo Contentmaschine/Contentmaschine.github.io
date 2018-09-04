@@ -78,25 +78,25 @@ Engelschor <br>
 ein erbitterter Kampf <br>
 ein verschlossenes Tor <br> <br>
 
-war es nicht er
-mit Dolch und Ziel
-war er nicht Schuld
-an wie tief er fiel?
+war es nicht er <br>
+mit Dolch und Ziel <br>
+war er nicht Schuld <br>
+an wie tief er fiel? <br> <br>
 
-alles wie verschommen
-wer zog Blut am Ende
-war es nicht er?
-warn es die seinen Hände
+alles wie verschommen <br>
+wer zog Blut am Ende <br>
+war es nicht er? <br>
+warn es die seinen Hände <br> <br>
 
-die den Vater fällten
-Rot vergossen
-Glück verspürten
-wie sie ihm in den Kopf schossen?
+die den Vater fällten <br>
+Rot vergossen <br>
+Glück verspürten <br>
+wie sie ihm in den Kopf schossen? <br> <br>
 
-Gedanken wogen
-Stürme toben
-im Kopf eines Zerissenen
-war alles gelogen?
+Gedanken wogen <br>
+Stürme toben <br>
+im Kopf eines Zerissenen <br>
+war alles gelogen? <br> <br>
 
 endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
@@ -118,20 +118,20 @@ folgten lange keine <br>
 er wusste jetzt <br>
 die Tat war die seine <br> <br>
 
-doch nicht geglückt
-es sollte nicht sein
-seine Klinge nicht gebaut
-für ein Herz aus Stein
+doch nicht geglückt <br>
+es sollte nicht sein <br>
+seine Klinge nicht gebaut <br>
+für ein Herz aus Stein <br> <br>
 
-seinen Zweck nicht erfüllt
-doch eine Faust sich ballt
-ein schauriges Lachen
-von fehlenden Wänden widerhallt
+seinen Zweck nicht erfüllt <br>
+doch eine Faust sich ballt <br>
+ein schauriges Lachen <br>
+von fehlenden Wänden widerhallt <br> <br>
 
-eine allerletzte 
-Träne aus Glut
-verlässt ein Auge
-zergeht in Wut
+eine allerletzte  <br>
+Träne aus Glut <br>
+verlässt ein Auge <br>
+zergeht in Wut <br> <br>
 
 er würde seine Brüder rächen
 
