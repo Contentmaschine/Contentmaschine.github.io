@@ -85,11 +85,11 @@ an wie tief er fiel?
 
 alles wie verschommen
 wer zog Blut am Ende
-war es er?
+war es nicht er?
 warn es die seinen Hände
 
 die den Vater fällten
-das Rot vergossen
+Rot vergossen
 Glück verspürten
 wie sie ihm in den Kopf schossen?
 
@@ -128,6 +128,13 @@ doch eine Faust sich ballt
 ein schauriges Lachen
 von fehlenden Wänden widerhallt
 
-und mit glühendem Blick
-schaut sich ein Wolf nach einem neuen Mond um
+eine allerletzte 
+Träne aus Glut
+verlässt ein Auge
+zergeht in Wut
+
+er würde seine Brüder rächen
+
+und wenn die Welt
+dafür brennen muss
 
