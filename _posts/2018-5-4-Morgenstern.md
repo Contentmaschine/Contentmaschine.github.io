@@ -91,7 +91,7 @@ warn es die seinen Hände <br> <br>
 die den Erschaffer ergriffen <br>
 in zu Boden zerrten <br>
 Glück verspürten <br>
-wie sie ihm Gnade verwehrten? <br> <br>
+wie sie ihm die Gnade verwehrten? <br> <br>
 
 Gedanken wogen <br>
 Stürme toben <br>
