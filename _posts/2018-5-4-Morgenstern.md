@@ -143,6 +143,6 @@ wird von der Schwärze erkannt <br>
 enthüllt das <br>
 was bis jetzt in Stille gewandt <br> <br>
 
-einen einsamen Ton
-eine kleine Melodie
+einen einsamen Ton <br>
+eine kleine Melodie <br>
 
