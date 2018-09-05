@@ -118,7 +118,7 @@ folgten lange keine <br>
 er wusste jetzt <br>
 die Tat war die seine <br> <br>
 
-doch nicht geglückt <br>
+aber nicht geglückt <br>
 es sollte nicht sein <br>
 seine Klinge nicht gebaut <br>
 für ein Herz aus Stein <br> <br>
@@ -133,17 +133,16 @@ doch eine Faust sich ballt <br>
 ein lautes Lachen <br>
 von fehlenden Wänden widerhallt <br> <br>
 
-er war nicht tot
-und der Krieg erst im Beginn
-seine Brüder verloren
-doch zwei Augen voller Sinn
+er war nicht tot <br>
+und der Krieg erst im Beginn <br>
+seine Brüder verloren <br>
+doch zwei Augen voller Sinn <br> <br>
 
-und eine Gestalt steht auf
-wird von der Schwärze erkannt
-enthüllt das
-was bis jetzt in Stille gewandt 
+und eine Gestalt steht auf <br>
+wird von der Schwärze erkannt <br>
+enthüllt das <br>
+was bis jetzt in Stille gewandt <br> <br>
 
-ein einsamer Ton
+einen einsamen Ton
 eine kleine Melodie
-
 
