@@ -83,10 +83,10 @@ mit Dolch und Ziel <br>
 war er nicht Schuld <br>
 an wie tief er fiel? <br> <br>
 
-alles wie verschommen <br>
+alles wie verschwommen <br>
 wer zog Blut am Ende <br>
-war es nicht er? <br>
-warn es nicht die seinen Hände <br> <br>
+w <br>
+warn es die seinen Hände <br> <br>
 
 die den Erschaffer ergriffen <br>
 in zu Boden zerrten <br>
@@ -123,7 +123,7 @@ es sollte nicht sein <br>
 seine Klinge nicht gebaut <br>
 für ein Herz aus Stein <br> <br>
 
-eine allerletzte  <br>
+und eine allerletzte  <br>
 Träne aus Glut <br>
 verlässt ein Auge <br>
 zergeht in Wut <br> <br>
