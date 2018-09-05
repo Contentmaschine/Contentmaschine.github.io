@@ -86,12 +86,12 @@ an wie tief er fiel? <br> <br>
 alles wie verschommen <br>
 wer zog Blut am Ende <br>
 war es nicht er? <br>
-warn es die seinen Hände <br> <br>
+warn es nicht die seinen Hände <br> <br>
 
-die den Vater fällten <br>
-Rot vergossen <br>
+die den Erschaffer ergriffen <br>
+in zu Boden zerrten <br>
 Glück verspürten <br>
-wie sie ihm in den Kopf schossen? <br> <br>
+wie sie ihm Gnade verwehrten? <br> <br>
 
 Gedanken wogen <br>
 Stürme toben <br>
@@ -123,18 +123,27 @@ es sollte nicht sein <br>
 seine Klinge nicht gebaut <br>
 für ein Herz aus Stein <br> <br>
 
-seinen Zweck nicht erfüllt <br>
-doch eine Faust sich ballt <br>
-ein schauriges Lachen <br>
-von fehlenden Wänden widerhallt <br> <br>
-
 eine allerletzte  <br>
 Träne aus Glut <br>
 verlässt ein Auge <br>
 zergeht in Wut <br> <br>
 
-er würde seine Brüder rächen
+seinen Zweck nicht erfüllt <br>
+doch eine Faust sich ballt <br>
+ein lautes Lachen <br>
+von fehlenden Wänden widerhallt <br> <br>
 
-und wenn die Welt
-dafür brennen muss
+er war nicht tot
+und der Krieg erst im Beginn
+seine Brüder verloren
+doch zwei Augen voller Sinn
+
+und eine Gestalt steht auf
+wird von der Schwärze erkannt
+enthüllt das
+was bis jetzt in Stille gewandt 
+
+ein einsamer Ton
+eine kleine Melodie
+
 
