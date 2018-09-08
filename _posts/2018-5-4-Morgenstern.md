@@ -78,17 +78,17 @@ Engelschor <br>
 ein erbitterter Kampf <br>
 ein verschlossenes Tor <br> <br>
 
-war es nicht er <br>
+war er es nicht selbst <br>
 mit Dolch und Ziel <br>
-war er nicht Schuld <br>
+war es seine Schuld <br>
 an wie tief er fiel? <br> <br>
 
 alles wie verschwommen <br>
 wer zog Blut am Ende <br>
-w <br>
+wer erreichte was <br>
 warn es die seinen Hände <br> <br>
 
-die den Erschaffer ergriffen <br>
+die den Vater ergriffen <br>
 in zu Boden zerrten <br>
 Glück verspürten <br>
 wie sie ihm die Gnade verwehrten? <br> <br>
@@ -129,7 +129,7 @@ verlässt ein Auge <br>
 zergeht in Wut <br> <br>
 
 seinen Zweck nicht erfüllt <br>
-doch eine Faust sich ballt <br>
+nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
 von fehlenden Wänden widerhallt <br> <br>
 
@@ -140,9 +140,19 @@ doch zwei Augen voller Sinn <br> <br>
 
 und eine Gestalt steht auf <br>
 wird von der Schwärze erkannt <br>
-enthüllt das <br>
+sie enthüllt das <br>
 was bis jetzt in Stille gewandt <br> <br>
 
 einen einsamen Ton <br>
-eine kleine Melodie <br>
+ein vergessenes Lied <br>
+sein Grinsen wird breiter <br>
+und er tut was ein alter Freund ihm einst riet <br> <br>
 
+er würde der Melodie folgen <br>
+und zu ihr tanzen, bis zum Schluss <br>
+mit Feuer im Blick <br>
+auch wenn die Welt dafür brennen muss <br> <br>
+
+&#8546; <br> <br>
+
+here be dragons <br>
