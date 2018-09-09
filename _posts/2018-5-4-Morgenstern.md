@@ -80,7 +80,7 @@ ein verschlossenes Tor <br> <br>
 
 war er es nicht selbst <br>
 mit Dolch und Ziel <br>
-war es seine Schuld <br>
+war er nicht Schuld <br>
 an wie tief er fiel? <br> <br>
 
 alles wie verschwommen <br>
