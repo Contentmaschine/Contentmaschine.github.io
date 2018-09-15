@@ -36,9 +36,9 @@ bleibt bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
 
-sein Kampf ist verloren <br>
-sein Wille entzweit <br>
-er schließt die Augen <br>
+ihr Kampf ist verloren <br>
+ihr Wille entzweit <br>
+sie schließt die Augen <br>
 und fällt in Dunkelheit <br> <br>
 
 &#8545; <br> <br>
@@ -58,7 +58,7 @@ und der Wahnsinn regiert <br>
 eine //einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-zwei lodernde Augen <br>
+//zwei lodernde Augen <br>
 bäumen sich auf <br>
 funkeln wild hin und her  <br>
 kommen einfach nicht drauf <br> <br>
