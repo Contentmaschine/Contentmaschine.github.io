@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morgenstern
-klappentext: wen das licht lässt fallen
+klappentext:
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
@@ -69,34 +69,15 @@ oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
 Funken sprühen <br>
-jemand versucht zu verstehn <br>
+einer versucht zu verstehn <br>
 doch ein dichter Nebel <br>
 legt sich über das was geschehn <br> <br>
-
-nur zerfetzte Flügel <br>
-Engelschor <br>
-ein erbitterter Kampf <br>
-ein verschlossenes Tor <br> <br>
-
-war er es nicht selbst <br>
-mit Dolch und Ziel <br>
-war er nicht Schuld <br>
-an wie tief er fiel? <br> <br>
 
 alles wie verschwommen <br>
 wer zog Blut am Ende <br>
 wer erreichte was <br>
-warn es die seinen Hände <br> <br>
+//warn es die seinen Hände <br> <br>
 
-die den Vater ergriffen <br>
-in zu Boden zerrten <br>
-Glück verspürten <br>
-wie sie ihm die Gnade verwehrten? <br> <br>
-
-Gedanken wogen <br>
-Stürme toben <br>
-im Kopf eines Zerissenen <br>
-war alles gelogen? <br> <br>
 
 endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
@@ -110,18 +91,9 @@ von der guten Sache <br> <br>
 
 von strahlenden Mächten <br>
 die unangreifbar schienen <br>
-und von Wesen <br>
+und von ### Wesen <br>
 die den Tod verdienen <br> <br>
 
-auf diese Worte <br>
-folgten lange keine <br>
-er wusste jetzt <br>
-die Tat war die seine <br> <br>
-
-aber nicht geglückt <br>
-es sollte nicht sein <br>
-seine Klinge nicht gebaut <br>
-für ein Herz aus Stein <br> <br>
 
 und eine allerletzte  <br>
 Träne aus Glut <br>
@@ -146,11 +118,11 @@ was bis jetzt in Stille gewandt <br> <br>
 einen einsamen Ton <br>
 ein vergessenes Lied <br>
 sein Grinsen wird breiter <br>
-und er tut was ein alter Freund ihm einst riet <br> <br>
+er tut was ihm Jemand einst riet <br> <br>
 
 er würde der Melodie folgen <br>
-und zu ihr tanzen, bis zum Schluss <br>
-mit Feuer im Blick <br>
+und zu ihr tanzen bis zum Schluss <br>
+//mit Feuer im Blick <br>
 auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
