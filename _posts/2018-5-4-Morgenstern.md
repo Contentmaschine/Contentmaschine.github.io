@@ -21,7 +21,7 @@ jetzt verletzt und verloren <br>
 durch göttliche Hand <br>
 zum Verräter erkoren <br> <br>
 
-der Aufprall naht <br>
+//der Aufprall naht <br>
 die Erde bebt <br>
 inmitten des Staubes <br>
 eine Gestalt sich erhebt <br> <br>
