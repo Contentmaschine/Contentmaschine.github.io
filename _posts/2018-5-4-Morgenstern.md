@@ -55,7 +55,7 @@ das Zwielicht jagen <br> <br>
 
 wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
-eine einsame Gestalt <br>
+eine //einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
 zwei lodernde Augen <br>
