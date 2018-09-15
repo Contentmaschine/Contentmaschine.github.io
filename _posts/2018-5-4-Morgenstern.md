@@ -103,7 +103,7 @@ zergeht in Wut <br> <br>
 seinen Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
-von fehlenden Wänden widerhallt <br> <br>
+von //fehlenden Wänden hallt <br> <br>
 
 er war nicht tot <br>
 und der Krieg erst im Beginn <br>
