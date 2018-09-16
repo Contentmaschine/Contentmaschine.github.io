@@ -55,10 +55,10 @@ das Zwielicht jagen <br> <br>
 
 wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
-eine //einsame Gestalt <br>
+eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-//zwei lodernde Augen <br>
+und zwei lodernde Augen <br>
 bäumen sich auf <br>
 funkeln wild hin und her  <br>
 kommen einfach nicht drauf <br> <br>
@@ -107,7 +107,7 @@ wird von der Schwärze erkannt <br>
 sie enthüllt das <br>
 was bis jetzt in Stille gewandt <br> <br>
 
-einen einsamen Ton <br>
+einen verlassenen Ton <br>
 ein vergessenes Lied <br>
 sein Grinsen wird breiter <br>
 er tut was ihm Jemand einst riet <br> <br>
