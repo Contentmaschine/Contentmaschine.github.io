@@ -21,9 +21,9 @@ jetzt verletzt und verloren <br>
 durch göttliche Hand <br>
 zum Verräter erkoren <br> <br>
 
-//der Aufprall naht <br>
-die Erde bebt <br>
-inmitten des Staubes <br>
+und kein Vogel singt <br>
+wie die Erde erbebt <br>
+wie inmitten des Staubes <br>
 eine Gestalt sich erhebt <br> <br>
 
 nicht mehr als ein Schatten <br>
@@ -68,15 +68,7 @@ hierher verbannt <br>
 oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
-Funken sprühen <br>
-einer versucht zu verstehn <br>
-doch ein dichter Nebel <br>
-legt sich über das was geschehn <br> <br>
 
-alles wie verschwommen <br>
-wer zog Blut am Ende <br>
-wer erreichte was <br>
-//warn es die seinen Hände <br> <br>
 
 
 endgültig ringt die Leere <br>
@@ -103,7 +95,7 @@ zergeht in Wut <br> <br>
 seinen Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
-von //fehlenden Wänden hallt <br> <br>
+von fehlenden Wänden hallt <br> <br>
 
 er war nicht tot <br>
 und der Krieg erst im Beginn <br>
@@ -122,7 +114,7 @@ er tut was ihm Jemand einst riet <br> <br>
 
 er würde der Melodie folgen <br>
 und zu ihr tanzen bis zum Schluss <br>
-//mit Feuer im Blick <br>
+mit Feuer im Blick <br>
 auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
