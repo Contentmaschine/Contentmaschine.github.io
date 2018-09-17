@@ -21,7 +21,7 @@ jetzt verletzt und verloren <br>
 durch göttliche Hand <br>
 zum Verräter erkoren <br> <br>
 
-und kein Vogel singt <br>
+und nicht ein Vogel singt <br>
 wie die Erde erbebt <br>
 wie inmitten des Staubes <br>
 eine Gestalt sich erhebt <br> <br>
@@ -32,7 +32,7 @@ ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
 doch ein Funken Leben <br>
-bleibt bestehen <br>
+blieb bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
 
@@ -53,22 +53,23 @@ Blüten tragen <br>
 und finstre Kreaturen <br>
 das Zwielicht jagen <br> <br>
 
+wo einzig zwei gleißende Striche <br>
+zu sehen sind <br>
+denen Glut und Asche  <br>
+aus den Augen rinnt <br> <br>
+
 wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-und zwei lodernde Augen <br>
-bäumen sich auf <br>
-funkeln wild hin und her  <br>
-kommen einfach nicht drauf <br> <br>
-
-ob vom Heer der Heere <br>
+vom Heer der Heere <br>
 hierher verbannt <br>
 oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
-
+diese Frage war alles
+das einzige was zählt
 
 
 endgültig ringt die Leere <br>
