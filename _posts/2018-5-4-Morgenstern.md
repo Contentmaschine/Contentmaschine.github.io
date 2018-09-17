@@ -31,7 +31,7 @@ und ein pochendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
-doch ein Funken Leben <br>
+//doch ein Funken Leben <br>
 blieb bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
@@ -71,7 +71,7 @@ hierher gesandt? <br> <br>
 in geschundene Haut
 bohren sich glühende Krallen
 Frage wie Antwort
-würden nicht gefallen
+waren nicht gefallen
 
 und endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
@@ -91,7 +91,7 @@ die den Tod verdienen <br> <br>
 eine letzte Träne  <br>
 rinnt über gepeinigte Wangen <br>
 streift verzerrte Lippen <br>
-<br> <br>
+besiegelt <br> <br>
 
 seinen Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
