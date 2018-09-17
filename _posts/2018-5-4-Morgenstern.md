@@ -53,25 +53,27 @@ Blüten tragen <br>
 und finstre Kreaturen <br>
 das Zwielicht jagen <br> <br>
 
-wo einzig zwei gleißende Striche <br>
+/* wo einzig zwei gleißende Striche <br>
 zu sehen sind <br>
 denen Glut und Asche  <br>
-aus den Augen rinnt <br> <br>
+aus den Augen rinnt */ <br> <br>
 
 wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-ob vom Heer der Heere <br>
+vom Heer der Heere <br>
 hierher verbannt <br>
 oder vom Schicksal <br>
-hierher gesandt <br> <br>
+hierher gesandt? <br> <br>
 
+in geschundene Haut
+bohren sich glühende Krallen
+Frage wie Antwort
+würden nicht gefallen
 
-
-
-endgültig ringt die Leere <br>
+und endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
@@ -83,14 +85,13 @@ von der guten Sache <br> <br>
 
 von strahlenden Mächten <br>
 die unangreifbar schienen <br>
-und von ### Wesen <br>
+und von eiskalten Wesen <br>
 die den Tod verdienen <br> <br>
 
-
-und eine allerletzte  <br>
-Träne aus Glut <br>
-verlässt ein Auge <br>
-zergeht in Wut <br> <br>
+eine letzte Träne  <br>
+rinnt über gepeinigte Wangen <br>
+streift verzerrte Lippen <br>
+<br> <br>
 
 seinen Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
@@ -102,17 +103,17 @@ und der Krieg erst im Beginn <br>
 seine Brüder verloren <br>
 doch zwei Augen voller Sinn <br> <br>
 
-und eine Gestalt steht auf <br>
+eine Gestalt steht auf <br>
 wird von der Schwärze erkannt <br>
 sie enthüllt das <br>
 was bis jetzt in Stille gewandt <br> <br>
 
 einen verlassenen Ton <br>
 ein vergessenes Lied <br>
-sein Grinsen wird breiter <br>
-er tut was ihm Jemand einst riet <br> <br>
+ihr Grinsen wird breiter <br>
+sie tut was Jemand einst riet <br> <br>
 
-er würde der Melodie folgen <br>
+sie würde der Melodie folgen <br>
 und zu ihr tanzen bis zum Schluss <br>
 mit Feuer im Blick <br>
 auch wenn die Welt dafür brennen muss <br> <br>
