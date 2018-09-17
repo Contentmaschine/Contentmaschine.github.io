@@ -63,13 +63,12 @@ und der Wahnsinn regiert <br>
 eine einsame Gestalt <br>
 den Verstand verliert <br> <br>
 
-vom Heer der Heere <br>
+ob vom Heer der Heere <br>
 hierher verbannt <br>
 oder vom Schicksal <br>
 hierher gesandt <br> <br>
 
-diese Frage war alles
-das einzige was zählt
+
 
 
 endgültig ringt die Leere <br>
