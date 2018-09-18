@@ -31,8 +31,8 @@ und ein pochendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
-//doch ein Funken Leben <br>
-blieb bestehen <br>
+doch zwischen all dem Chaos <br>
+blieb Leben bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
 
@@ -53,8 +53,8 @@ Blüten tragen <br>
 und finstre Kreaturen <br>
 das Zwielicht jagen <br> <br>
 
-/* wo einzig zwei gleißende Striche <br>
-zu sehen sind <br>
+/* wo zwei gleißende Striche <br>
+die einzigen Leuchttürme sind <br>
 denen Glut und Asche  <br>
 aus den Augen rinnt */ <br> <br>
 
@@ -78,7 +78,7 @@ jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
-der brodelnde Geist <br>
+//der brodelnde Geist <br>
 träumt von Blut und Rache <br>
 von Freunden und Feinden <br>
 von der guten Sache <br> <br>
@@ -89,16 +89,16 @@ und von eiskalten Wesen <br>
 die den Tod verdienen <br> <br>
 
 eine letzte Träne  <br>
-rinnt über gepeinigte Wangen <br>
+läuft über gepeinigte Wangen <br>
 streift verzerrte Lippen <br>
 besiegelt <br> <br>
 
 seinen Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
-von fehlenden Wänden hallt <br> <br>
+von *fehlenden* Wänden hallt <br> <br>
 
-er war nicht tot <br>
+//er war nicht tot <br>
 und der Krieg erst im Beginn <br>
 seine Brüder verloren <br>
 doch zwei Augen voller Sinn <br> <br>
@@ -111,7 +111,7 @@ was bis jetzt in Stille gewandt <br> <br>
 einen verlassenen Ton <br>
 ein vergessenes Lied <br>
 ihr Grinsen wird breiter <br>
-sie tut was Jemand einst riet <br> <br>
+//sie tut was Jemand einst riet <br> <br>
 
 sie würde der Melodie folgen <br>
 und zu ihr tanzen bis zum Schluss <br>
