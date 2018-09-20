@@ -71,14 +71,14 @@ hierher gesandt? <br> <br>
 in geschundene Haut
 bohren sich glühende Krallen
 Frage wie Antwort
-waren/würden nicht gefallen
+waren nicht gefallen
 
 endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
-//der brodelnde Geist <br>
+der zerissene Geist <br>
 träumt von Blut und Rache <br>
 von Freunden und Feinden <br>
 von der guten Sache <br> <br>
@@ -91,21 +91,21 @@ die den Tod verdienen <br> <br>
 eine letzte Träne  <br>
 läuft über gepeinigte Wangen <br>
 streift verzerrte Lippen <br>
-besiegelt <br> <br>
+be <br> <br>
 
-seinen Zweck nicht erfüllt <br>
+ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
 durch die Stille hallt <br> <br>
 
-//er war nicht tot <br>
-und der Krieg erst im Beginn <br>
-seine Brüder verloren <br>
-doch zwei Augen voller Sinn <br> <br>
+/* nicht jeder Funken erstickt <br>
+der Krieg erst im Beginn <br>
+die Brüder verloren <br>
+doch zwei Augen voller Sinn <br> <br> */
 
-eine Gestalt steht auf <br>
+und eine Gestalt steht auf <br>
 wird von der Schwärze erkannt <br>
-sie enthüllt das <br>
+sie enthüllt das/welche das enthüllt <br>
 was bis jetzt in Stille gewandt <br> <br>
 
 einen verlassenen Ton <br>
