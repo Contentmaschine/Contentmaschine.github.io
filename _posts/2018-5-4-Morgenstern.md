@@ -91,16 +91,16 @@ die den Tod verdienen <br> <br>
 eine letzte Träne  <br>
 läuft über gepeinigte Wangen <br>
 streift verzerrte Lippen <br>
-be <br> <br>
+<br> <br>
 
 ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
 //von fehlenden Wänden hallt <br> <br>
 
-und eine Gestalt steht auf <br>
+eine Gestalt steht auf <br>
 wird von der Schwärze erkannt <br>
-sie enthüllt das/welche das enthüllt <br>
+welche das enthüllt <br>
 was bis jetzt in Stille gewandt <br> <br>
 
 einen verlassenen Ton <br>
