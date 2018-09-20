@@ -6,7 +6,7 @@ klappentext:
 <> author: contentmaschine
 ---
 &#8544; <br> <br>
-etwas teilt die wolken <br>
+etwas teilt die Wolken <br>
 mit Schwingen aus Stahl <br>
 gestoßen, nicht gesprungen <br>
 das Exil keine Wahl <br> <br>
@@ -68,10 +68,10 @@ hierher verbannt <br>
 oder vom Schicksal <br>
 hierher gesandt? <br> <br>
 
-in geschundene Haut
-bohren sich glühende Krallen
-Frage wie Antwort
-waren nicht gefallen
+in geschundene Haut <br>
+bohren sich glühende Krallen <br>
+Frage wie Antwort <br>
+waren nicht gefallen <br> <br>
 
 und endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
