@@ -31,7 +31,7 @@ und ein pochendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
-//doch zwischen all dem *Chaos <br>
+//doch zwischen all dem Chaos <br>
 blieb Leben bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
@@ -73,7 +73,7 @@ bohren sich glühende Krallen
 Frage wie Antwort
 waren nicht gefallen
 
-endgültig ringt die Leere <br>
+und endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
@@ -96,12 +96,7 @@ be <br> <br>
 ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
-durch die Stille hallt <br> <br>
-
-/* nicht jeder Funken erstickt <br>
-der Krieg erst im Beginn <br>
-die Brüder verloren <br>
-doch zwei Augen voller Sinn <br> <br> */
+//von fehlenden Wänden hallt <br> <br>
 
 und eine Gestalt steht auf <br>
 wird von der Schwärze erkannt <br>
