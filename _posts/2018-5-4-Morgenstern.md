@@ -31,7 +31,7 @@ und ein pochendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
-//doch zwischen all dem Chaos <br>
+doch zwischen alledem <br>
 blieb Leben bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
@@ -53,10 +53,10 @@ Blüten tragen <br>
 und finstre Kreaturen <br>
 das Zwielicht jagen <br> <br>
 
-/* wo zwei gleißende Striche <br>
+wo zwei gleißende Striche <br>
 wie Leuchttürme sind <br>
 denen Glut und Asche  <br>
-aus den Augen rinnt */ <br> <br>
+aus den Augen rinnt <br> <br>
 
 wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
@@ -96,7 +96,7 @@ streift verzerrte Lippen <br>
 ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
-//von fehlenden Wänden hallt <br> <br>
+von fehlenden Wänden hallt <br> <br>
 
 eine Gestalt steht auf <br>
 wird von der Schwärze erkannt <br>
