@@ -31,7 +31,7 @@ und ein pochendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
-doch zwischen all dem Chaos <br>
+//doch zwischen all dem *Chaos <br>
 blieb Leben bestehen <br>
 der Tod war bereit <br>
 aber musste gehen <br> <br>
@@ -54,7 +54,7 @@ und finstre Kreaturen <br>
 das Zwielicht jagen <br> <br>
 
 /* wo zwei gleißende Striche <br>
-die einzigen Leuchttürme sind <br>
+wie Leuchttürme sind <br>
 denen Glut und Asche  <br>
 aus den Augen rinnt */ <br> <br>
 
@@ -71,9 +71,9 @@ hierher gesandt? <br> <br>
 in geschundene Haut
 bohren sich glühende Krallen
 Frage wie Antwort
-waren nicht gefallen
+waren/würden nicht gefallen
 
-und endgültig ringt die Leere <br>
+endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
@@ -96,7 +96,7 @@ besiegelt <br> <br>
 seinen Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
 ein lautes Lachen <br>
-von *fehlenden* Wänden hallt <br> <br>
+durch die Stille hallt <br> <br>
 
 //er war nicht tot <br>
 und der Krieg erst im Beginn <br>
@@ -111,7 +111,7 @@ was bis jetzt in Stille gewandt <br> <br>
 einen verlassenen Ton <br>
 ein vergessenes Lied <br>
 ihr Grinsen wird breiter <br>
-//sie tut was Jemand einst riet <br> <br>
+ihr Ziel sie jetzt sieht <br> <br>
 
 sie würde der Melodie folgen <br>
 und zu ihr tanzen bis zum Schluss <br>
