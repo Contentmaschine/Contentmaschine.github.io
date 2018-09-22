@@ -115,6 +115,8 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
+
+
 <!-- wen das Licht lässt fallen <br>
 nimmt die Dunkelheit gern <br>
 des Himmels Feind <br>
@@ -124,4 +126,4 @@ ist der Finsternis Stern <br> <br>
 sie vergaßen wer sie waren <br>
 und verloren was sie hatten <br>
 eine Gestalt verneigt sich <br>
-vor dem Orchester der Schatten <br> <br> //-->
+vor dem Orchester der Schatten <br> <br> -->
