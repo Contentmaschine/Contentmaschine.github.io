@@ -117,11 +117,9 @@ Now he's endlessly working
 <b style="font-size:1.3em">CLONK</b> it tore him apart 
 <b style="font-size:1.3em">CLONK</b> reassembled him 
 <b style="font-size:1.3em">CLONK</b> made him better
-<br>
-<br>
--Engineer clonking around-
-<br>
-<br>
+
+![_config.yml]({{ site.baseurl }}/images/CLONK.png)
+
 I ran out of tears long ago. And I don't love him anymore. I don´t even know if I ever really did. Same with existence, everything seems to be fading... reality is just another variable in its grand plan. But all-powerful?
 <br>
 <br>
