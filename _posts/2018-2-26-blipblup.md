@@ -14,7 +14,7 @@ CONTENTMASCHINE ONLINE
 
 <u>Kapitel 1: Introductions</u>
 
-<b>Sie saßen im Bett und blickten sich an, schworen sich Treue egal wo, egal wann. Er mit dem verträumtem Blick und den herbstbraunen Haaren, sie mit den himmelblauen Augen und dem Versprechen, dass sie sind und nicht waren. So saßen sie sich gegenüber und er sagte: "Ich liebe dich sehr." Ihre Augen kein Himmel, sondern ein Meer. Und lange bevor sich die ersten Schluchzer aus den Kehlen krallen, waren sie sich bereits in die Arme gefallen. Eng umschlungen vergessen sie die Welt, der liebende Engel und der traurige</b>
+<b>Sie saßen im Bett und blickten sich an, schworen sich Treue egal wo, egal wann. Er mit dem verträumten Blick und den herbstbraunen Haaren, sie mit den himmelblauen Augen und dem Versprechen, dass sie sind und nicht waren. So saßen sie sich gegenüber und er sagte: "Ich liebe dich sehr." Ihre Augen kein Himmel, sondern ein Meer. Und lange bevor sich die ersten Schluchzer aus den Kehlen krallen, waren sie sich bereits in die Arme gefallen. Eng umschlungen vergessen sie die Welt, der liebende Engel und der traurige</b>
 
 
 INCOMING MESSAGE
