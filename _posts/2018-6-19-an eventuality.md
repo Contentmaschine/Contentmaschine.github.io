@@ -6,11 +6,6 @@ klappentext: here be dragons
 <> author: contentmaschine
 ---
 
-<!-- ToDo
-
--->
-
-
 ![_config.yml]({{ site.baseurl }}/images/world.png)
 
 Our world – a place to preserve, wouldn't you agree? But what if there was a way to destroy it?
@@ -78,9 +73,6 @@ Our creation still needed a final touch. Until now we hadn't decided on a name a
 <br>
 <br>
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, just as we managed to work around our boundaries, to get to this point. The point of no return. Here be dragons.
-<br>
-<br>
--mybe here be dragons-
 <br>
 <br>
 We would broadcast the activation of π and before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. 
