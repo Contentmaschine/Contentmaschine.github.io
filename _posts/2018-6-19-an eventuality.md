@@ -121,11 +121,9 @@ Now he's endlessly working
 ![_config.yml]({{ site.baseurl }}/images/CLONKY.png)
 
 I ran out of tears long ago. And I don't love him anymore. I don´t even know if I ever really did. Same with existence, everything seems to be fading... reality is just another variable in its grand plan. But all-powerful?
-<br>
-<br>
--boy laughing-
-<br>
-<br>
+
+![_config.yml]({{ site.baseurl }}/images/boy-laughing.png)
+
 No... definitely not. The search goes on, with The Engineer at its front, because something is still out there and the god who answered our calls is scared.
 <br>
 <br>
