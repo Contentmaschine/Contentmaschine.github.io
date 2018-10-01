@@ -53,10 +53,12 @@ Blüten tragen <br>
 und finstre Kreaturen <br>
 das Zwielicht jagen <br> <br>
 
+<!--
 wo zwei gleißende Striche <br>
 wie Leuchttürme sind <br>
 denen Glut und Asche  <br>
 aus den Augen rinnt <br> <br>
+-->
 
 wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
@@ -88,10 +90,12 @@ die unangreifbar schienen <br>
 und von eiskalten Wesen <br>
 die den Tod verdienen <br> <br>
 
+<!--
 eine letzte Träne  <br>
 läuft über gepeinigte Wangen <br>
 streift verzerrte Lippen <br>
 <br> <br>
+-->
 
 ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
