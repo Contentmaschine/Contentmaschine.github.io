@@ -75,7 +75,7 @@ bohren sich glühende Krallen <br>
 Frage wie Antwort <br>
 waren nicht gefallen <br> <br>
 
-und endgültig ringt die Leere <br>
+(und) endgültig ringt die Leere <br>
 jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
