@@ -110,10 +110,9 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
-<!--zu lesen für den Wanderer
-graviert in Granit
-die folgenden Zeilen
-ein lechzendes Auge sieht
+
+
+<!--
 
 "wen das Licht lässt fallen <br>
  nimmt die Dunkelheit gern <br>
@@ -121,7 +120,7 @@ ein lechzendes Auge sieht
  ist der Finsternis Stern" <br> <br>
 
 mit diesen Worten
-kam der Weg zuvor
+trat der Weg hervor
 und aus verkohlten Stümpfen
 schossen Flügel empor
 
