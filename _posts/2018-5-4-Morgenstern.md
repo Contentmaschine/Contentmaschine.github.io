@@ -53,13 +53,6 @@ Blüten tragen <br>
 und finstre Kreaturen <br>
 das Zwielicht jagen <br> <br>
 
-<!--
-wo zwei gleißende Striche <br>
-wie Leuchttürme sind <br>
-denen Glut und Asche  <br>
-aus den Augen rinnt <br> <br>
--->
-
 wo die Ewigkeit herrscht <br>
 und der Wahnsinn regiert <br> 
 eine einsame Gestalt <br>
@@ -90,12 +83,10 @@ die unangreifbar schienen <br>
 und von eiskalten Wesen <br>
 die den Tod verdienen <br> <br>
 
-<!--
-eine letzte Träne  <br>
-läuft über gepeinigte Wangen <br>
-streift verzerrte Lippen <br>
-<br> <br>
--->
+zwei gleißende Striche <br>
+wie Leuchttürme sind <br>
+Glut und Asche  <br>
+aus ihren Augen rinnt <br> <br>
 
 ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
@@ -119,15 +110,26 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
+<!--zu lesen für den Wanderer
+graviert in Granit
+die folgenden Zeilen
+ein lechzendes Auge sieht
 
+"wen das Licht lässt fallen <br>
+ nimmt die Dunkelheit gern <br>
+ des Himmels Feind <br>
+ ist der Finsternis Stern" <br> <br>
 
-<!-- wen das Licht lässt fallen <br>
-nimmt die Dunkelheit gern <br>
-des Himmels Feind <br>
-ist der Finsternis Stern <br> <br>
+mit diesen Worten
+kam der Weg zuvor
+und aus verkohlten Stümpfen
+schossen Flügel empor
 
+//
 
 sie vergaßen wer sie waren <br>
 und verloren was sie hatten <br>
 eine Gestalt verneigt sich <br>
-vor dem Orchester der Schatten <br> <br> -->
+vor dem Orchester der Schatten <br> <br>
+
+-->
