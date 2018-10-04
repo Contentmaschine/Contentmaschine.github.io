@@ -27,7 +27,7 @@ wie inmitten des Staubes <br>
 eine Gestalt sich erhebt <br> <br>
 
 nicht mehr als ein Schatten <br>
-und ein pochendes Herz <br>
+und ein pochendes/schlagendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
@@ -86,7 +86,7 @@ die den Tod verdienen <br> <br>
 zwei gleißende Striche <br>
 wie Leuchttürme sind <br>
 Glut und Asche  <br>
-aus ihren Augen rinnt <br> <br>
+aus zwei Augen rinnt <br> <br>
 
 ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
@@ -110,9 +110,9 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
-
-
 <!--
+Schritt um Schritt
+wird die Musik 
 
 "wen das Licht lässt fallen <br>
  nimmt die Dunkelheit gern <br>
@@ -127,7 +127,7 @@ schossen Flügel empor
 //
 
 sie vergaßen wer sie waren <br>
-und verloren was sie hatten <br>
+sie verloren was sie hatten <br>
 eine Gestalt verneigt sich <br>
 vor dem Orchester der Schatten <br> <br>
 
