@@ -111,8 +111,24 @@ auch wenn die Welt dafür brennen muss <br> <br>
 &#8546; <br> <br>
 
 <!--
-Schritt um Schritt
-wird die Musik 
+wie die Füße steppen
+so die Beine schwingen
+der Takt gibt vor
+wie die Schritte klingen
+
+eine Gestalt spürt
+etwas als verloren geglaubt
+während eine Pirouette 
+sie in die Lüfte schraubt
+
+diese Klänge sind wahr
+echter als alles zuvor
+aus tieferen Herzen
+als irgendein Chor
+
+
+welche Kraft ist hier erwacht?
+
 
 "wen das Licht lässt fallen <br>
  nimmt die Dunkelheit gern <br>
