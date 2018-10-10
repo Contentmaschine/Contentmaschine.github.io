@@ -117,7 +117,7 @@ der Takt gibt vor
 wie die Schritte klingen
 
 eine Gestalt spürt
-etwas als verloren geglaubt
+etwas verloren geglaubt
 während eine Pirouette 
 sie in die Lüfte schraubt
 
@@ -125,6 +125,8 @@ diese Klänge sind wahr
 echter als alles zuvor
 aus tieferen Herzen
 als irgendein Chor
+
+
 
 
 welche Kraft ist hier erwacht?
