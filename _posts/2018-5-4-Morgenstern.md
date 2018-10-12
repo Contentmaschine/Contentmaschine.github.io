@@ -110,27 +110,20 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
-<!--
-wie die Füße steppen
-so die Beine schwingen
-der Takt gibt vor
-wie die Schritte klingen
+Füße steppen
+im Takt verflossen
+bunteste Bilder
+aus Musik gegossen
 
-eine Gestalt spürt
-etwas verloren geglaubt
-während eine Pirouette 
-sie in die Lüfte schraubt
+//plötzlich Glühwürmchen
+zeigen die Richtung
+schwingende Beine
+erreichen eine Lichtung
 
-diese Klänge sind wahr
-echter als alles zuvor
-aus tieferen Herzen
-als irgendein Chor
-
-
-
-
-welche Kraft ist hier erwacht?
-
+in ihrer Mitte
+ein Stein mit Gravur
+geschlagen in Granit
+ein Versprechen, ein Schwur
 
 "wen das Licht lässt fallen <br>
  nimmt die Dunkelheit gern <br>
@@ -138,12 +131,21 @@ welche Kraft ist hier erwacht?
  ist der Finsternis Stern" <br> <br>
 
 mit diesen Worten
-trat der Weg hervor
+trat ein Weg hervor
 und aus verkohlten Stümpfen
 schossen Flügel empor
 
-//
+unter die Chelli
+mischt sich Glockenschlag
+//aus luftigen Tiefen
+eine Kathedrale ragt
 
+die Trommeln untermalen
+was die Posaunen erreichen
+die Violinen prophezeien
+ein Treffen sondergleichen
+
+<--
 sie vergaßen wer sie waren <br>
 sie verloren was sie hatten <br>
 eine Gestalt verneigt sich <br>
