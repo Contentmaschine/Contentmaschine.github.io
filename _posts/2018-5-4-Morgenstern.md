@@ -115,10 +115,10 @@ im Takt verflossen <br>
 bunteste Bilder <br>
 aus Musik gegossen <br> <br>
 
-//plötzlich Glühwürmchen <br>
-zeigen die Richtung <br>
+//erscheinen plötzlich <br>
+zeigen Richtung <br>
 schwingende Beine <br>
-erreichen eine Lichtung <br> <br>
+kommen zu einer Lichtung <br> <br>
 
 in ihrer Mitte <br>
 ein Stein mit Gravur <br>
@@ -132,23 +132,30 @@ ein Versprechen, ein Schwur <br> <br>
 
 mit diesen Worten <br>
 trat ein Weg hervor <br>
-und aus verkohlten Stümpfen <br>
+aus verkohlten Stümpfen <br>
 schossen Flügel empor <br> <br>
 
-unter die Chelli <br>
-mischt sich Glockenschlag <br>
-//aus luftigen Tiefen <br>
+und unter Schwingenschlag <br>
+stiegen Klaviere mit ein <br>
+aus gewaltigem Luftzug <br>
+kamen Bratschen zum sein <br> <br>
+
+die Terze erzittern <br>
+vor einem Glockenschlag <br>
+aus //steigendem Nebel <br>
 eine Kathedrale ragt <br> <br>
 
-die Trommeln untermalen <br>
+und die Trommeln untermalen <br>
 was die Posaunen erreichen <br>
 die Violinen prophezeien <br>
 ein Treffen sondergleichen <br> <br>
 
-<!--
-sie vergaßen wer sie waren <br>
-sie verloren was sie hatten <br>
+so findet sie sich wieder <br>
+eine Gestalt vor einem Tor <br>
+die Musik nimmt ihre Hand <br>
+flüstert Weisheiten in ein Ohr <br> <br>
+
+"sie vergaßen wer sie waren <br>
+und verloren was sie hatten" <br>
 eine Gestalt verneigt sich <br>
 vor dem Orchester der Schatten <br> <br>
-
--->
