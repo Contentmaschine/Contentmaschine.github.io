@@ -156,6 +156,6 @@ die Musik nimmt ihre Hand <br>
 flüstert Weisheiten in ein Ohr <br> <br>
 
 "sie vergaßen wer sie waren <br>
-und verloren was sie hatten" <br>
+und/sie verloren was sie hatten" <br>
 eine Gestalt verneigt sich <br>
 vor dem Orchester der Schatten <br> <br>
