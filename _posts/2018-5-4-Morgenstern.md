@@ -110,50 +110,50 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
-Füße steppen <br>
-im Takt verflossen <br>
-bunteste Bilder <br>
-aus Musik gegossen <br> <br>
+Füße steppen
+im Takt verflossen
+bunteste Bilder
+aus Musik gegossen
 
-//erscheinen plötzlich <br>
-zeigen Richtung <br>
-schwingende Beine <br>
-kommen zu einer Lichtung <br> <br>
+//erscheinen plötzlich
+zeigen Richtung
+schwingende Beine
+kommen zu einer Lichtung
 
-in ihrer Mitte <br>
-ein Stein mit Gravur <br>
-geschlagen in Granit <br>
-ein Versprechen, ein Schwur <br> <br>
+in ihrer Mitte
+ein Stein mit Gravur
+geschlagen in Granit
+ein Versprechen, ein Schwur
 
 "wen das Licht lässt fallen <br>
  nimmt die Dunkelheit gern <br>
  des Himmels Feind <br>
  ist der Finsternis Stern" <br> <br>
 
-mit diesen Worten <br>
-trat ein Weg hervor <br>
-aus verkohlten Stümpfen <br>
-schossen Flügel empor <br> <br>
+mit diesen Worten
+trat ein Weg hervor
+aus verkohlten Stümpfen
+schossen Flügel empor
 
-und unter Schwingenschlag <br>
-stiegen Klaviere mit ein <br>
-aus gewaltigem Luftzug <br>
-kamen Bratschen zum sein <br> <br>
+und unter Schwingenschlag
+stiegen Klaviere mit ein
+aus gewaltigem Luftzug
+kamen Bratschen zum sein
 
-die Terze erzittern <br>
-vor einem Glockenschlag <br>
-aus //steigendem Nebel <br>
-eine Kathedrale ragt <br> <br>
+die Terze erzittern
+vor einem Glockenschlag
+aus //stürmischem Nebel
+eine Kathedrale ragt
 
-und die Trommeln untermalen <br>
-was die Posaunen erreichen <br>
-die Violinen prophezeien <br>
-ein Treffen sondergleichen <br> <br>
+//und die Trommeln untermalen
+//was die Posaunen erreichen
+die Violinen prophezeien
+ein Treffen sondergleichen
 
-so findet sie sich wieder <br>
-eine Gestalt vor einem Tor <br>
-die Musik nimmt ihre Hand <br>
-flüstert Weisheiten in ein Ohr <br> <br>
+so findet sie sich wieder
+eine Gestalt vor einem Tor
+die Musik nimmt ihre Hand
+flüstert Weisheiten in ein Ohr
 
 "sie vergaßen wer sie waren <br>
 und/sie verloren was sie hatten" <br>
