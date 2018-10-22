@@ -135,27 +135,52 @@ trat ein Weg hervor <br>
 aus verkohlten Stümpfen <br>
 schossen Flügel empor <br> <br>
 
-und unter Schwingenschlag <br>
+unter Schwingenschlag <br>
 stiegen Klaviere mit ein <br>
 aus gewaltigem Luftzug <br>
 kamen Bratschen zum sein <br> <br>
 
-die Terze erzittern <br>
+und die Terze erzittern <br>
 vor einem Glockenschlag <br>
-aus //stürmischem Nebel <br>
+aus verblasstem Nebel <br>
 eine Kathedrale ragt <br> <br>
 
-//und die Trommeln untermalen <br>
-//was die Posaunen erreichen <br>
+die Trommeln untermalen <br>
+was die Posaunen erreichen <br>
 die Violinen prophezeien <br>
 ein Treffen sondergleichen <br> <br>
 
 so findet sie sich wieder <br>
 eine Gestalt vor einem Tor <br>
-die Musik nimmt ihre Hand <br>
-flüstert Weisheiten in ein Ohr <br> <br>
+etwas nimmt ihre Hand <br>
+flüstert in ein Ohr <br> <br>
 
-"sie vergaßen wer sie waren <br>
-und/sie verloren was sie hatten" <br>
+"sie vergaßen wer sie waren, <br>
+sie verloren was sie hatten" <br>
 eine Gestalt verneigt sich <br>
 vor dem Orchester der Schatten <br> <br>
+
+die Musik stoppt <br>
+auf ein stilles Zeichen <br>
+Kontrabässe knarzen <br>
+wie die Spieler weichen <br> <br>
+
+nun vage ersichtlich <br>
+eine Kontur, verschwommen <br>
+ein leerer Thron <br>
+eine Kerze, zeronnen <br> <br>
+
+und die Schatten jubeln <br>
+wie eine Gestalt erkennt <br>
+zu neuen Brüdern <br>
+eine Gestalt sich bekennt <br> <br>
+
+jetzt über dem Thron <br>
+erhebt würdig den Docht <br>
+aus dunklem Kuss <br>
+ein Flämmchen pocht <br> <br>
+
+eine Welt kniet <br>
+vor Flämmchen, Flamme <br>
+das Orchester tobt <br>
+klingt in vollem Gange <br> <br>
