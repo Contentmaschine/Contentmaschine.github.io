@@ -5,7 +5,7 @@ klappentext:
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
-&#8544; <br> <br>
+<center>&#8544; <br> <br>
 etwas teilt die Wolken <br>
 mit Schwingen aus Stahl <br>
 gestoßen, nicht gesprungen <br>
@@ -183,4 +183,6 @@ ein Flämmchen pocht <br> <br>
 nun kniet eine Welt <br>
 vor Flämmchen, Flamme <br>
 das Orchester tobt <br>
-in vollem Gange <br> <br>
+in vollem Gange <br> <br> 
+
+</center>
