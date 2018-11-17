@@ -6,7 +6,7 @@ align: <center>
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
-<center>&#8544; <br> <br>
+&#8544; <br> <br>
 etwas teilt die Wolken <br>
 mit Schwingen aus Stahl <br>
 gestoßen, nicht gesprungen <br>
@@ -185,5 +185,3 @@ nun kniet eine Welt <br>
 vor Flämmchen, Flamme <br>
 das Orchester tobt <br>
 in vollem Gange <br> <br> 
-
-</center>
