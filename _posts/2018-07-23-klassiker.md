@@ -2,6 +2,7 @@
 layout: post
 title: Klassiker
 klappentext: Steine! Metaphern! Zeug!
+align: span
 <> date: Steinzeit bitches!
 <> author: contentmaschine
 ---
