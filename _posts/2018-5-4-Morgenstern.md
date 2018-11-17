@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Morgenstern</center>
+title: Morgenstern
 klappentext:
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
