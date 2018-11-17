@@ -21,7 +21,7 @@ jetzt verletzt und verloren <br>
 durch göttliche Hand <br>
 zum Verräter erkoren <br> <br>
 
-und nicht ein Vogel singt <br>
+und //nicht ein Vogel singt <br>
 wie die Erde erbebt <br>
 wie inmitten des Staubes <br>
 eine Gestalt sich erhebt <br> <br>
