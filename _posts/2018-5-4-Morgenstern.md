@@ -2,6 +2,7 @@
 layout: post
 title: Morgenstern
 klappentext:
+align: center
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
