@@ -2,7 +2,7 @@
 layout: post
 title: Morgenstern
 klappentext:
-align: <center>
+align: center
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
@@ -22,13 +22,13 @@ jetzt verletzt und verloren <br>
 durch göttliche Hand <br>
 zum Verräter erkoren <br> <br>
 
-und //nicht ein Vogel singt <br>
+und nicht ein Vogel singt <br>
 wie die Erde erbebt <br>
 wie inmitten des Staubes <br>
 eine Gestalt sich erhebt <br> <br>
 
-nicht mehr als ein Schatten <br>
-und ein pochendes/schlagendes Herz <br>
+wenig mehr als ein Schatten <br>
+und ein pochendes Herz <br>
 ein erloschenes Feuer  <br>
 und ein endloser Schmerz <br> <br>
 
@@ -86,8 +86,8 @@ die den Tod verdienen <br> <br>
 
 zwei gleißende Striche <br>
 wie Leuchttürme sind <br>
-Glut und Asche  <br>
-aus zwei Augen rinnt <br> <br>
+welchen Glut und Asche  <br>
+aus den Augen rinnt <br> <br>
 
 ihren Zweck nicht erfüllt <br>
 nun eine Faust sich ballt <br>
@@ -111,13 +111,13 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
-Füße steppen <br>
-im Takt verflossen <br>
-//bunteste Bilder <br>
-//aus Musik gegossen <br> <br>
+Füße steppen
+im Takt verflossen
+Gefühl wie Ryhthmus 
+in Bewegung gegossen
 
-//erscheinen plötzlich <br>
-zeigen Richtung <br>
+Krallen schnippen <br>
+ohne Richtung <br>
 schwingende Beine <br>
 kommen zu einer Lichtung <br> <br>
 
@@ -146,15 +146,15 @@ vor einem Glockenschlag <br>
 aus verblasstem Nebel <br>
 eine Kathedrale ragt <br> <br>
 
-//die Trommeln untermalen <br>
+/*die Trommeln untermalen <br>
 was die Posaunen erreichen <br>
 die Violinen prophezeien <br>
 ein Treffen sondergleichen <br> <br>
 
 so findet sie sich wieder <br>
 eine Gestalt vor einem Tor <br>
-///etwas nimmt ihre Hand <br>
-und flüstert in ein Ohr <br> <br>
+etwas nimmt ihre Hand <br>
+flüstert in ein Ohr <br> <br>
 
 "sie vergaßen wer sie waren, <br>
 sie verloren was sie hatten" <br>
@@ -162,11 +162,11 @@ eine Gestalt verneigt sich <br>
 vor dem Orchester der Schatten <br> <br>
 
 die Musik stoppt <br>
-(wie) auf ein stilles Zeichen <br>
+wie auf ein stilles Zeichen <br>
 Kontrabässe knarzen <br>
 wie die Spieler weichen <br> <br>
 
-//nun vage ersichtlich <br>
+vage ersichtlich <br>
 eine Kontur, verschwommen <br>
 ein leerer Thron <br>
 eine Kerze, zeronnen <br> <br>
@@ -184,4 +184,4 @@ ein Flämmchen pocht <br> <br>
 nun kniet eine Welt <br>
 vor Flämmchen, Flamme <br>
 das Orchester tobt <br>
-in vollem Gange <br> <br> 
+in vollem Gange <br> <br>
