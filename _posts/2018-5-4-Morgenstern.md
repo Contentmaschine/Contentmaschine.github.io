@@ -111,10 +111,10 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 &#8546; <br> <br>
 
-Füße steppen
-im Takt verflossen
-Gefühl wie Ryhthmus 
-in Bewegung gegossen
+Füße steppen <br>
+im Takt verflossen <br>
+Gefühl wie Ryhthmus <br>
+in Bewegung gegossen <br> <br>
 
 Krallen schnippen <br>
 ohne Richtung <br>
