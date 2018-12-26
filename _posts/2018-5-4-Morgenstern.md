@@ -113,7 +113,7 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 Füße steppen <br>
 im Takt verflossen <br>
-Gefühl wie Ryhthmus <br>
+Gefühl wie Ryhthmus  <br>
 in Bewegung gegossen <br> <br>
 
 Krallen schnippen <br>
@@ -146,11 +146,6 @@ vor einem Glockenschlag <br>
 aus verblasstem Nebel <br>
 eine Kathedrale ragt <br> <br>
 
-/*die Trommeln untermalen <br>
-was die Posaunen erreichen <br>
-die Violinen prophezeien <br>
-ein Treffen sondergleichen <br> <br>
-
 so findet sie sich wieder <br>
 eine Gestalt vor einem Tor <br>
 etwas nimmt ihre Hand <br>
@@ -161,12 +156,12 @@ sie verloren was sie hatten" <br>
 eine Gestalt verneigt sich <br>
 vor dem Orchester der Schatten <br> <br>
 
-die Musik stoppt <br>
-wie auf ein stilles Zeichen <br>
-Kontrabässe knarzen <br>
-wie die Spieler weichen <br> <br>
+die Verbeugung wird erwidert
+mit Figur wie mit Klang
+jetzt die Menge der Spieler
+sich zur Seite schwang
 
-vage ersichtlich <br>
+damit vage ersichtlich <br>
 eine Kontur, verschwommen <br>
 ein leerer Thron <br>
 eine Kerze, zeronnen <br> <br>
@@ -176,7 +171,7 @@ wie eine Gestalt erkennt <br>
 zu neuen Brüdern <br>
 eine Gestalt sich bekennt <br> <br>
 
-jetzt über dem Thron <br>
+über dem Thron <br>
 erhebt würdig den Docht <br>
 aus dunklem Kuss <br>
 ein Flämmchen pocht <br> <br>
@@ -185,3 +180,13 @@ nun kniet eine Welt <br>
 vor Flämmchen, Flamme <br>
 das Orchester tobt <br>
 in vollem Gange <br> <br>
+
+eine Gestalt in Ekstase <br>
+die Schatten im Wahn <br>
+Instrumente zerbeißend <br>
+trifft Kontrabass Zahn <br> <br>
+
+Chello weicht Schwert <br>
+einen Engel verloren <br>
+Träne weicht Lachen <br>
+einen Teufel geboren <br> <br>
