@@ -156,10 +156,10 @@ sie verloren was sie hatten" <br>
 eine Gestalt verneigt sich <br>
 vor dem Orchester der Schatten <br> <br>
 
-die Verbeugung wird erwidert
-mit Figur wie mit Klang
-jetzt die Menge der Spieler
-sich zur Seite schwang
+die Verbeugung wird erwidert <br>
+mit Figur wie mit Klang <br>
+jetzt die Menge der Spieler <br>
+sich zur Seite schwang <br> <br>
 
 damit vage ersichtlich <br>
 eine Kontur, verschwommen <br>
