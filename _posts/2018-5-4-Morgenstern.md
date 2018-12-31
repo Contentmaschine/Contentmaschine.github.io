@@ -113,7 +113,7 @@ auch wenn die Welt dafür brennen muss <br> <br>
 
 Füße steppen <br>
 im Takt verflossen <br>
-Gefühl wie Ryhthmus  <br>
+Gefühl wie Rhythmus  <br>
 in Bewegung gegossen <br> <br>
 
 Krallen schnippen <br>
@@ -164,7 +164,7 @@ sich zur Seite schwang <br> <br>
 damit vage ersichtlich <br>
 eine Kontur, verschwommen <br>
 ein leerer Thron <br>
-eine Kerze, zeronnen <br> <br>
+eine Kerze, zerronnen <br> <br>
 
 und die Schatten jubeln <br>
 wie eine Gestalt erkennt <br>
@@ -186,7 +186,7 @@ die Schatten im Wahn <br>
 Instrumente zerbeißend <br>
 trifft Kontrabass Zahn <br> <br>
 
-Chello weicht Schwert <br>
+Cello weicht Schwert <br>
 einen Engel verloren <br>
 Träne weicht Lachen <br>
 einen Teufel geboren <br> <br>
