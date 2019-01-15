@@ -74,7 +74,7 @@ jeden Gedanken nieder <br>
 eine Gestalt schreit <br>
 wieder und wieder und wieder <br> <br>
 
-der zerissene Geist <br>
+der zerrissene Geist <br>
 träumt von Blut und Rache <br>
 von Freunden und Feinden <br>
 von der guten Sache <br> <br>
