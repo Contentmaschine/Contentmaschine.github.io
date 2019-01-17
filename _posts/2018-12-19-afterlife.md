@@ -47,7 +47,7 @@ Der Teufel, fuchsteufelswild, blickte sich um und erkannte seine Arbeitskollegen
 
 <br><br>
 
-Nun trat ohne Vorwahnung der Zufall hinter einem Stein hervor, was zu einem irrsinnig lautem Grollen führte. "Das hat der Überraschung gefallen, kann ich mir denken!", worauf ein gigantisches Rülpsen folgte. Er rief "Kein Problem!", während er hinter vorgehaltener Hand kicherte: "Dabei war das nicht einmal Absicht." Der Teufel war wütender als sonst, das hatte er nicht erwartet. "ICH HÄTTE DIE VORWAHNUNG NICHT FRESSEN SOLLEN" "SIE belieben zu scherzen, Herr Lichtbringer?!" Zufall glaubte ihm kein Wort.
+Nun trat ohne Vorwahnung der Zufall hinter einem Stein hervor, was zu einem irrsinnig lautem Grollen führte. "Das hat der Überraschung gefallen, kann ich mir denken!", worauf ein gigantisches Rülpsen folgte. Er rief "Kein Problem!", während er hinter vorgehaltener Hand kicherte: "Dabei war das nicht einmal Absicht." Der Teufel war wütender als sonst, das hatte er nicht erwartet. "ICH HÄTTE DIE VORWAHNUNG NICHT FRESSEN SOLLEN" "SIE belieben zu scherzen, Herr Lucifer?!" Zufall glaubte ihm kein Wort.
 
 <br><br>
 
