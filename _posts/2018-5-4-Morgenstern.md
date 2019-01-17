@@ -6,6 +6,9 @@ align: <center>
 <> date: 2018-05-03 20:01
 <> author: contentmaschine
 ---
+ 
+ ![_config.yml]({{ site.baseurl }}/images/morgenstern.png)
+ 
 &#8544; <br> <br>
 etwas teilt die Wolken <br>
 mit Schwingen aus Stahl <br>
