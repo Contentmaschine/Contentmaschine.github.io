@@ -7,8 +7,6 @@ align: <center>
 <> author: contentmaschine
 ---
  
- ![_config.yml]({{ site.baseurl }}/images/morgenstern.png)
- 
 &#8544; <br> <br>
 etwas teilt die Wolken <br>
 mit Schwingen aus Stahl <br>
@@ -193,3 +191,5 @@ Cello weicht Schwert <br>
 einen Engel verloren <br>
 Träne weicht Lachen <br>
 einen Teufel geboren <br> <br>
+
+ ![_config.yml]({{ site.baseurl }}/images/morgenstern.png)
