@@ -31,7 +31,7 @@ Croissant und verließ, sich die Lachfalten aus dem Gesicht streichend, die Bäc
 eine einsame Träne die Wange hinunter, denn ihr einziger Wunsch war es, dass Herr K. eines Tages
 nicht mehr kommen würde. Und dafür hasste sie sich.
 
-<br> <br>
+<br>
 
 So ging Herr K. wieder, auf dem Nachhauseweg schubste er eine alte Dame auf die Straße und wie er
 wenig später die Tür aufsperrte, drehte er mit der einen Hand den Schlüssel, während er mit der
@@ -41,7 +41,7 @@ die ihn nun schon seit zwei Jahrzehnten begleitete. Zwanzig Jahre, seit seine Kr
 Tag immer und immer wieder durchleben ließ, er hatte sich verändert. Herr K. war nicht immer
 gemein gewesen.
 
-<br> <br>
+<br>
 
 Er studierte also die Zeitung, überflog Seite um Seite, als ob er nach etwas suchen würde. Und
 offensichtlich wurde er fündig, denn sein Gelächter war ohrenbetäubend. Der zweite Brüller des
@@ -50,7 +50,7 @@ der einst glücklichen Familie. Man konnte das Getöse bis auf die Straße höre
 Schenkel, bis er nicht mehr konnte und fiel grinsend in seinen Mittagsschlaf. Herr K. war vielleicht
 nicht immer gemein gewesen, doch Zeiten ändern sich.
 
-<br> <br>
+<br>
 
 Exakt eine Stunde später wachte Herr K. auf und machte sich daran seine ganz spezielle
 Futtermischung für die Enten des Ententeichs anzurühren. Denn entgegen allen Erwartungen, hatte
@@ -60,7 +60,7 @@ seine Tasche packte. Herr K. machte sich also zum Ententeich auf, doch noch bevo
 Angeln fallen konnte, griff sich Herr K. lachend an den Kopf und machte wie jeden Tag kehrt. Er hatte
 das Rattengift vergessen. Herr K. war ein Teufel.
 
-<br> <br>
+<br>
 
 Johannes war glücklich. Er war verheiratet mit der Frau seiner Träume und seit nun sieben Jahren
 zogen sie ihre Tochter in einer nicht endenden Idylle auf. Er hätte nie gedacht, dass sein Leben eine 
@@ -85,7 +85,7 @@ war zu einer unerträglich grinsenden Fratze geworden, links und rechts von Trä
 umgeben. So blieb er noch lange sitzen. Dies war das erste Mal, dass er jemanden ernsthaft in Gefahr
 brachte.
 
-<br> <br>
+<br>
 
 Herr K. hat eine Grenze überschritten.
 Mein lieber Leser, ich glaube wir müssen loslassen. Loslassen von dieser Welt, von Herrn K. Es tut mir
@@ -95,12 +95,12 @@ einfach weggehen. Einfach wegsehen. Niemand wird uns einen Vorwurf machen. Über
 fällt diesem „K“ eigentlich ein? Was fällt einem Buchstaben ein, uns unsere Geschichte zu vermiesen?
 Aber Sie haben zu entscheiden. Ich gebe Ihnen noch Zeit.
 
-<br> <br> <br>
+<br> <br>
 
 Sie schweigen also, nun denn. Herr K. bleibt am Leben und wir blicken weiterhin über seine Schulter.
 Vielleicht hat alles einen Grund. Vielleicht.
 
-<br> <br>
+<br>
 
 Es war Abend geworden und Herr K. saß auf der Veranda. Grillen durchbrachen mit ihrem Zirpen die
 Stille der Nacht und Glühwürmchen schlugen der Dunkelheit goldene Wunden. Herr K. saß auf
@@ -113,6 +113,6 @@ Mit einem Klirren zerbrach das Glas. Blut rannte seinen Arm hinunter, vermengte 
 endenden Tränen. Die linke Hand stützte nun das schmerzverzerrte Gesicht, das Foto trudelte
 langsam auf den Tisch. Es fiel auf die Zeitung, direkt neben das Bild der Verstorbenen.
 
-<br> <br>
+<br>
 
 Es war ein und dasselbe. 
