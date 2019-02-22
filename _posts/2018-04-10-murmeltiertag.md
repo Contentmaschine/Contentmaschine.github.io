@@ -12,6 +12,7 @@ im Kreis. Tag für Tag stand er um dieselbe Uhrzeit auf, machte sich den immergl
 und verzog auf ein und dieselbe Art und Weise den Mund, wenn er seine Post direkt aus dem
 Postfach in den Müll warf. Wie immer machte er sich danach auf den Weg in die Bäckerei und hielt
 dabei Ausschau nach einer Katze, um sie zu treten. Herr K. war kein netter Mensch.
+
 Annelise war Bäckerin. Schon ihre Eltern waren Bäcker gewesen und ihr größter Wunsch war es mit
 dieser Tradition nicht zu brechen. Sie ging jeden Tag mit einem Lächeln aus der Tür, da sie ihren
 Beruf liebte. Oder vielleicht weil sie sich schon auf die Törtchen freute, mit denen sie „Mähdrescher
