@@ -1,7 +1,7 @@
 ---
 layout: post
-title: afterlife |in Progress|
-klappentext:
+title: afterlife 
+klappentext: /in progress/
 align: <center>
 <> date: 2018-12-19 20:01
 <> author: contentmaschine
