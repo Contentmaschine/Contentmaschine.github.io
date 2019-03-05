@@ -68,7 +68,7 @@ und die Hitze ungeheuer <br>
 in der Mitte des Festes <br>
 ein gewaltiges Feuer <br>
 
-und alles freht und tanzt <br>
+und alles dreht und tanzt <br>
 um die Glut <br>
 ein paar werden verschlungen <br>
 vereint in Liebe nicht Wut <br>
