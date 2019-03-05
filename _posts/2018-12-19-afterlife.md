@@ -3,7 +3,7 @@ layout: post
 title: afterlife 
 klappentext: /in progress/
 align: <center>
-<> date: 2018-12-19 20:01
+<> date: 2019-02-19 20:01
 <> author: contentmaschine
 ---
 
