@@ -140,7 +140,7 @@ schossen Flügel empor <br> <br>
 unter Schwingenschlag <br>
 stiegen Klaviere mit ein <br>
 aus gewaltigem Luftzug <br>
-kamen Bratschen zum sein <br> <br>
+kamen Bratschen zum Sein <br> <br>
 
 und die Terze erzittern <br>
 vor einem Glockenschlag <br>
