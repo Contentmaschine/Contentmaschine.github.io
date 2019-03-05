@@ -1,6 +1,6 @@
 ---
 layout: post
-title: afterlife
+title: afterlife |in Progress|
 klappentext:
 align: <center>
 <> date: 2018-12-19 20:01
