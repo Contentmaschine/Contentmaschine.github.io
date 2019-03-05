@@ -7,108 +7,108 @@ align: <center>
 <> author: contentmaschine
 ---
 
-Wörter sind schön
-und Buchstaben auch
-zusammen ergeben sie ein Buch
-so ist es Brauch
+Wörter sind schön <br>
+und Buchstaben auch <br>
+zusammen ergeben sie ein Buch <br>
+so ist es Brauch <br>
+ <br> <br>
+mit Tinte und Feder <br>
+kann man Leben erschaffen <br>
+die Kraft der Worte <br>
+übertrifft die aller Waffen <br> <br>
 
-mit Tinte und Feder
-kann man Leben erschaffen
-die Kraft der Worte
-übertrifft die aller Waffen
+doch die Kunst liegt darin <br>
+das Lied zu sehn <br>
+und nur die freisten der Geister <br>
+werden die Strophen verstehn <br> <br>
 
-doch die Kunst liegt darin
-das Lied zu sehn
-und nur die freisten der Geister
-werden die Strophen verstehn
+denn jeden Tag <br>
+im Dunkel der Nacht <br>
+tanzen die Verse ums Feuer <br>
+und die Lyrik erwacht <br> <br>
 
-denn jeden Tag
-im Dunkel der Nacht
-tanzen die Verse ums Feuer
-und die Lyrik erwacht
+sie singen von <br>
+Liebe, Freude und Schmerz <br>
+ihre glasklaren Stimmen <br>
+gehen direkt ins Herz <br> <br>
 
-sie singen von
-Liebe, Freude und Schmerz
-ihre glasklaren Stimmen
-gehen direkt ins Herz
+sie berühren etwas <br>
+als verloren geglaubt <br>
+etwas vollkommen Fremdes <br>
+und doch so vertraut <br> <br>
 
-sie berühren etwas
-als verloren geglaubt
-etwas vollkommen Fremdes
-und doch so vertraut
+sie fordern einen auf <br>
+zum Tango der Zeilen <br>
+zur Feier der Jamben <br>
+um mit ihnen Zeit zu verweilen <br> <br>
 
-sie fordern einen auf
-zum Tango der Zeilen
-zur Feier der Jamben
-um mit ihnen Zeit zu verweilen
+"einen Handschlag drauf!" <br>
+sagt ganz kokett <br>
+eine Dame in Rot <br>
+"Gestatten, Sonett." <br> <br>
 
-"einen Handschlag drauf!"
-sagt ganz kokett
-eine Dame in Rot
-"Gestatten, Sonett."
+Hand schlägt auf Hand <br>
+der Pakt ist beschlossen <br>
+die Menge bereit <br>
+und das Konfetti geschossen <br> <br>
 
-Hand schlägt auf Hand
-der Pakt ist beschlossen
-die Menge bereit
-und das Konfetti geschossen
-
-das Zeichen zum Start
-die Fanfaren erklingen
-Jubelschreie
-der Tanz kann beginnen
-
-
-die Ekstase des Raums
-ist greifbar und nah
-die Schritte sind schnell
-vergessen was wird und was war
-
-die Tänzer ungehalten
-und die Hitze ungeheuer
-in der Mitte des Festes
-ein gewaltiges Feuer
-
-und alles freht und tanzt
-um die Glut
-ein paar werden verschlungen
-vereint in Liebe nicht Wut
-
-das Feuer lodert auf
-immer höher, immer greller
-die Menge steht still
-einzig die Herzen schlagen heller
-
-und die Funken fliegen
-stumm durch den Raum
-das Bild ein Gemälde
-wie aus einem vergessenen Traum
-
-nur das mächtige Prasseln
-durchbricht wie ein Atmen die Stille
-auf einmal ersichtlich
-hinter dem Fest steht ein Wille
-
-die Suche zu beenden
-nach Grund und nach Sinn
-die Frage zu töten
-nach werd oder bin
-
-und die Flammen erlöschen
-in einem Stück
-lassen an ihrer Stelle
-einen Reim zurück
-
-einen Reim so zart
-wie ein Blatt im Wind
-einen Reim so traurig
-wie eine weinendes Kind
-einen Reim so schön
-wie ein erster Kuss
-einen Reim so unendlich
-der beweist dass nicht alles enden muss
+das Zeichen zum Start <br>
+die Fanfaren erklingen <br>
+Jubelschreie <br>
+der Tanz kann beginnen <br> <br> <br>
 
 
-und damit wurden die Tänzer
-zu Helden erkoren
-denn wahrlich
-es wurde ein Reim geboren
+die Ekstase des Raums <br>
+ist greifbar und nah <br>
+die Schritte sind schnell <br>
+vergessen was wird und was war <br> <br>
+
+die Tänzer ungehalten <br>
+und die Hitze ungeheuer <br>
+in der Mitte des Festes <br>
+ein gewaltiges Feuer <br> <br>
+
+und alles freht und tanzt <br>
+um die Glut <br>
+ein paar werden verschlungen <br>
+vereint in Liebe nicht Wut <br> <br>
+
+das Feuer lodert auf <br>
+immer höher, immer greller <br>
+die Menge steht still <br>
+einzig die Herzen schlagen heller <br> <br>
+
+und die Funken fliegen <br>
+stumm durch den Raum <br>
+das Bild ein Gemälde <br>
+wie aus einem vergessenen Traum <br> <br>
+
+nur das mächtige Prasseln <br>
+durchbricht wie ein Atmen die Stille <br>
+auf einmal ersichtlich <br>
+hinter dem Fest steht ein Wille <br> <br>
+
+die Suche zu beenden <br>
+nach Grund und nach Sinn <br>
+die Frage zu töten <br>
+nach werd oder bin <br> <br>
+
+und die Flammen erlöschen <br>
+in einem Stück <br>
+lassen an ihrer Stelle <br>
+einen Reim zurück <br> <br>
+
+einen Reim so zart <br>
+wie ein Blatt im Wind <br>
+einen Reim so traurig <br>
+wie eine weinendes Kind <br>
+einen Reim so schön <br>
+wie ein erster Kuss <br>
+einen Reim so unendlich <br>
+der beweist dass nicht alles enden muss <br> <br> <br>
+
+
+und damit wurden die Tänzer <br>
+zu Helden erkoren <br>
+denn wahrlich <br>
+es wurde ein Reim geboren <br>
