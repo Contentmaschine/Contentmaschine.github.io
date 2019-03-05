@@ -5,7 +5,7 @@ klappentext: Steine! Metaphern! Zeug!
 <> date: Steinzeit bitches!
 <> author: contentmaschine
 ---
-<u>Wie ein Stein</u> <br> 
+<b>Wie ein Stein</b> <br> 
 
 schneller, schneller <br>
 immer weiter <br>
@@ -19,7 +19,7 @@ Brüder wir warn auch so groß <br>
 nie verzagen und selbst dann: <br>
 unsere Reise fängt gerade erst an <br> <br>
 
-<u>Laub</u> <br>
+<b>Laub</b> <br>
 
 wie rotglänzende Blätter <br>
 im Licht der untergehenden Sonne <br>
