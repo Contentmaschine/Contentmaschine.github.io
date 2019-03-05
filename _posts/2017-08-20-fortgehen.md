@@ -10,8 +10,8 @@ align: <center>
 Wörter sind schön <br>
 und Buchstaben auch <br>
 zusammen ergeben sie ein Buch <br>
-so ist es Brauch <br>
- <br> <br>
+so ist es Brauch <br> <br>
+
 mit Tinte und Feder <br>
 kann man Leben erschaffen <br>
 die Kraft der Worte <br>
@@ -56,7 +56,6 @@ das Zeichen zum Start <br>
 die Fanfaren erklingen <br>
 Jubelschreie <br>
 der Tanz kann beginnen <br> <br> <br>
-
 
 die Ekstase des Raums <br>
 ist greifbar und nah <br>
@@ -106,7 +105,6 @@ einen Reim so schön <br>
 wie ein erster Kuss <br>
 einen Reim so unendlich <br>
 der beweist dass nicht alles enden muss <br> <br> <br>
-
 
 und damit wurden die Tänzer <br>
 zu Helden erkoren <br>
