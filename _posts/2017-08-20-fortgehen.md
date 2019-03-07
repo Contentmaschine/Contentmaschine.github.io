@@ -55,8 +55,7 @@ und das Konfetti geschossen <br>
 das Zeichen zum Start <br>
 die Fanfaren erklingen <br>
 Jubelschreie <br>
-der Tanz kann beginnen <br> <br>
-
+der Tanz kann beginnen <br>
 
 die Ekstase des Raums <br>
 ist greifbar und nah <br>
