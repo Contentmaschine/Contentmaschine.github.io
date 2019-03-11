@@ -81,3 +81,25 @@ Der Lavajunge war auf seinen Knien, das Pech in seinen Armen. Lucifer hauchte ih
 <br><br>
 
 Damit schritt das Equilibrium aus der Dunkelheit, welche in Schrecken das Licht fallen gelassen hatte. Nun gut beleuchtet, konnte man erkennen, dass es in allen Hinsichten massiv war. Es war größer, breiter, länger und dichter als all die anderen Kräfte, sowie viel seiner Masse sich in den, genau wie eine mathematische Formel definierten, Oberarmen konzentrierte. Ihm folgte ein kleines Kind, das Gleichgewicht. Verrotzt mit roten Wangen zeigte das schwer zu beschreibende Wesen auf den Teufel, worauf das Equilibrium seine gewaltigen Fingerknöchel knacksen ließ (worauf wiederum ein kleines Erdbeben folgte). "Zu weit, Lichtbringer. Viel." 
+
+<br><br>
+
+Granitgraue Wolken zogen auf und schwarze Schemen stiegen aus dem Untergrund, wie der Teufel all die Gefallen der letzten Äonen einforderte. Armeen an Kreaturen marschierten auf, Drachen flogen brüllend über den dunklen Himmel, furchtbare Wesen aus furchtbaren Legenden wurden Wirklichkeit. Auf brennenden Hufen näherte sich ein einsames Ross, ein schattenspeiendes Schwert auf seinen Sattel geschnallt. Ehrfürchtig nahm der Teufel die Waffe entgegen und richtete sie mit den Worten "DOCH KEIN BOXKAMPF." auf das Equilibrium und sprach wei ZACK
+
+<br><br>
+
+Zähne flogen durch die Luft. Und ein Auge. Vielmehr Einzelteile im Wert eines gesamten Teufels. Ein Kinnhaken der die Welt aus ihren Angeln heben hätte können, dazu benutzt den Teufel auf seine elementarsten Teile zu reduzieren. Mit einem Fingerschnipp des Gleichgewichts verflogen all seine Spielereien. Es drehte sich zur Menschheit um: "Jetzt zu dir. Du kannst nicht bleiben."
+
+<br><br>
+
+Die Menschheit kniete: "Wir hoffen auf eine neue Welt mit einem glücklichen Held. Alles was wir brauchen ist in uns. Alles was sein kann ist Kunst. Keinen tieferen Sinn, nur bin... das ist was wir wollen." "Und das ist was sie sollen.", war das Urteil des Gleichgewichts. Nun vollführte es eine äußerst komplexe Bewegung mit seinen Fingern. Eine starke Brise fuhr durch die anwesenden Nasen, sie roch nach Zimt. Kleine blaue Blitze formten und verbeugten sich, die Luft knisterte. Eine golden strahlende Eichel materialisierte sich vor der Menschheit und schlug mit einem Donner in den Boden ein. Rote Fäden kamen aus dem Körper des fortwährend tanzenden Gleichgewichts, wie sie die Eiche in die Höhe peitschten. Und Holz und Holz, immer mehr davon, bis ein gewaltiger Baum war, in dessen Krone Äste den Umriss einer Tür bildeten. Dazwischen malte sich ein Gemälde. Ein Gemälde von grünen Wiesen und blauen Wassern und grauen Bergen. Man hörte Vogelgezwitscher und Ziegengeblöke. Es roch nach Erde und Heimat. Tausend Tränen rannen der Menschheit über das Gesicht.
+
+//
+
+<br><br>
+
+Das Equilibrium nahm die Menschheit in seine großen Pranken und hob sie langsam auf das Portal zu. Sie blickte zurück.
+
+<br><br>
+
+Der Zufall war schon lange wieder irgendwo und das Schicksal dort wo es sein musste und beim Glauben war man sich nicht ganz sicher und das Glück auf der Suche nach einem neuen Erzfeind und die Überraschung dort wo man sie nicht erwartete und das Licht wieder bei Bewusstsein, nur Tod und Verderben standen traurig mit dem Gleichgewicht da und winkten. Die Menschheit winkte zurück.
