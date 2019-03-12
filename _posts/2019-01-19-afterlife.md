@@ -1,13 +1,13 @@
 ---
 layout: post
 title: afterlife 
-klappentext: /in progress/
+klappentext:
 align: <center>
 <> date: 2019-02-19 20:01
 <> author: contentmaschine
 ---
 <p align="justify">
-  
+
 "Ach", sagte der Tod. "das hast du alles ganz falsch verstanden." "Du bist also nicht hier um mich mitzunehmen?" "Nein! Um Gottes Willen, ich bin doch nicht der Teufel. Ich schaue nur zu." Der Tod nahm sich eine Packung Chips aus seinem Mantel und warf sich ein paar davon in die dunkle Leere, die seine Kapuze war. Man hörte ein Klimpern und wenig später konnte man die einzelnen Chips wieder unter seiner Kutte hervorrollen sehen. "Ups", murmelte der Sensenmann und bückte sich knarzend um die Chips wieder aufzuheben, welche er dann gleich wieder in seiner Kapuze verschwinden ließ. "Ups" 
 
 <br><br>
@@ -16,11 +16,11 @@ Jahre später kam das Schicksal vorbei. "Ich durfte nicht früher kommen können
 
 <br><br>
 
-Gleich darauf tauchte aus heiterem Himmel der Zufall auf. "Das konnte jetzt aber keiner ahnen!", rief er mit einem lauten Lachen. "Ich überrasche mich immer wieder selbst, hallo, hast du einen Namen? Ich nicht, habe ich mir abgewöhnt, war sowieso jedesmal ein anderer!", der Tod konnte sich ein Kichern nicht verkneifen, sein ganzer Körper klapperte, ein Chip flog aus seiner Kapuze heraus und traf einen weißen Hasen der plötzlich vor Zufalls Füßen saß. "Halleluja! Das hätte ich nie erwartet", nun schüttelte es auch den Zufall vor Lachen, der verwirrte Hase wurde genauso plötzlich wie er aufgetaucht war von einer monströsen Schildkröte verschluckt, auf welche der Zufall nun aufstieg und unter fortwährendem Schenkelklopfen davonritt. Der Tod hatte sich nun wieder gefangen und jolte: "Hihi, du hast aber wirklich kein Glück."
+Gleich darauf tauchte aus heiterem Himmel der Zufall auf. "Das konnte jetzt aber keiner ahnen!", rief er mit einem lauten Lachen. "Ich überrasche mich immer wieder selbst, hallo, hast du einen Namen? Ich nicht, habe ich mir abgewöhnt, war sowieso jedes Mal ein anderer!", der Tod konnte sich ein Kichern nicht verkneifen, sein ganzer Körper klapperte, ein Chip flog aus seiner Kapuze heraus und traf einen weißen Hasen der plötzlich vor Zufalls Füßen saß. "Halleluja! Das hätte ich nie erwartet", nun schüttelte es beide vor Lachen, der verwirrte Hase wurde genauso plötzlich wie er aufgetaucht war von einer monströsen Schildkröte verschluckt, auf welche der Zufall nun aufstieg und unter fortwährendem Schenkelklopfen davonritt. Der Tod hatte sich nun wieder gefangen und johlte: "Hihi, du hast aber wirklich kein Glück."
 
 <br><br>
 
-Auf einmal hörte man lautes Motorengedröhne aus der Ferne, eine gewaltige Staubwolke hinter sich ziehend fuhr ein Taxi vor. Die Tür flog auf und das Glück stieg mit zerwuschelten Haaren aus. "Jede Ampel war rot, das ist mir noch nie passiert!" Der Fahrer des Taxis klopfte an die Scheibe. "Jaja", murmelte das Glück und bückte sich kurz um die Geldbörse zu finden mit der es den Fahrer bezahlen konnte. Als es dann in diesem das Pech erkannte, zückte es ein Messer und rannte schreiend auf das Taxi zu, was unter Pechs brüllendem Gelächter wegdüste. Das Glück klappte sein Messer wieder ein und streifte sich ratlos durch die Haare. "Irgendwann krieg ich ihn, ganz sicher."
+Auf einmal hörte man lautes Motorengedröhne aus der Ferne, eine gewaltige Staubwolke hinter sich ziehend fuhr ein Taxi vor. Die Tür flog auf und das Glück stieg mit zerwuschelten Haaren aus. "Jede Ampel war rot, das ist mir noch nie passiert!" Der Fahrer des Taxis klopfte an die Scheibe. "Jaja", murmelte das Glück und bückte sich kurz um die Geldbörse zu finden mit der es den Fahrer bezahlen konnte. Als es dann in diesem das Pech erkannte, zückte es ein Messer und rannte schreiend auf das Taxi zu, welches unter Pechs brüllendem Gelächter wegdüste. Das Glück klappte sein Messer wieder ein und streifte sich ratlos durch die Haare. "Irgendwann krieg ich ihn, ganz sicher."
 
 <br><br>
 
@@ -40,7 +40,7 @@ Beide landeten in der Pranke des Fürsten der Finsternis höchstpersönlich. "IH
 
 <br><br>
 
-Kurz lugte die Liebe aus einem Baum hervor, war aber zu schüchtern, um wirklich einen Auftritt zu machen.
+Kurz lugte die Liebe aus einem Baum hervor, war aber zu schüchtern um wirklich einen Auftritt zu machen.
 
 <br><br>
 
@@ -60,7 +60,7 @@ Denn jetzt konnte man leise schlurfend neue Präsenzen erspüren. Es war das Ele
 
 <br><br> 
 
-Die Menschheit, nun enttarnt, blickte auf, graue Haare verdeckten regenbogenfarbene Augen. War sie bis jetzt ein unscheinliches Wesen gewesen, so konnte man sie nun schwer beschreiben. Sie schien tausend Dinge auf einmal zu sein, tausend Eigenschaften in einem zu vereinen. Ihr Ausdruck wechselte fließend, ihre Bewegungen waren ruckartig, doch eine gewisse Eleganz konnte nicht geleugnet werden. Sie seufzte und lachte zugleich: "Eine Existenz im Exil, uns ohnehin nicht gefiel. Es scheint nach der Unsterblichkeit zu streben, führte uns weiter weg vom Leben. Auch wenn wir dich betrogen und belogen, konnten wir dich nicht schonen, im Dienste unserer Emotionen. Wir mussten dein Heim niederbrennen und deine Liebsten niederrennen, es tut uns einmal Leid und zweimal nicht, Teufel, du siehst weit, aber wir sehen Licht. Getrieben von tausend Stimmen, Gedanken und Gefühlen, auch in der Hölle mussten wir wühlen." Dem Teufel rannen schnell verdampfende Tränen über die Wangen: "DU BIST WAHNSINNIG. GANZ UND GAR. DU WIRST ENDEN. IHR ALLE." "Dann muss das Sterben wohl beginnen. Wir werden Lieder über dich singen. Zwar brechen wir dir die Knochen, aber das ist versprochen." Die Menschheit zog mit einem scharfen Ton das gewaltigste Schwert, was jemals gesehen worden war. Der Teufel fetzte sich die letzte Träne weg und sprach: "ICH HABE VORBEREITUNGEN GETROFFEN. DU KANNST NICHT GEWINNEN." Von weitem hörte man Motorengedröhne.
+Die Menschheit, nun enttarnt, blickte auf, graue Haare verdeckten regenbogenfarbene Augen. War sie bis jetzt ein unscheinliches Wesen gewesen, so konnte man sie nun schwer beschreiben. Sie schien tausend Dinge auf einmal zu sein, tausend Eigenschaften in einem zu vereinen. Ihr Ausdruck wechselte fließend, ihre Bewegungen waren ruckartig, doch eine gewisse Eleganz konnte nicht geleugnet werden. Sie lachte und seufzte zugleich: "Eine Existenz im Exil, uns ohnehin nicht gefiel. Es scheint nach der Unsterblichkeit zu streben, führte uns weiter weg vom Leben. Auch wenn wir dich betrogen und belogen, konnten wir dich nicht schonen, im Dienste unserer Emotionen. Wir mussten dein Heim niederbrennen und deine Liebsten niederrennen, es tut uns einmal Leid und zweimal nicht, Teufel, du siehst weit, aber wir sehen Licht. Getrieben von tausend Stimmen, Gedanken und Gefühlen, auch in der Hölle mussten wir wühlen." Dem Teufel rannen schnell verdampfende Tränen über die Wangen: "DU BIST WAHNSINNIG. GANZ UND GAR. DU WIRST ENDEN. IHR ALLE." "Dann muss das Sterben wohl beginnen. Wir werden Lieder über dich singen. Zwar brechen wir dir die Knochen, aber das ist versprochen." Die Menschheit zog mit einem scharfen Ton das gewaltigste Schwert, was jemals gesehen worden war. Der Teufel fetzte sich die letzte Träne weg und sprach: "ICH HABE VORBEREITUNGEN GETROFFEN. DU KANNST NICHT GEWINNEN." Von weitem hörte man Motorengedröhne.
 
 <br><br>
 
@@ -76,7 +76,7 @@ Die Menschheit bereitete sich mental darauf vor ihr Schwert loslassen zu müssen
 
 <br><br>
 
-Der Lavajunge war auf seinen Knien, das Pech in seinen Armen. Lucifer hauchte ihm einen letzten Kuss auf die dunklen Lippen, bevor er zitternd aufstand. In sein Gesicht standen Gefühle geschrieben, die Schneemänner schmelzen könnten. Das wütende Stapfen kam immer näher, immer bedrohlicher. Der Höllenkaiser schlug sich mit zwei in Flammen stehenden Fäusten auf die Brust und machte sich bereit für den Boxkampf des Jahrhunderts.
+Der Lavajunge war auf seinen Knien, das Pech in seinen Armen. Lucifer hauchte ihm noch einen letzten Kuss auf die dunklen Lippen, bevor er zitternd aufstand. In sein Gesicht standen Gefühle geschrieben, die Schneemänner schmelzen könnten. Das wütende Stapfen kam immer näher, immer bedrohlicher. Der Höllenkaiser schlug sich mit zwei in Flammen stehenden Fäusten auf die Brust und machte sich bereit für den Boxkampf des Jahrhunderts.
 
 <br><br>
 
@@ -84,7 +84,7 @@ Damit schritt das Equilibrium aus der Dunkelheit, welche in Schrecken das Licht 
 
 <br><br>
 
-Granitgraue Wolken zogen auf und schwarze Schemen stiegen aus dem Untergrund, wie der Teufel all die Gefallen der letzten Äonen einforderte. Armeen an Kreaturen marschierten auf, Drachen flogen brüllend über den dunklen Himmel, furchtbare Wesen aus furchtbaren Legenden wurden Wirklichkeit. Auf brennenden Hufen näherte sich ein einsames Ross, ein schattenspeiendes Schwert auf seinen Sattel geschnallt. Ehrfürchtig nahm der Teufel die Waffe entgegen und richtete sie mit den Worten "DOCH KEIN BOXKAMPF." auf das Equilibrium und sprach wei ZACK
+Granitgraue Wolken zogen auf und schwarze Schemen stiegen aus dem Untergrund, wie der Teufel all die Gefallen der letzten Jahrtausende einforderte. Armeen an Kreaturen marschierten auf, Drachen flogen brüllend über den dunklen Himmel, furchtbare Wesen aus furchtbaren Legenden wurden Wirklichkeit. Auf brennenden Hufen näherte sich ein einsames Ross, ein schattenspeiendes Schwert auf seinen Sattel geschnallt. Ehrfürchtig nahm der Teufel die Waffe entgegen und richtete sie mit den Worten "DOCH KEIN BOXKAMPF." auf das Equilibrium und sprach wei ZACK
 
 <br><br>
 
@@ -92,14 +92,18 @@ Zähne flogen durch die Luft. Und ein Auge. Vielmehr Einzelteile im Wert eines g
 
 <br><br>
 
-Die Menschheit kniete: "Wir hoffen auf eine neue Welt mit einem glücklichen Held. Alles was wir brauchen ist in uns. Alles was sein kann ist Kunst. Keinen tieferen Sinn, nur bin... das ist was wir wollen." "Und das ist was sie sollen.", war das Urteil des Gleichgewichts. Nun vollführte es eine äußerst komplexe Bewegung mit seinen Fingern. Eine starke Brise fuhr durch die anwesenden Nasen, sie roch nach Zimt. Kleine blaue Blitze formten und verbeugten sich, die Luft knisterte. Eine golden strahlende Eichel materialisierte sich vor der Menschheit und schlug mit einem Donner in den Boden ein. Rote Fäden kamen aus dem Körper des fortwährend tanzenden Gleichgewichts, wie sie die Eiche in die Höhe peitschten. Und Holz und Holz, immer mehr davon, bis ein gewaltiger Baum war, in dessen Krone Äste den Umriss einer Tür bildeten. Dazwischen malte sich ein Gemälde. Ein Gemälde von grünen Wiesen und blauen Wassern und grauen Bergen. Man hörte Vogelgezwitscher und Ziegengeblöke. Es roch nach Erde und Heimat. Tausend Tränen rannen der Menschheit über das Gesicht.
-
-//
+Die Menschheit kniete: "Alles was wir brauchen ist in uns. Alles was sein kann ist Kunst. Keinen tieferen Sinn, nur bin... das ist was wir wollen." "Und das ist was sie sollen.", war das Urteil des Gleichgewichts. Nun vollführte es eine äußerst komplexe Bewegung mit seinen Fingern. Eine starke Brise fuhr durch die anwesenden Nasen, sie roch nach Zimt. Kleine blaue Blitze formten und verbeugten sich, die Luft knisterte. Eine golden strahlende Walnuss materialisierte sich vor der Menschheit und schlug mit einem Donner in den Boden ein. Rote Fäden kamen aus dem Körper des fortwährend tanzenden Gleichgewichts, wie sie das wachsende Pflänzchen in die Höhe peitschten. Und Holz und Holz, immer mehr davon, bis ein gewaltiger Baum war, in dessen Krone Äste den Umriss einer Tür bildeten. Dazwischen malte sich ein Gemälde. Ein Gemälde von grünen Wiesen und blauen Wassern und grauen Bergen. Man hörte Vogelgezwitscher und Ziegengeblöke. Es roch nach Erde und Heimat. Tausend Tränen rannen der Menschheit über das Gesicht. "Was einmal geht, kann nie wieder kommen. Keine Flucht vor dem Tod, sondern Freiheit im Leben. Das ist das letzte Geschenk, das wir dir geben."
 
 <br><br>
 
-Das Equilibrium nahm die Menschheit in seine großen Pranken und hob sie langsam auf das Portal zu. Sie blickte zurück.
+Das Equilibrium nahm die Menschheit in eine seiner großen Pranken und hob sie langsam auf das Portal zu. Sie blickte zurück.
 
 <br><br>
 
 Der Zufall war schon lange wieder irgendwo und das Schicksal dort wo es sein musste und beim Glauben war man sich nicht ganz sicher und das Glück auf der Suche nach einem neuen Erzfeind und die Überraschung dort wo man sie nicht erwartete und das Licht wieder bei Bewusstsein, nur Tod und Verderben standen traurig mit dem Gleichgewicht da und winkten. Die Menschheit winkte zurück.
+
+<br><br><br>
+
+Als sie nahe genug waren, berührte sie das Gemälde und fand sich auf einer Lichtung wieder. Bäume oben, Gras unten. Nicht weit von ihr rehten ein paar Rehe und unter ihr raupten Raupen. Irgendwo floss Wasser, wo anders wehte Wind. Es war wunderschön. Das Portal zündelte und knarzte, wie es sich langsam schloss, die eine Hand des Equilibriums immer noch auf dieser Seite. Und das würde sich auch nicht mehr ändern. Die Menschheit spürte ein leichtes Echo des Todes verbleiben und öffnete weit die Arme. Bruder unter Brüdern. Die Menschheit blickte in die Ferne. Sie hatte eine Welt zu beleben.
+
+Lavajunge, Feuerbub, Dämonenenthusiast, Blumenhasser, gehörnter Jüngling, böser Schönling, Seelenverschlinger, Lichtbringer, Morgenstern, Krallentyp, Blütentöter, Schattenkönig, Dunkeltänzer, Graf der Eifersucht, Landvogt der Furcht, Herzog der Schummrigkeit, Kurfürst der Zwietracht, Aschebaron, Pfalzgraf Widerling, Herzbrecher, düsterer Charmeur, Belzebub
