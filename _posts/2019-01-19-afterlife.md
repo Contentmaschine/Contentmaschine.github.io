@@ -80,7 +80,7 @@ Der Lavajunge war auf seinen Knien, das Pech in seinen Armen. Lucifer hauchte ih
 
 <br><br>
 
-Damit schritt das Equilibrium aus dem Schatten, welche in Schrecken das Licht fallen gelassen hatte. Nun gut beleuchtet, konnte man erkennen, dass es in allen Hinsichten massiv war. Es war größer, breiter, länger und dichter als all die anderen Kräfte, sowie viel seiner Masse sich in den, genau wie eine mathematische Formel definierten, Oberarmen konzentrierte. Ihm folgte ein kleines Kind, das Gleichgewicht. Verrotzt mit roten Wangen zeigte das schwer zu beschreibende Wesen auf den Teufel, worauf das Equilibrium seine gewaltigen Fingerknöchel knacksen ließ (worauf wiederum ein kleines Erdbeben folgte). "Zu weit, Lichtbringer. Viel." 
+Damit schritt das Equilibrium aus dem Schatten, welcher in Schrecken das Licht fallen gelassen hatte. Nun gut beleuchtet, konnte man erkennen, dass es in allen Hinsichten massiv war. Es war größer, breiter, länger und dichter als all die anderen Kräfte, sowie viel seiner Masse sich in den, genau wie eine mathematische Formel definierten, Oberarmen konzentrierte. Ihm folgte ein kleines Kind, das Gleichgewicht. Verrotzt mit roten Wangen zeigte das schwer zu beschreibende Wesen auf den Teufel, worauf das Equilibrium seine gewaltigen Fingerknöchel knacksen ließ (worauf wiederum ein kleines Erdbeben folgte). "Zu weit, Lichtbringer. Viel." 
 
 <br><br>
 
