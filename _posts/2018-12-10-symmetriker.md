@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Die Symmetriker 
-klappentext: Feuer mit Feuer /in progress/
+title: Die Symmetriker //
+klappentext: Feuer mit Feuer
 <> date: 2018-11-10 17:38
 <> author: contentmaschine
 ---
