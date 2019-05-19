@@ -30,4 +30,20 @@ sind Erkenntnisse die man nur findet wenn sin'(x) gleich null ist. Sie beinhalte
 
 <b>Manche Leute</b>
 haben ein Ziel. Einen eindeutigen Platz in dieser Welt. Eine Aufgabe die ihnen das Schicksal persönlich erteilt hat. Die mit brennendem Schwert durch die Dunkelheit ziehen. Ich bin auf der Queste mit meinen Fingern eine komplexe Melodie klopfen zu können. Und manchmal verliere ich den Glauben, dass es machbar ist. Finger sind einfach zu banal, komplexe Melodien benötigen mindestens zwei Geigen und ein Klavier. Doch dann schaue ich zu den Sterne und erkenne wieder wieso ich begonnen habe. Für alle die zuvor gescheitert sind. Auf deren Schultern ich stehe. Dann begreife ich das Ausmaß meiner Verantwortung und schreie dem Polarstern meine Hingabe entgegen. Welt, du kannst dich auf mich verlassen.
+
+<br><br>
+
+<b>Ich bin oberflächlich.</b> Wahrheiten sind aus den tiefsten Gefängnissen der Kristallkavernen meiner Seele entkommen, haben sich durch alle sieben Höllen zur Oberfläche gekämpft und sind nun in bitterster Seenot im Jetzt. Häfen sind geschlossen, aber ein Nordwind zieht auf. Kompass zeigt nach oben. 
+
+<br><br>
+
+Die Humpen standen randvoll als die Tavernentür aufschwang. Ein sanfter Geruch von Zimt erfüllte den Raum, wie braune Augen eintraten. Traurige Mundwinkel verfolgten traurig die braunen Haare, als einer von ihnen erkannte wer sie waren. Es ging ein Raunen durch die Menge. Geflüster und Gemunkel durchzog die anwesenden Ohren, wie der braune Bart auf langen Schritten zum Wirt marschierte. Er war groß wie ein Hüne neben einer Düne, hatte aber doch eine Eleganz wie ein Tanz. Seine Ausrüstung war die eines Abenteurers, neben einem unscheinbar prall gefülltem Gürtel voller Utensilien aus Sizilien und einer spektral leuchtenden fünffachen Sammlung von Jonglierbällen hatte er sich einen großen spitzen Stab auf seinen Rücken geschnallt, von dem noch frische Tinte tropfte. Mit einem großen Pflatsch warf er ein schlagendes Herz auf den Tresen. Stille. Nur ein Pochen, Pochen. Auf einmal ein Aufschrei, ein Brüllen, ein Jubeln. Plötzlich schwappte Gelächter wie eine glückliche Welle durch die anwesenden Kehlen. Schlanke Hände holten Instrumente hervor und begannen zu spielen, wie eine wunderschöne Stimme ein wunderschönes Lied anstimmte. Lippen wurden rot nachgezogen, wie aus den Fenstern verheißende Verse entflogen: 
+<br>
+<div style="text-align: center">
+in grauer Welt ein Herz zu tragen <br>
+wollte lange lange keiner wagen <br>
+doch nun ist einer Herzensträger <br>
+aus tiefstem Mut Gefühlsjäger <br>
+</div>
 </p>
+
