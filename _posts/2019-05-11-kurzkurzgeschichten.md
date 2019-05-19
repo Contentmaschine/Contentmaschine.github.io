@@ -43,7 +43,11 @@ haben ein Ziel. Einen eindeutigen Platz in dieser Welt. Eine Aufgabe die ihnen d
 in grauer Welt ein Herz zu tragen <br>
 wollte lange lange keiner wagen <br>
 doch nun ist einer Herzensträger <br>
-aus tiefstem Mut Gefühlsjäger <br>
+mit rehernen Augen Gefühlsjäger <br>
+auf den Spuren des Zwielicht <br>
+bis dorthin wo die Welt bricht <br>
+um uns zu bringen was wir verloren <br>
+wir ihn erkoren
 </div>
 </p>
 
