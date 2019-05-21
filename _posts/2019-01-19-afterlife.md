@@ -1,6 +1,6 @@
 ---
 layout: post
-title: afterlife 
+title: nach dem leben ist vor dem leben
 klappentext:
 align: <center>
 <> date: 2019-02-19 20:01
