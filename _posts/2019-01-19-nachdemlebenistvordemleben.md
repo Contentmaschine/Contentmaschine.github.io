@@ -20,7 +20,7 @@ Gleich darauf tauchte aus heiterem Himmel der Zufall auf. "Das konnte jetzt aber
 
 <br><br>
 
-Auf einmal hörte man lautes Motorengedröhne, eine gewaltige Staubwolke hinter sich ziehend fuhr ein Taxi vor. Die Tür flog auf und das Glück stieg mit zerwuschelten Haaren aus. "Jede Ampel war rot, das ist mir noch nie passiert!" Der Fahrer des Taxis klopfte an die Scheibe. "Jaja", murmelte das Glück und bückte sich um die Geldbörse zu finden, mit welcher es den Fahrer bezahlen konnte. Als es dann in diesem das Pech erkannte, zückte es ein Messer und rannte schreiend auf das Taxi zu, welches unter Pechs brüllendem Gelächter wegdüste. Das Glück klappte sein Messer wieder ein und streifte sich ratlos durch die Haare. "Irgendwann krieg ich ihn, ganz sicher."
+Auf einmal hörte man lautes Motorengedröhne, eine gewaltige Staubwolke hinter sich ziehend fuhr ein Taxi vor. Die Tür flog auf und das Glück stieg mit zerwuschelten Haaren aus. "Jede Ampel war rot, das ist mir noch nie passiert!" Der Fahrer des Taxis klopfte an die Scheibe. "Jaja.", murmelte das Glück und bückte sich um die Geldbörse zu finden, mit welcher es den Fahrer bezahlen konnte. Als es dann in diesem das Pech erkannte, zückte es ein Messer und rannte schreiend auf das Taxi zu, welches unter Pechs brüllendem Gelächter wegdüste. Das Glück klappte sein Messer wieder ein und streifte sich ratlos durch die Haare. "Irgendwann krieg ich ihn, ganz sicher."
 
 <br><br>
 
