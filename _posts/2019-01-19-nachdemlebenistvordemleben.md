@@ -8,7 +8,7 @@ align: <center>
 ---
 <p align="justify">
 
-"Ach.", sagte der Tod. "Das hast du alles ganz falsch verstanden." Der Beobachter wirkte verdutzt: "Du bist also nicht hier um mich mitzunehmen?" "Nein! Um Gottes Willen, ich bin doch nicht der Teufel. Ich schaue nur zu." Der Tod nahm eine Packung Chips aus seinem Mantel und warf sich ein paar davon in die dunkle Leere, die seine Kapuze war. Es klimperte und wenig später konnte man die einzelnen Chips wieder unter seiner Kutte hervorrollen sehen. "Ups.", murmelte der Sensenmann und bückte sich knarzend um die Chips wieder aufzuheben, welche er dann gleich wieder in seiner Kapuze verschwinden ließ. "Ups."
+"Ach.", sagte der Tod. "Das hast du alles ganz falsch verstanden." Der Beobachter wirkte verdutzt: "Du bist also nicht hier um mich mitzunehmen?" "Nein! Meine Güte, ich bin doch nicht der Teufel. Ich schaue nur zu." Der Tod nahm eine Packung Chips aus seinem Mantel und warf sich ein paar davon in die dunkle Leere, die seine Kapuze war. Es klimperte und wenig später konnte man die einzelnen Chips wieder unter seiner Kutte hervorrollen sehen. "Ups.", murmelte der Sensenmann und bückte sich knarzend um die Chips wieder aufzuheben, welche er dann gleich wieder in seiner Kapuze verschwinden ließ. "Ups."
 
 <br><br>
 
