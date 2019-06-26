@@ -17,14 +17,14 @@ die Gedankenrochade <br>
 raus in die Welt <br>
 du tapferer Held <br>
 das Ziel gesetzt und die Riemen gezurrt <br>
-es wird gelächelt und nicht gemurrt <br> <br>
+es wird gelächelt, nicht gemurrt <br> <br>
 
 Zwei <br>
 
-Schild im Anschlag Hand am Schwert <br>
+Schild im Anschlag und Hand am Schwert <br>
 wie sich herausstellte <br>
 hat dein Leben hier keinen Wert <br>
-und nun werden Schritt um Schritt die Platten dichter <br>
+nun werden Schritt um Schritt die Platten dichter <br>
 niemals, niemals die Vorkehrungen lichter <br>
 Visier gesenkt, Ich versteckt <br>
 Maul gehalten, nirgendswo wird angeeckt <br> <br>
@@ -38,7 +38,8 @@ und doch scheints hell von weit weg <br>
 Herztrabant zwar leck <br>
 Engel im Kopf außer Rand und Band <br>
 nichts außer einen Schlagring an der Hand <br>
-aber Blut wie Tinte fließt <br>
+aber Tinte wie Blut fließt <br>
 seltener Regen gießt <br>
 und zur Musik des Lebens tanzt er <br>
 tief drin, in seinem Gedankenpanzer
+
