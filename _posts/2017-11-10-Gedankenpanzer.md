@@ -1,0 +1,44 @@
+---
+layout: post
+title: Gedankenpanzer
+klappentext:
+<> date: 2017-11-10 17:38
+<> author: contentmaschine
+---
+
+Eins <br> <br>
+
+aus dem Bett und in die Rüstung <br>
+Teil um Teil <br>
+und Schicht um Schicht <br>
+das Kettenhemd sitzt, der Helm gerade <br>
+ein notwendiger Schritt <br>
+die Gedankenrochade <br>
+raus in die Welt <br>
+du tapferer Held <br>
+das Ziel gesetzt und die Riemen gezurrt <br>
+es wird gelächelt und nicht gemurrt <br>
+
+Zwei <br> <br>
+
+Schild im Anschlag Hand am Schwert <br>
+wie sich herausstellte <br>
+hat dein Leben hier keinen Wert <br>
+und nun werden Schritt um Schritt die Platten dichter <br>
+niemals, niemals die Vorkehrungen lichter <br>
+Visier gesenkt, Ich versteckt <br>
+Maul gehalten, nirgendswo wird angeeckt <br>
+
+Drei <br> <br>
+
+Aber <br>
+Licht am Ende des Tunnels <br>
+ist oft nur eine sterbende Leuchtqualle <br>
+und doch scheints hell von weit weg <br>
+Herztrabant zwar leck <br>
+Engel im Kopf außer Rand und Band <br>
+nichts außer einen Schlagring an der Hand <br>
+aber Blut wie Tinte fließt <br>
+seltener Regen gießt <br>
+und zur Musik des Lebens tanzt er <br>
+tief drin, in seinem Gedankenpanzer
