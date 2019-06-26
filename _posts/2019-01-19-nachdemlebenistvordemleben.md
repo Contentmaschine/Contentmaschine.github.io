@@ -36,7 +36,7 @@ Mit einer dreifachen Drehung schleuderte er ihn weg, der Glaube gab jedoch nie d
 
 <br><br>
 
-Beide landeten in der Pranke des Fürsten der Finsternis, welcher gerade dem Detail entstiegen war, höchstpersönlich. "IHR ZWEI". Nun hatte der Tod doch wieder etwas zum Lachen. "ICH WERDE EUCH", der Feuerbub hätte sicherlich Fürchterliches angekündigt, wäre er nicht urplötzlich auf den Schmerz gestiegen, welcher seit einiger Zeit unerkannt über den Boden robbte. Ein höllischer Schrei hallte durch alle möglichen Welten, während Hoffnung und Glauben schnell wegflitzten: "Haben dich auch lieb, Lucifer!"
+Beide landeten in der Pranke des Fürsten der Finsternis höchstpersönlich, welcher gerade dem Detail entstiegen war. "IHR ZWEI". Nun hatte der Tod doch wieder etwas zum Lachen. "ICH WERDE EUCH", der Feuerbub hätte sicherlich Fürchterliches angekündigt, wäre er nicht urplötzlich auf den Schmerz gestiegen, welcher seit einiger Zeit unerkannt über den Boden robbte. Ein höllischer Schrei hallte durch alle möglichen Welten, während Hoffnung und Glauben schnell wegflitzten: "Haben dich auch lieb, Lucifer!"
 
 <br><br>
 
