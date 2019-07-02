@@ -22,8 +22,10 @@ Schild im Anschlag und Hand am Schwert <br>
 dein Leben hat hier keinen Wert <br>
 nun werden Schritt um Schritt die Platten dichter <br>
 niemals, niemals die Vorkehrungen lichter <br>
-Visier gesenkt, warst bereit zum Werden <br>
-Maul halten, jetzt bereit zum Sterben <br> <br>
+Arme verschränkt <br>
+warst bereit zum Werden <br>
+Visier gesenkt <br>
+jetzt bereit zum Sterben <br> <br>
 
 Aber <br>
 Licht am Ende des Tunnels <br>
