@@ -7,11 +7,9 @@ klappentext:
 ---
 
 aus dem Bett und in die Rüstung <br>
-Teil um Teil <br>
-und Schicht um Schicht <br>
+Teil um Teil und Schicht um Schicht <br>
 das Kettenhemd sitzt, der Helm gerade <br>
-ein notwendiger Schritt <br>
-die Gedankenrochade <br>
+ein notwendiger Schritt die Gedankenrochade <br>
 raus in die Welt <br>
 du tapferer Held <br>
 das Ziel gesetzt und die Riemen gezurrt <br>
