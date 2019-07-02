@@ -6,8 +6,6 @@ klappentext:
 <> author: contentmaschine
 ---
 
-Eins <br>
-
 aus dem Bett und in die Rüstung <br>
 Teil um Teil <br>
 und Schicht um Schicht <br>
@@ -19,8 +17,6 @@ du tapferer Held <br>
 das Ziel gesetzt und die Riemen gezurrt <br>
 es wird gelächelt, nicht gemurrt <br> <br>
 
-Zwei <br>
-
 Schild im Anschlag und Hand am Schwert <br>
 wie sich herausstellte <br>
 hat dein Leben hier keinen Wert <br>
@@ -28,8 +24,6 @@ nun werden Schritt um Schritt die Platten dichter <br>
 niemals, niemals die Vorkehrungen lichter <br>
 Visier gesenkt, Ich versteckt <br>
 Maul gehalten, nirgendswo wird angeeckt <br> <br>
-
-Drei <br>
 
 Aber <br>
 Licht am Ende des Tunnels <br>
