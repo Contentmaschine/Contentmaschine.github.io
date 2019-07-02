@@ -17,12 +17,13 @@ du tapferer Held <br>
 das Ziel gesetzt und die Riemen gezurrt <br>
 es wird gelächelt, nicht gemurrt <br> <br>
 
+Aber <br>
 Schild im Anschlag und Hand am Schwert <br>
 dein Leben hat hier keinen Wert <br>
 nun werden Schritt um Schritt die Platten dichter <br>
 niemals, niemals die Vorkehrungen lichter <br>
-Visier gesenkt, Ich versteckt <br>
-Maul gehalten, nirgendswo wird angeeckt <br> <br>
+Visier gesenkt, warst bereit zum Werden <br>
+Maul halten, jetzt bereit zum Sterben <br> <br>
 
 Aber <br>
 Licht am Ende des Tunnels <br>
@@ -35,4 +36,3 @@ aber Tinte wie Blut fließt <br>
 seltener Regen gießt <br>
 und zur Musik des Lebens tanzt er <br>
 tief drin, in seinem Gedankenpanzer
-
