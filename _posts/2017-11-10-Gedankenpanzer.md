@@ -18,8 +18,7 @@ das Ziel gesetzt und die Riemen gezurrt <br>
 es wird gelächelt, nicht gemurrt <br> <br>
 
 Schild im Anschlag und Hand am Schwert <br>
-wie sich herausstellte <br>
-hat dein Leben hier keinen Wert <br>
+dein Leben hat hier keinen Wert <br>
 nun werden Schritt um Schritt die Platten dichter <br>
 niemals, niemals die Vorkehrungen lichter <br>
 Visier gesenkt, Ich versteckt <br>
