@@ -1,12 +1,26 @@
 ---
 layout: post
-title: Die Symmetriker //
+title: Die Symmetriker
 klappentext: Feuer mit Feuer
 <> date: 2018-11-10 17:38
 <> author: contentmaschine
 ---
 
-<p align="justify"> "Kann sein was sein kann?", tosender Applaus hallte durch die perpendikularen Hallen der Symmetriker. "Brokkoli!", rief der Brokkolant. Dutzende Hände hoben sich in einer scheinbar fließenden Bewegung und schoben sich ihren sorgfältig vorbereiteten Brokkoli in die Ohren. Nun trat der Asymmetriker mit folgenden Worten auf die Bühne: "Der Gewinner des diesjährigen Literaturwettbewerbs ist somit:", sein Gesicht verzog sich wie unter großen Schmerzen, er krächzte : "Anna". Er nahm zwei Krücken unter dem Pult hervor, drehte eine davon um und verließ ächzend die Bühne. Der Brokkolant klopfte nun mit zwei gleichgroßen Prügeln auf eine Trommel ein, das wohlbekannte Zeichen. Dutzende Brokkolis verließen wieder die Hörgänge der anwesenden Symmetriker und verschwanden uniform in ihren Tuniken. Ohne ein weiteres Wort zu verlieren verließen sie paarweise den Raum. Es schien perfekt. Doch das Leben eines Symmetrikers war in Wirklichkeit von Unregelmäßigkeiten geplagt, sie gingen in beständiger Furcht durch den Tag eine Ungleichheit von sich zu geben. Deswegen verehrten sie jene Mitglieder ihrer Vereinigung auch so sehr, die es schafften etwas Inhalt in ihre Sprache zu bringen. Und Anna war eine Virtuosin. Ihre Texte erzählten von gespiegelten Welten, ihre Lieder sangen von grandiosen Doppeldeutigkeiten und ihre Figur war ein Abbild ihrer selbst. Doch sie war zwiegespalten, wie sie alle. Eine zweite Stimme in ihrem Kopf, welche ihr immer zustimmte. Kein Gewissen, nur eine Wiederholung. Das war der Fluch der Symmetriker.
+---
+layout: post
+title: Die Symmetriker 
+klappentext: Feuer mit Feuer
+<> date: 2018-11-10 17:38
+<> author: contentmaschine
+---
+
+<p align="justify"> 
+
+<i>Exzerpt aus der Enzyklopädie der philosophischen Strömungen des dritten Jahrtausends fünf Meter bv. Chr. nach F.W. Weidenholzer</i>
+
+<br><br><br>
+
+"Kann sein was sein kann?", tosender Applaus hallte durch die perpendikularen Hallen der Symmetriker. "Brokkoli!", rief der Brokkolant. Dutzende Hände hoben sich in einer scheinbar fließenden Bewegung und schoben sich ihren sorgfältig vorbereiteten Brokkoli in die Ohren. Nun trat der Asymmetriker mit folgenden Worten auf die Bühne: "Der Gewinner des diesjährigen Literaturwettbewerbs ist somit:", sein Gesicht verzog sich wie unter großen Schmerzen, er krächzte : "Anna". Er nahm zwei Krücken unter dem Pult hervor, drehte eine davon um und verließ ächzend die Bühne. Der Brokkolant klopfte nun mit zwei gleichgroßen Prügeln auf eine Trommel ein, das wohlbekannte Zeichen. Dutzende Brokkolis verließen wieder die Hörgänge der anwesenden Symmetriker und verschwanden uniform in ihren Tuniken. Ohne ein weiteres Wort zu verlieren verließen sie paarweise den Raum. Es schien perfekt. Doch das Leben eines Symmetrikers war in Wirklichkeit von Unregelmäßigkeiten geplagt, sie gingen in beständiger Furcht durch den Tag eine Ungleichheit von sich zu geben. Deswegen verehrten sie jene Mitglieder ihrer Vereinigung auch so sehr, die es schafften etwas Inhalt in ihre Sprache zu bringen. Und Anna war eine Virtuosin. Ihre Texte erzählten von gespiegelten Welten, ihre Lieder sangen von grandiosen Doppeldeutigkeiten und ihre Figur war ein Abbild ihrer selbst. Doch sie war zwiegespalten, wie sie alle. Eine zweite Stimme in ihrem Kopf, welche ihr immer zustimmte. Kein Gewissen, nur eine Wiederholung. Das war der Fluch der Symmetriker.
 
 <br><br>
 
@@ -18,6 +32,6 @@ Doch sie hatten die böse Sonne vergessen, welche nun einen riesigen Schatten au
 
 <br><br>
 
-In späterer Schriften würde man diesen Satz finden: "Die Symmetriker dachten nicht, sie lebten." Sie waren nicht verrückt oder dumm, sie waren einfach viel zu sehr am Leben. Niemand wird als Symmetriker geboren, sie wurden vom Schicksal geschmiedet. Und auch die Fachliteratur ist sich uneins darüber ob es eine gute Entwicklung war, dass alle Symmetriker Symmetriker wurden. Wäre die Welt ein bisschen ein anderer Ort gewesen; hätten sie sich nicht vor dem Wahnsinn verstecken müssen; wären sie etwas mutiger gewesen, die Symmetriker. Wir können uns nicht ausmalen, wie sie die Geschichte verändert hätten. Aber sie bauten Türme. Schrieben verkrüppelte Gedichte. Machten amputierte Gesten. Statt frei zu denken, legten sie ihre eigene Sprache, ihre eigenen Gedanken in Ketten, sperrten Geist wie Körper hinter Rituale und Traditionen, um ja nicht mehr fühlen zu müssen. Sie waren keine kontrollierenden Persönlichkeiten, sie hatten eher ein Problem mit dem Wissen, dass sie alles sein konnten. Ihnen waren keine Grenzen gesetzt, daher erschufen sie sich selbst welche.
+In späterer Schriften würde man diesen Satz finden: "Die Symmetriker dachten nicht, sie lebten." Sie waren nicht verrückt oder dumm, sie waren einfach viel zu sehr am Leben. Niemand wurde als Symmetriker geboren, sie wurden vom Schicksal geschmiedet. Und auch die Fachliteratur ist sich uneins darüber ob es eine gute Entwicklung war, dass alle Symmetriker Symmetriker wurden. Wäre die Welt ein bisschen ein anderer Ort gewesen; hätten sie sich nicht vor dem Wahnsinn verstecken müssen... wären sie etwas mutiger gewesen, die Symmetriker. Wir können uns nicht ausmalen, wie sie die Geschichte verändert hätten. Aber sie bauten Türme. Schrieben verkrüppelte Gedichte. Machten amputierte Gesten. Statt frei zu denken, legten sie ihre eigene Sprache, ihre eigenen Gedanken in Ketten, sperrten Geist wie Körper hinter Rituale und Traditionen, um ja nicht mehr fühlen zu müssen. Sie hatten ein Problem mit dem Wissen, dass ihnen keine Grenzen gesetzt waren, daher erschufen sie sich selbst welche.
   
 </p>
