@@ -6,4 +6,87 @@ klappentext: Leute kennenlernen.
 <> author: contentmaschine
 ---
 
-Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. Eine vermummte Gestalt sprang aus ihrem Versteck und fauchte mich an: "Hey! Geld her oder ich stech dich ab!" Ich schaute ihn fragend an. "Ey! Geld her hab ich gesagt!" Er fuchtelte wild mit seinem Taschenmesser herum. Ich sah ihn furchtlos an: "Du hast dir den Falschen ausgesucht.", und knackste demonstrativ mit meinen Fingerknöcheln. "Hast du sie noch alle? Ich hab ein Messer!" Er schaute mich verständnislos an. "Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" Ich hob einen Stein auf. "Diese Runde <i>Messer, Stein, Papier</i> verlierst du." "Ich glaub, du überschätzt deine Kampfkünste ein wenig." "Wär das erste Mal." "Dass du verlieren würdest?" "Genau. Und dass ich kämpfe. Aber das mindert die Tatsache nicht, dass ich ungeschlagen bin." Wir blickten uns einige Momente prüfend an, unsere Beine zuckten in korrekter Hollywoodmanier vor und zurück. Wir umkreisten uns wie zwei verliebte Jaguare. "Was willst du eigentlich?" "Geld?" "Was fragst du mich? Du bist der Räuber!" "Freunde?" "Häh- " "Liebe? Sag halt du, was willst du denn?" Ich verdrehte die Augen: "Vielleicht nicht von einem Messer gemördert zu werden?!" "Unambitioniert." Ich schnaubte ungläubig. "Meine Güte, ich weiß nicht was ich will und ich habe kein Geld und keine Freunde und Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." "Lügner, jeder kann einen Freund hergeben! Und zwar sich selber." Ich lachte schallend. "Hahaha, Vorstadtpoet oder was?" Er schaute missgünstig. "Du bist gemein." "Also habe ich das richtig verstanden, du willst dir einen Freund erräubern? So funktioniert das nicht." "Und doch bist du immer noch hier, hast nicht einmal versucht die Polizei zu rufen, geschweige denn wegzulaufen. Wieso geht man denn spätabends alleine spazieren?" "Ich könnte auf dem Weg zur größten aller Parties sein." "Bist du aber nicht, oder?" Ich blickte verträumt in den Himmel. "Nein, du hast Recht. So komisch es klingt... das hier war das interessanteste Gespräch heute. Meine Güte, der ganzen Woche." "Für mich auch." Ich blickte ihn an und steckte den Stein zurück in meine Hosentasche. Er blickte mich an und klappte sein Messer zu. Wir setzten uns an den Straßenrand. Die Sterne funkelten uns an. Einer von uns seufzte: "Wie konnte es jemals so weit kommen. Man muss zum Messer greifen um diese kollektive Isolation zu durchbrechen." "Ich glaube, dass wir alle überfordert sind. Mit Massengesellschaft und Anonymität." "Mit Individualität und Einsamkeit." "Vielleicht ist es das. Vielleicht sind wir alle wirklich einsam." "Krieg als Ablenkung?" "Streit zum Spaß." "Vielleicht gibt es keine Idioten auf der Welt. Vielleicht gibt es nur ganz viele Leute die für einen winzigen Moment die Wahrheit über Leben und Realität erhascht haben und sich daraufhin für ewig in Hass und Wut und Angst und nackten Körpern verstecken." "Auf der Flucht vor dem Wahren." "Eine Flucht in eine Illusion. Die meisten wissen nicht was Glück ist." "Vielleicht wissen die meisten zwar was Glück ist, aber haben furchtbar Angst davor." "Aber kann man ihnen allen soviel zustehen? Dass sie 'die Wahrheit' gesehen haben und daran zerbrochen sind? Darf man das? Wo bleibt die Verantwortung?" "Das stimmt, wahrscheinlich nicht. Hm, ist aber ein netter Gedanke." Eine Sternschnuppe brach mit der Schwärze der Nacht, gegenüber packte eine Grille ihren Kontrabass aus. "Sag den Leuten die du gern hast, dass du sie gern hast." "Was?" "Ein Ratschlag, eine Wahrheit, nenns wie du willst." "Ich glaube ich hab dich gern." "Ich glaub auch." Unsere Gehirnmaschinen ratterten. "Aber heißt das dann, dass alle die denken und reflektieren und schreiben und leben voll mutig sind?" "Oder sie sind die Dümmsten. Die dies einfach nicht checken." "Vielleicht gibts ja wirklich nicht mehr zum Leben." "Ein Stückchen Dreck auf der Windschutzscheibe des Universums. Aber was wenn? Na und sag ich! Für mich ist das Finden von schönen Gedanken und Ideen das wichtigste überhaupt." "Es ist ein geniales Gefühl." "Ist es wirklich. Und wenn man kreativ genug ist tatsächlich neue Gedanken zu erdenken- " "Der Hammer." "Presslufthammer." Wir mussten beide kichern, weit hinter uns hörten wir einen Zug vorbeiziehen. "Nenn mich Gefühlsjäger, aber das ist was ich machen will. Keinen Lebenslauf, kein Haus, keinen Kredit." "Im Gewitter auf einem Berg sitzen und wirklich derb fühlen. Ich glaube spätestens dann würde man doch merken ob wirklich alles leer ist." "Scheiß drauf ob es keinen kosmischen Sinn gibt. Kackegal was der Mond davon hält ob ich ein Gedicht schreibe." "Hört, hört. Ich geb dir Recht. Unsere Werte sind zwangsläufig in uns. Der Maßstab ist der Mensch. Nicht irgendein fucking Trabant. Wenn ich was wichtig finde, dann gibt es keine höhere Instanz die es für unwichtig erklären kann. Weil 'wichtig' nur im menschlichen Kontext Sinn macht." "Jetzt kommt wieder irgendein Arschloch und missbraucht unsere Ideen für ihren moralischen Relativismus." Der Mond stand unbeeindruckt hoch am Himmel. "Homo homini deus." "Voll. Auch wenn einen keine kosmische Entität ans Kreuz nageln wird, weil man irgendwie seine Tochter gefickt hat: Wir nageln dich sehr wohl ans Kreuz." "Das nennt man goldene Mitte, meine Damen und Herren." "Moral gibt es nur im Menschen." "Aber Menschen sind wir alle." 
+Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. Eine vermummte Gestalt sprang aus ihrem Versteck und fauchte mich an. 
+"Hey! Geld her oder ich stech dich ab!" 
+Ich schaute ihn fragend an.  
+"Geld her hab ich gesagt!" 
+Er fuchtelte wild mit seinem Taschenmesser herum. Ich sah ihn furchtlos an. 
+"Du hast dir den Falschen ausgesucht." 
+Ich knackste demonstrativ mit meinen Fingerknöcheln. 
+"Hast du sie noch alle? Ich hab ein Messer!" 
+Er schaute mich verständnislos an. 
+"Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" 
+Ich hob einen Stein auf. 
+"Diese Runde <i>Messer, Stein, Papier</i> verlierst du." 
+"Ich glaub, du überschätzt deine Kampfkünste ein wenig." 
+"Wär das erste Mal." 
+"Dass du sie überschätzt?" 
+"Genau. Und dass ich kämpfe. Aber das mindert die Tatsache nicht, dass ich ungeschlagen bin." 
+Wir blickten uns einige Momente prüfend an, unsere Beine zuckten in korrekter //Hollywoodmanier vor und zurück. Wir umkreisten uns wie zwei verliebte Jaguare. 
+"Was willst du eigentlich?" 
+"Geld?" 
+"War das eine Frage?" 
+"Freunde?" 
+"Häh- " 
+"Liebe? Was willst du denn?" 
+Ich verstand die Welt nicht mehr. 
+"Vielleicht nicht von einem Messer gemördert zu werden?!" 
+"Unambitioniert." 
+Ich schnaubte ungläubig. 
+"Meine Güte, ich weiß nicht was ich will und ich habe kein Geld, keine Freunde und Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." "Lügner, jeder kann einen Freund hergeben! Und zwar sich selber." 
+Ich lachte schallend. 
+"Hahaha, Vorstadtpoet oder was?" 
+Er schaute missgünstig. 
+"Du bist gemein." 
+"Also habe ich das richtig verstanden, du willst dir einen Freund erräubern? So funktioniert das nicht." 
+"Und doch bist du immer noch hier, hast nicht einmal versucht die Polizei zu rufen, geschweige denn wegzulaufen. Wieso geht man denn spätabends alleine spazieren?" 
+"Ich könnte auf dem Weg zur größten aller Parties sein." 
+"Bist du aber nicht, oder?" 
+Ich blickte verträumt in den Himmel. 
+"Nein, du hast Recht. So komisch es klingt. Das ist das längste und tatsächlich netteste Gespräch heute. Meine Güte, der ganzen Woche." 
+"Für mich auch." 
+Ich blickte ihn an und steckte den Stein zurück in meine Hosentasche. Er blickte mich an und klappte sein Messer zu. Wir setzten uns an den Straßenrand. Die Sterne funkelten uns an. 
+
+Einer von uns seufzte.
+"Wie konnte es jemals so weit kommen. Man muss zum Messer greifen um diese kollektive Isolation zu durchbrechen." 
+"Ich glaube, dass wir alle überfordert sind. Mit Massengesellschaft und Anonymität." 
+"Mit Individualität und Einsamkeit." 
+"Vielleicht ist es das. Vielleicht sind wir alle wirklich einsam." 
+"Krieg als Ablenkung?" 
+"Streit zum Spaß." 
+"Vielleicht gibt es keine Idioten auf der Welt. Vielleicht gibt es nur ganz viele Leute die für einen winzigen Moment die Wahrheit über Leben und Realität erhascht haben und sich daraufhin für ewig in Hass und Wut und Angst und nackten Körpern verstecken." 
+"Auf der Flucht vor dem Wahren." 
+"Ein Rückzug in eine Illusion. Die meisten wissen nicht was Glück ist." 
+"Vielleicht wissen die meisten zwar was Glück ist, aber haben furchtbar Angst davor." 
+"Aber kann man ihnen allen soviel zustehen? Dass sie 'die Wahrheit' gesehen haben und daran zerbrochen sind? Darf man das? Wo bleibt die Verantwortung?" 
+"Das stimmt, wahrscheinlich nicht. Hm, ist aber ein netter Gedanke." 
+
+Eine Sternschnuppe brach mit der Schwärze der Nacht, gegenüber packte eine Grille ihren Kontrabass aus. 
+"Sag den Leuten die du gern hast, dass du sie gern hast." 
+"Was?" 
+"Ein Ratschlag, eine Wahrheit, nenns wie du willst." 
+"Ich glaube ich hab dich gern." 
+"Ich glaub auch." 
+
+Unsere Gehirnmaschinen ratterten. 
+"Aber heißt das dann, dass alle die denken und reflektieren und schreiben und leben voll mutig sind?" 
+"Oder sie sind die Dümmsten. Die dies einfach nicht checken." 
+"Vielleicht gibts ja wirklich nicht mehr zum Leben." 
+"Ein Stückchen Dreck auf der Windschutzscheibe des Universums. Aber was wenn? Na und sag ich! Für mich ist das Finden von schönen Gedanken und Ideen das wichtigste überhaupt." 
+"Es ist ein geniales Gefühl." 
+"Ist es wirklich. Und wenn man kreativ genug ist tatsächlich neue Gedanken zu erdenken- " 
+"Der Hammer." 
+"Presslufthammer." 
+Wir mussten beide kichern, weit hinter uns hörten wir einen Zug vorbeiziehen. 
+"Nenn mich Gefühlsjäger, aber das ist was ich machen will. Keinen Lebenslauf, kein Haus, keinen Kredit." 
+"Im Gewitter auf einem Berg sitzen und ganz genau aufpassen. Ich glaube spätestens dann würde man doch merken ob wirklich alles leer ist." 
+"Scheiß drauf ob es keinen kosmischen Sinn gibt. Kackegal was der Mond davon hält ob ich ein Gedicht schreibe." 
+"Hört, hört. Ich geb dir Recht. Unsere Werte sind zwangsläufig in uns. Der Maßstab ist der Mensch. Nicht irgendein verdammter Trabant. Wenn ich was wichtig finde, dann gibt es keine höhere Instanz die es für unwichtig erklären kann. Weil 'wichtig' nur im menschlichen Kontext Sinn macht." 
+"Jetzt kommt wieder irgendein Arschloch und missbraucht unsere Ideen für ihren moralischen Relativismus." 
+Der Mond stand unbeeindruckt hoch am Himmel. 
+
+"Homo homini deus." 
+"Voll. Auch wenn einen keine kosmische Entität ans Kreuz nageln wird, weil man irgendwie seine Tochter gefickt hat: Wir nageln dich sehr wohl ans Kreuz." 
+"Das nennt man goldene Mitte, ihr Ficker." 
+"Moral gibt es nur im Menschen." 
+"Aber Menschen sind wir alle." 
