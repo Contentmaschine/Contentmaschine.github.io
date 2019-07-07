@@ -6,14 +6,6 @@ klappentext: Feuer mit Feuer
 <> author: contentmaschine
 ---
 
----
-layout: post
-title: Die Symmetriker 
-klappentext: Feuer mit Feuer
-<> date: 2018-11-10 17:38
-<> author: contentmaschine
----
-
 <p align="justify"> 
 
 <i>Exzerpt aus der Enzyklopädie der philosophischen Strömungen des dritten Jahrtausends fünf Meter bv. Chr. nach F.W. Weidenholzer</i>
