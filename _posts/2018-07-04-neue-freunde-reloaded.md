@@ -6,14 +6,15 @@ klappentext: Leute kennenlernen.
 <> author: contentmaschine
 ---
 
-Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. Eine vermummte Gestalt sprang aus ihrem Versteck und fauchte mich an. 
-"Hey! Geld her oder ich stech dich ab!" 
-Ich schaute ihn fragend an.  
-"Geld her hab ich gesagt!" 
+<i>Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. <br>
+Eine vermummte Gestalt sprang aus ihrem Versteck und fauchte mich an. </i>
+Er: "Hey! Geld her oder ich stech dich ab!" 
+<i> Ich schaute ihn fragend an. </i> 
+Er: "Geld her hab ich gesagt!" 
 Er fuchtelte wild mit seinem Taschenmesser herum. Ich sah ihn furchtlos an. 
-"Du hast dir den Falschen ausgesucht." 
+Ich: "Du hast dir den Falschen ausgesucht." 
 Ich knackste demonstrativ mit meinen Fingerknöcheln. 
-"Hast du sie noch alle? Ich hab ein Messer!" 
+Er: "Hast du sie noch alle? Ich hab ein Messer!" 
 Er schaute mich verständnislos an. 
 "Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" 
 Ich hob einen Stein auf. 
