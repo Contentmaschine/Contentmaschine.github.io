@@ -27,8 +27,8 @@ im Dunkel der Nacht <br>
 tanzen die Verse ums Feuer <br>
 und die Lyrik erwacht <br>
 
-sie singen von <br>
-Liebe, Freude und Schmerz <br>
+sie singen von Liebe, <br>
+Freude und Schmerz <br>
 ihre glasklaren Stimmen <br>
 gehen direkt ins Herz <br>
 
