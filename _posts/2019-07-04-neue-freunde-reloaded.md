@@ -7,10 +7,10 @@ klappentext: Leute kennenlernen.
 ---
 
 <i>Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. <br> <br>
-Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an. </i> <br>
+Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an. </i> <br><br>
 <b>Er</b><br>
-"Hey! Geld her oder ich stech dich ab!"  <br>
-<i> Ich schaue ihn fragend an. </i>  <br> 
+"Hey! Geld her oder ich stech dich ab!"  <br><br>
+<i> Ich schaue ihn fragend an. </i>  <br><br>
 "Geld her hab ich gesagt!"  <br>
 <i> Er fuchtelt wild mit seinem Taschenmesser herum. Ich sehe ihn furchtlos an. </i> <br> 
 <b>Ich</b><br>
