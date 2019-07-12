@@ -49,14 +49,14 @@ Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an. </i><br><b
 <b>Er</b><br> "Für mich auch." <br>
 <br><i> Ich blicke ihn an und stecke den Stein zurück in meine Hosentasche. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an. </i><br><br> 
 
-<br><i> Einer von uns seufzt. </i><br><br>
+<i> Einer von uns seufzt. </i><br><br>
 <b>Einer</b><br> "Wie konnte es jemals so weit kommen. Man muss zum Messer greifen um diese kollektive Isolation zu durchbrechen." 
 <br><b>ein Anderer</b><br> "Ich glaube, dass wir alle überfordert sind. Mit Massengesellschaft und Anonymität." 
 <br><b>Einer</b><br>"Mit Individualität und Einsamkeit." 
 <br><b>ein Anderer</b><br>"Vielleicht ist es das. Vielleicht sind wir alle wirklich einsam." 
 <br><b>Einer</b><br>"Krieg als Ablenkung?" 
 <br><b>ein Anderer</b><br>"Streit zum Spaß." 
-<br><b>Einer</b><br>"Vielleicht gibt es keine Idioten auf der Welt. Vielleicht gibt es nur ganz viele Leute die für einen winzigen Moment die Wahrheit über <br><b>ein Anderer</b><br>Leben und Realität erhascht haben und sich daraufhin für ewig in Hass und Wut und Angst und nackten Körpern verstecken." 
+<br><b>Einer</b><br>"Vielleicht gibt es keine Idioten auf der Welt. Vielleicht gibt es nur ganz viele Leute die für einen winzigen Moment die Wahrheit über Leben und Realität erhascht haben und sich daraufhin für ewig in Hass und Wut und Angst und nackten Körpern verstecken." 
 <br><b>Einer</b><br>"Auf der Flucht vor dem Wahren." 
 <br><b>ein Anderer</b><br>"Ein Rückzug in eine Illusion. Die meisten wissen nicht was Glück ist." 
 <br><b>Einer</b><br>"Vielleicht wissen die meisten zwar was Glück ist, aber haben furchtbar Angst davor." 
