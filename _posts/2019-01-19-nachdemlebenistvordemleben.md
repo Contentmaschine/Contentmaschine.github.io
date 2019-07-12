@@ -63,7 +63,7 @@ Die Menschheit, nun enttarnt, blickte auf, graue Haare verdeckten regenbogenfarb
 
 <br><br>
 
-Ein gelber Punkt erschien am Horizont und kam immer näher. Es war ein Taxi, aus dessen runtergekurbeltem Fenster eine pechschwarze Hand eine glühende Zigarre, sowie einen hocherhobenen Mittelfinger hielt. Das Taxi fuhr vor und unter den unsicheren Blicken aller uneingeweihten Beteiligten, sowie der grinsenden Fratze des Teufels, stieg das Pech lächelnd aus. "Oh nein.", flüsterte der Zufall, wie der Tod die Kontrolle über seinen Beckenknochen verlor und der Glauben anfing sich selbst aufzugeben. Auch die Menschheit wusste was dies bedeutete: "Welche Umstände auch immer diese Allianz zeugen, können wir nichts außer uns verbeugen. Ein gelungener Plan wahrlich. Und doch werden wir kämpfen, beharrlich." Mit einem lauten "KLONK" fiel dem Teufel sichtlich eine Last von den Schultern, wie er das Pech mit offenen Armen empfing.
+Ein gelber Punkt erschien am Horizont und kam immer näher. Es war ein Taxi, aus dessen runtergekurbeltem Fenster eine pechschwarze Hand eine glühende Zigarre, sowie einen hocherhobenen Mittelfinger hielt. Das Taxi fuhr vor und unter den unsicheren Blicken aller uneingeweihten Beteiligten, sowie der grinsenden Fratze des Teufels, stieg das Pech lächelnd aus. "Oh nein.", flüsterte der Zufall, wie der Tod die Kontrolle über seinen Beckenknochen verlor und der Glauben anfing sich selbst aufzugeben. Auch die Menschheit wusste was dies bedeutete: "Welche Umstände auch immer diese Allianz zeugen, können wir nichts außer uns verbeugen. Ein gelungener Plan wahrlich. Und doch werden wir kämpfen, beharrlich." Mit einem lauten "KLONK" fiel dem Teufel hörbar eine Last von den Schultern, wie er das Pech mit offenen Armen empfing.
 
 <br><br>
 
