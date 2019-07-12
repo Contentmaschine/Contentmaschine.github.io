@@ -18,7 +18,7 @@ Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an. </i><br><b
 <br><i> Er schaut mich verständnislos an. </i><br><br> 
 <b>Er</b><br> "Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" <br>
 <br><i> Ich hebe einen Stein auf. </i><br><br> 
-<b>Ich</b><br> "Diese Runde <b>Messer, Stein, Papier</b> verlierst du." <br>
+<b>Ich</b><br> "Diese Runde Messer, Stein, Papier verlierst du." <br>
 <b>Er</b><br> "Ich glaub, du überschätzt deine Kampfkünste ein wenig." <br>
 <b>Ich</b><br> "Wär das erste Mal." <br>
 <b>Er</b><br> "Dass du sie überschätzt?" <br>
@@ -44,51 +44,50 @@ Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an. </i><br><b
 <b>Er</b><br> "Und doch bist du immer noch hier, hast nicht einmal versucht die Polizei zu rufen, geschweige denn wegzulaufen. Wieso geht man denn  spätabends alleine spazieren?" <br>
 <b>Ich</b><br> "Ich könnte auf dem Weg zur größten aller Partys sein." <br>
 <b>Er</b><br> "Bist du aber nicht, oder?" <br>
-<br><i> Ich blickte verträumt in den Himmel. </i><br><br> 
+<br><i> Ich blicke verträumt in den Himmel. </i><br><br> 
 <b>Ich</b><br> "Nein, du hast Recht. So komisch es klingt. Das ist das längste und tatsächlich netteste Gespräch heute. Meine Güte, der ganzen Woche." <br>
 <b>Er</b><br> "Für mich auch." <br>
 <br><i> Ich blicke ihn an und stecke den Stein zurück in meine Hosentasche. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an. </i><br><br> 
 
-<br><i> Einer von uns seufzt. </i> 
-1 "Wie konnte es jemals so weit kommen. Man muss zum Messer greifen um diese kollektive Isolation zu durchbrechen." 
-2 "Ich glaube, dass wir alle überfordert sind. Mit Massengesellschaft und Anonymität." 
-1"Mit Individualität und Einsamkeit." 
-2"Vielleicht ist es das. Vielleicht sind wir alle wirklich einsam." 
-1"Krieg als Ablenkung?" 
-2"Streit zum Spaß." 
-1"Vielleicht gibt es keine Idioten auf der Welt. Vielleicht gibt es nur ganz viele Leute die für einen winzigen Moment die Wahrheit über 2Leben und Realität erhascht haben und sich daraufhin für ewig in Hass und Wut und Angst und nackten Körpern verstecken." 
-1"Auf der Flucht vor dem Wahren." 
-2"Ein Rückzug in eine Illusion. Die meisten wissen nicht was Glück ist." 
-1"Vielleicht wissen die meisten zwar was Glück ist, aber haben furchtbar Angst davor." 
-2"Aber kann man ihnen allen soviel zustehen? Dass sie 'die Wahrheit' gesehen haben und daran zerbrochen sind? Darf man das? Wo bleibt die Verantwortung?" 
-1"Das stimmt, wahrscheinlich nicht. Hm, ist aber ein netter Gedanke." 
+<br><i> Einer von uns seufzt. </i><br><br>
+<b>Einer</b><br> "Wie konnte es jemals so weit kommen. Man muss zum Messer greifen um diese kollektive Isolation zu durchbrechen." 
+<b>ein Anderer</b><br> "Ich glaube, dass wir alle überfordert sind. Mit Massengesellschaft und Anonymität." 
+<b>Einer</b><br>"Mit Individualität und Einsamkeit." 
+<b>ein Anderer</b><br>"Vielleicht ist es das. Vielleicht sind wir alle wirklich einsam." 
+<b>Einer</b><br>"Krieg als Ablenkung?" 
+<b>ein Anderer</b><br>"Streit zum Spaß." 
+<b>Einer</b><br>"Vielleicht gibt es keine Idioten auf der Welt. Vielleicht gibt es nur ganz viele Leute die für einen winzigen Moment die Wahrheit über <b>ein Anderer</b><br>Leben und Realität erhascht haben und sich daraufhin für ewig in Hass und Wut und Angst und nackten Körpern verstecken." 
+<b>Einer</b><br>"Auf der Flucht vor dem Wahren." 
+<b>ein Anderer</b><br>"Ein Rückzug in eine Illusion. Die meisten wissen nicht was Glück ist." 
+<b>Einer</b><br>"Vielleicht wissen die meisten zwar was Glück ist, aber haben furchtbar Angst davor." 
+<b>ein Anderer</b><br>"Aber kann man ihnen allen soviel zustehen? Dass sie 'die Wahrheit' gesehen haben und daran zerbrochen sind? Darf man das? Wo bleibt die Verantwortung?" 
+<b>Einer</b><br>"Das stimmt, wahrscheinlich nicht. Hm, ist aber ein netter Gedanke." 
 
 <br><i> Eine Sternschnuppe bricht mit der Schwärze der Nacht, gegenüber packt eine Grille ihren Kontrabass aus. </i>
-2"Sag den Leuten die du gern hast, dass du sie gern hast." 
-1"Was?" 
-2"Ein Ratschlag, eine Wahrheit, nenns wie du willst." 
-1"Ich glaube ich hab dich gern." 
-2"Ich glaub auch." 
+<b>ein Anderer</b><br>"Sag den Leuten die du gern hast, dass du sie gern hast." 
+<b>Einer</b><br>"Was?" 
+<b>ein Anderer</b><br>"Ein Ratschlag, eine Wahrheit, nenns wie du willst." 
+<b>Einer</b><br>"Ich glaube ich hab dich gern." 
+<b>ein Anderer</b><br>"Ich glaub auch." 
 
 <br><i> Unsere Gehirnmaschinen rattern. </i><br><br>
-2"Aber heißt das dann, dass alle die denken und reflektieren und schreiben und leben voll mutig sind?" 
-1"Oder sie sind die Dümmsten. Die dies einfach nicht checken." 
-2"Vielleicht gibts ja wirklich nicht mehr zum Leben." 
-1"Ein Stückchen Dreck auf der Windschutzscheibe des Universums. Aber was wenn? Na und sag ich! Für mich ist das Finden von schönen Gedanken und Ideen das wichtigste überhaupt." 
-2"Es ist ein geniales Gefühl." 
-1"Ist es wirklich. Und wenn man kreativ genug ist tatsächlich neue Gedanken zu erdenken- " 
-2"Der Hammer." 
-1"Presslufthammer." 
+<b>ein Anderer</b><br>"Aber heißt das dann, dass alle die denken und reflektieren und schreiben und leben voll mutig sind?" 
+<b>Einer</b><br>"Oder sie sind die Dümmsten. Die dies einfach nicht checken." 
+<b>ein Anderer</b><br>"Vielleicht gibts ja wirklich nicht mehr zum Leben." 
+<b>Einer</b><br>"Ein Stückchen Dreck auf der Windschutzscheibe des Universums. Aber was wenn? Na und sag ich! Für mich ist das Finden von schönen Gedanken und Ideen das wichtigste überhaupt." 
+<b>ein Anderer</b><br>"Es ist ein geniales Gefühl." 
+<b>Einer</b><br>"Ist es wirklich. Und wenn man kreativ genug ist tatsächlich neue Gedanken zu erdenken- " 
+<b>ein Anderer</b><br>"Der Hammer." 
+<b>Einer</b><br>"Presslufthammer." 
 <br><i> Wir mussten beide kichern, weit hinter uns hörten wir einen Zug vorbeiziehen. </i> 
-2"Nenn mich Gefühlsjäger, aber das ist was ich machen will. Keinen Lebenslauf, kein Haus, keinen Kredit." 
-1"Im Gewitter auf einem Berg sitzen und ganz genau aufpassen. Ich glaube spätestens dann würde man doch merken ob wirklich alles leer ist." 
-2"Scheiß drauf ob es keinen kosmischen Sinn gibt. Kackegal was der Mond davon hält ob ich ein Gedicht schreibe." 
-1"Hört, hört. Ich geb dir Recht. Unsere Werte sind zwangsläufig in uns. Der Maßstab ist der Mensch. Nicht irgendein verdammter Trabant. Wenn ich was wichtig finde, dann gibt es keine höhere Instanz die es für unwichtig erklären kann. Weil 'wichtig' nur im menschlichen Kontext Sinn macht." 
-2"Jetzt kommt wieder irgendein Arschloch und missbraucht unsere Ideen für ihren moralischen Relativismus." 
+<b>ein Anderer</b><br>"Nenn mich Gefühlsjäger, aber das ist was ich machen will. Keinen Lebenslauf, kein Haus, keinen Kredit." 
+<b>Einer</b><br>"Im Gewitter auf einem Berg sitzen und ganz genau aufpassen. Ich glaube spätestens dann würde man doch merken ob wirklich alles leer ist." 
+<b>ein Anderer</b><br>"Scheiß drauf ob es keinen kosmischen Sinn gibt. Kackegal was der Mond davon hält ob ich ein Gedicht schreibe." 
+<b>Einer</b><br>"Hört, hört. Ich geb dir Recht. Unsere Werte sind zwangsläufig in uns. Der Maßstab ist der Mensch. Nicht irgendein verdammter Trabant. Wenn ich was wichtig finde, dann gibt es keine höhere Instanz die es für unwichtig erklären kann. Weil 'wichtig' nur im menschlichen Kontext Sinn macht." 
+<b>ein Anderer</b><br>"Jetzt kommt wieder irgendein Arschloch und missbraucht unsere Ideen für ihren moralischen Relativismus." 
 <br><i>Der Mond steht unbeeindruckt hoch am Himmel.</i><br><br>
 
-1"Homo homini deus."
-2"Voll. Auch wenn einen keine kosmische Entität ans Kreuz nageln wird, weil man irgendwie seine Tochter gefickt hat: Wir nageln dich sehr wohl ans Kreuz." 
-1//"Das nennt man goldene Mitte, ihr Ficker." 
-2"Moral gibt es nur im Menschen." 
-1"Aber Menschen sind wir alle."
+<b>Einer</b><br>"Homo homini deus."
+<b>ein Anderer</b><br>"Voll. Auch wenn einen keine kosmische Entität ans Kreuz nageln wird, weil man irgendwie seine Tochter gefickt hat: Wir nageln dich sehr wohl ans Kreuz."
+<b>Einer</b><br>"Moral gibt es nur im Menschen." 
+<b>ein Anderer</b><br>"Aber Menschen sind wir alle."
