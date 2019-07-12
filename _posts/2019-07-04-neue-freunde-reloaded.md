@@ -11,9 +11,10 @@ Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an. </i> <br>
 <b>Er</b><br>
 "Hey! Geld her oder ich stech dich ab!"  <br>
 <i> Ich schaue ihn fragend an. </i>  <br> 
-Er: "Geld her hab ich gesagt!"  <br>
+"Geld her hab ich gesagt!"  <br>
 <i> Er fuchtelt wild mit seinem Taschenmesser herum. Ich sehe ihn furchtlos an. </i> <br> 
-Ich: "Du hast dir den Falschen ausgesucht."  <br>
+<b>Ich</b><br>
+"Du hast dir den Falschen ausgesucht."  <br>
 <i> Ich knackse demonstrativ mit meinen Fingerknöcheln. </i> <br> 
 Er: "Hast du sie noch alle? Ich hab ein Messer!"  <br>
 <i> Er schaut mich verständnislos an. </i> <br> 
