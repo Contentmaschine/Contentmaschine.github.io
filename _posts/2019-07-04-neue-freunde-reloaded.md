@@ -89,6 +89,6 @@ Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an. </i><br><b
 
 1"Homo homini deus."
 2"Voll. Auch wenn einen keine kosmische Entität ans Kreuz nageln wird, weil man irgendwie seine Tochter gefickt hat: Wir nageln dich sehr wohl ans Kreuz." 
-1"Das nennt man goldene Mitte, ihr Ficker." 
+1//"Das nennt man goldene Mitte, ihr Ficker." 
 2"Moral gibt es nur im Menschen." 
 1"Aber Menschen sind wir alle."
