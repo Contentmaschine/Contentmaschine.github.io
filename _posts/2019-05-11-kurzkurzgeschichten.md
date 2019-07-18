@@ -49,5 +49,9 @@ bis dorthin wo die Welt bricht <br>
 um uns zu bringen was wir verloren <br>
 wir ihn erkoren
 </div>
-</p>
 
+<br><br>
+
+Wir sitzen an der Kippe einer Klippe. Wie zwei Möwen die sich mögen. Das Meer unter uns stößt vermehrt gegen den weißen Stein, der nichts zu wissen scheint. Von all den großen Hässlichkeiten unweit der Küste. Wo beste Freunde sich bekämpfen und die besten Kämpfer sich befreunden. Wo Liebe sich im Dunkeln versteckt und all den Schmerz unter nackten Körpern bedeckt. Nicht so hier. Hier halten vier Augen fest zwei Hände, in Verbundenheit, die die Wunden heilt. Und plötzlich tobt um uns schon seit Beginn ein Sturm. Wir blicken uns an und lassen uns treiben. Geben uns selbst den Trommelwirbel wie der Orkan uns hochwirbelt. Auf einmal Stille. Blau. Weiß. Gelb. Ein Vogel frisst mir die Wut und dir die Sorgen aus der Seele. Und auch wenn wir wieder zurückfallen waren wir frei. <i>Sind</i> wir frei. 
+
+</p>
