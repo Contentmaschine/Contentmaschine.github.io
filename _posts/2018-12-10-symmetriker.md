@@ -8,7 +8,7 @@ klappentext: Feuer mit Feuer
 
 <p align="justify"> 
 
-<i>Exzerpt aus der Enzyklopädie der philosophischen Strömungen des dritten Jahrtausends fünf Meter bv. Chr. nach F.W. Weidenholzer</i>
+<i>Exzerpt aus der Enzyklopädie der philosophischen Strömungen des dritten Jahrtausends fünf Meter bv. Chr. nach F.W. Holzdieweide</i>
 
 <br><br><br>
 
