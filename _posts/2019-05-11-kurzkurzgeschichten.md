@@ -52,6 +52,8 @@ wir ihn erkoren
 
 <br><br>
 
+<p align="justify"> 
+
 <b>Wir sitzen an der Kippe einer Klippe.</b>
 Wie zwei Möwen die sich mögen. Das Meer unter uns stößt vermehrt gegen den weißen Stein, der nichts zu wissen scheint. Von all den großen Hässlichkeiten unweit der Küste. Wo beste Freunde sich bekämpfen und die besten Kämpfer sich befreunden. Wo Liebe sich im Dunkeln versteckt und all den Schmerz unter nackten Körpern bedeckt. Nicht so hier. Hier halten vier Augen fest zwei Hände, in Verbundenheit, die die Wunden heilt. Und plötzlich tobt um uns schon seit Beginn ein Sturm. Wir blicken uns an und lassen uns treiben. Geben uns selbst den Trommelwirbel wie der Orkan uns hochwirbelt. Auf einmal Stille. Blau. Weiß. Ein Vogel frisst mir die Wut und dir die Sorgen aus der Seele. Und auch wenn wir wieder zurückfallen sind wir frei. 
 
@@ -59,4 +61,5 @@ Wie zwei Möwen die sich mögen. Das Meer unter uns stößt vermehrt gegen den w
 
 <b>Derbe Kanten zeichnen den Umriss eines grauen Wesens.</b> 
 Seine raue Oberfläche glänzt nicht wenn die Sonne auf ihn scheint, sowie sein Schatten keine Täler bedeckt. Er ist keiner seiner großen Brüder. Und doch fließt derselbe Kies durch seine Venen, der schon seiner granitenen Familie den Sieg über das Gras und die Blumen ermöglichte. Nun hockt er neben der Wurzel eines hölzernen Riesen und betrachtet den Sonnenuntergang. Schwelgt in Erinnerungen an Tage, an denen der Wind liebevoll um ihn tanzte, Malachit kein fernes Verlangen bedeutete und wie er im Sturm noch die Sonne sah. Und doch läuft kein Kiesel über seine Wangen. Denn sein Volk weiß schon lange: Was gut ist vergeht und nichts steht für immer. Der Preis für Leben ist Streben und die Folge von Werden ist Sterben. Über die Äonen zu zerbröseln lässt einen von Gut und Böse lösen. Somit ist was ist und was nicht ist kann nicht sein und was wird das wird. Felserne Wahrheiten, die die Tränen zurückhalten. Wie lange bevor sich das erste Kalkmolekül auf seine eigene Reise macht? Zehntausend Jahre? Weniger? Deshalb genießt er in bittersüßer Melancholie jeden Sonnenuntergang vor seinem unaufhaltbaren Einzug in die ewigen Salzminen.
+
 </p>
