@@ -104,8 +104,7 @@ wie eine weinendes Kind <br>
 einen Reim so schön <br>
 wie ein erster Kuss <br>
 einen Reim so unendlich <br>
-der beweist dass nicht alles enden muss <br> <br>
-
+der beweist dass nicht alles enden muss <br>
 
 und damit wurden die Tänzer <br>
 zu Helden erkoren <br>
