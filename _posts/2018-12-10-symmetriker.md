@@ -8,7 +8,7 @@ klappentext: Feuer mit Feuer
 
 <p align="justify"> 
 
-<i>Exzerpt aus der Enzyklopädie der philosophischen Strömungen des dritten Jahrtausend nach F.W. Holzdieweide</i>
+<i>Exzerpt aus der Enzyklopädie der philosophischen Strömungen des späten 21. Jahrhundert nach F.W. Holzdieweide</i>
 
 <br><br><br>
 
