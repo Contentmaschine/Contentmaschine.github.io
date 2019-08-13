@@ -1,0 +1,13 @@
+---
+layout: post
+title: wenn die sonne ein hase ist
+klappentext: dann ist das leben keine lüge
+<> date: 2018-08-02 17:38
+<> author: contentmaschine
+---
+
+<div align="center">
+
+![_config.yml]({{ site.baseurl }}/images/ManAtSea.png)
+
+</div>
