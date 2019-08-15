@@ -6,46 +6,46 @@ klappentext: Leute kennenlernen.
 <> author: contentmaschine
 ---
 
-<br><br><i>
+<i>
 Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. 
 <br> 
 Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an.
-</i><br><br>
+</i><br>
 
 <br><b>Er</b><br>
 "Hey! Geld her oder ich stech dich ab!" 
 
-<br><br><i>
+<br><i>
 Ich schaue ihn fragend an. 
-</i><br><br>
+</i><br>
 
 <br><b>Er</b><br>
 "Geld her hab ich gesagt!"  
 
-<br><br><i>
+<br><i>
 Er fuchtelt wild mit seinem Taschenmesser herum. Ich sehe ihn furchtlos an. 
-</i><br><br>
+</i><br>
 
 <br><b>Ich</b><br>
 "Du hast dir den Falschen ausgesucht." 
 
-<br><br><i>
+<br><i>
 Ich knackse demonstrativ mit meinen Fingerknöcheln.  
-</i><br><br>
+</i><br>
 
 <br><b>Er</b><br>
 "Hast du sie noch alle? Ich hab ein Messer!"  
 
-<br><br><i>
+<br><i>
 Er schaut mich verständnislos an. 
-</i><br><br>
+</i><br>
 
 <br><b>Er</b><br>
 "Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" 
 
-<br><br><i>
+<br><i>
 Ich hebe einen Stein auf.  
-</i><br><br>
+</i><br>
 
 <br><b>Ich</b><br>
 "Diese Runde Messer, Stein, Papier verlierst du." 
@@ -58,9 +58,9 @@ Ich hebe einen Stein auf.
 <br><b>Ich</b><br> 
 "Genau. Und dass ich kämpfe. Aber das mindert die Tatsache nicht, dass ich ungeschlagen bin." 
 
-<br><br><i>
+<br><i>
 Wir blicken uns einige Momente prüfend an, unsere Beine zucken in korrekter Hollywoodmanier vor und zurück. Wir umkreisen uns wie zwei verliebte Jaguare.
-</i><br><br>
+</i><br>
 
 <br><b>Ich</b><br>
 "Was willst du eigentlich?"
@@ -74,34 +74,34 @@ Wir blicken uns einige Momente prüfend an, unsere Beine zucken in korrekter Hol
 "Häh- " 
 <br><b>Er</b><br> "Liebe? Was willst du denn?"
 
-<br><br><i> 
+<br><i> 
 Ich verstehe die Welt nicht mehr.  
-</i><br><br>
+</i><br>
 
 <br><b>Ich</b><br>
 "Vielleicht nicht von einem Messer gemördert zu werden?!" 
 <br><b>Er</b><br>
 "Unambitioniert." 
 
-<br><br><i>
+<br><i>
 Ich schnaube ungläubig.  
-</i><br><br>
+</i><br>
 
 <br><b>Ich</b><br>
 "Meine Güte, ich weiß nicht was ich will und ich habe kein Geld, keine Freunde und Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." 
 <br><b>Er</b><br>
 "Lügner, jeder kann einen Freund hergeben! Und zwar sich selber." 
 
-<br><br><i>
+<br><i>
 Ich lache schallend.
-</i><br><br>
+</i><br>
 
 <br><b>Ich</b><br>
 "Hahaha, Vorstadtpoet oder was?" 
 
-<br><br><i>
+<br><i>
 Er schaut missgünstig.  
-</i><br><br>
+</i><br>
 
 <br><b>Er</b><br>
 "Du bist gemein." 
@@ -113,24 +113,24 @@ Er schaut missgünstig.
  "Ich könnte auf dem Weg zur größten aller Partys sein." 
 <br><b>Er</b><br> "Bist du aber nicht, oder?" 
 
-<br><br><i>
+<br><i>
 Ich blicke verträumt in den Himmel.  
-</i><br><br>
+</i><br>
 
 <br><b>Ich</b><br>
 "Nein, du hast Recht. So komisch es klingt. Das ist das längste und tatsächlich netteste Gespräch heute. Meine Güte, der ganzen Woche." 
 <br><b>Er</b><br>
 "Für mich auch." 
 
-<br><br><i>
+<br><i>
 Ich blicke ihn an und stecke den Stein zurück in meine Hosentasche. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an.
-</i><br><br>
+</i><br>
 
 <br>  
 
-<br><br><i>
+<br><i>
 Einer von uns seufzt.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br> 
 "Wie konnte es jemals so weit kommen. Man muss zum Messer greifen um diese kollektive Isolation zu durchbrechen."
@@ -157,9 +157,9 @@ Einer von uns seufzt.
 <br><b>ein Anderer</b><br> 
 "Und das ist schwierig."
 
-<br><br><i>
+<br><i>
 Um unsere Füße marschiert unberührt von unseren Worten ein Battalion Ameisen.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 „Wir wurden einfach nicht gemacht für das was jetzt ist.“
@@ -184,18 +184,18 @@ Um unsere Füße marschiert unberührt von unseren Worten ein Battalion Ameisen.
 <br><b>ein Anderer</b><br>
 "Ein Rückzug in eine Illusion."
 
-<br><br><i>
+<br><i>
 Zwei Vögel fliegen weit über uns Richtung Süden.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Aber funktioniert das? Dass sie die Wahrheit gesehen haben und daran zerbrochen sind? Darf man das? Wo bleibt die Verantwortung? Wieso dürfen sie sich verstecken, wenn wir nicht können?" 
 <br><b>ein Anderer</b><br>
 "Hm, das stimmt... wahrscheinlich nicht. Ist aber ein netter Gedanke." 
 
-<br><br><i>
+<br><i>
 Eine Sternschnuppe bricht mit der Schwärze der Nacht, gegenüber packt eine Grille ihren Kontrabass aus. 
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Sag den Leuten die du gern hast, dass du sie gern hast." 
@@ -208,9 +208,9 @@ Eine Sternschnuppe bricht mit der Schwärze der Nacht, gegenüber packt eine Gri
 <br><b>ein Anderer</b><br>
 "Ich glaub auch." 
 
-<br><br><i>
+<br><i>
 Unsere Gehirnmaschinen rattern. 
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Aber heißt das dann, dass alle die denken und schreiben und leben voll mutig sind?" 
@@ -221,18 +221,18 @@ Unsere Gehirnmaschinen rattern.
 <br><b>ein Anderer</b><br>
 "Die Ochsen mit den größten Hörnern."
 
-<br><br><i>
+<br><i>
 Ich hebe einen kleinen Ast auf.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Vielleicht gibts ja wirklich nicht mehr zum Leben." 
 <br><b>ein Anderer</b><br>
 "Ein Stückchen Dreck auf der Windschutzscheibe des Universums..."
 
-<br><br><i>
+<br><i>
 Und breche ihn entzwei.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Aber was wenn? So what! Gedanken sind und bleiben schön. Und wenn wir den kosmischen Anspruch fallen lassen müssen. Dann ist es halt nur für mich und dich schön. Die Ewigkeit wird überbewertet."
@@ -241,9 +241,9 @@ Und breche ihn entzwei.
 <br><b>ein Anderer</b><br>
 "Nein, das sind wir nicht."
 
-<br><br><i>
+<br><i>
 Hinter uns hören wir einen Zug vorbeiziehen.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Mir doch egal was der Mond davon hält ob ich ein Gedicht schreibe." 
@@ -252,9 +252,9 @@ Hinter uns hören wir einen Zug vorbeiziehen.
 <br><b>ein Anderer</b><br>
 "Jetzt kommt gleich wieder wer, der denkt, dass er dann alles machen kann."
 
-<br><br><i>
+<br><i>
 Der Mond steht unbeeindruckt hoch am Himmel.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Homo homini deus."
@@ -265,9 +265,9 @@ Der Mond steht unbeeindruckt hoch am Himmel.
 <br><b>ein Anderer</b><br>
 "Aber Menschen sind wir alle."
 
-<br><br><i>
+<br><i>
 Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Wir müssen sie jetzt sofort stellen."
@@ -284,16 +284,16 @@ Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.
 <br><b>Einer</b><br>
 "Also, wenn Menschen schön und Gefühle wie Sternschnuppen sind, unsere tiefinnersten Bestrebungen kosmischen Bewegungen nichts nachstehen, Liebe wie eine Blume blühen kann und uns die Sinnlosigkeit lehrt, dass wir uns vom Sinn lösen müssen... in dieser Welt aber trotzdem Monster unter den Betten lauern, Gefühle genausoviel wert sind wie der Relativismus von dem sie verzerrt werden und die hellsten der Geister in depressivem Nebel versinken... wie können wir alle Menschen sein? Also: Sind wir wirklich alle Menschen?"
 
-<br><br><i>
+<br><i>
 Schweigen hüllt uns ein, wie ein Feuerwehrmann ein in den Fluss gefallenes Reh in eine Wärmedecke.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Sind wir alle Menschen..."
 
-<br><br><i>
+<br><i>
 Eine graue Katze schnurrt leise vorbei. Wir schweigen weiter.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Nein. Ich glaube nicht."
@@ -304,9 +304,9 @@ Eine graue Katze schnurrt leise vorbei. Wir schweigen weiter.
 <br><b>Einer</b><br>
 "Die machen wieder alles kaputt."
 
-<br><br><i>
+<br><i>
 Das Konzert der Grillen erreicht langsam zirpend seinen Höhepunkt.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Ich beschreibs gern mit einer Flamme. Menschsein ist ein Feuer im Kopf oder im Herzen zu haben."
@@ -315,9 +315,9 @@ Das Konzert der Grillen erreicht langsam zirpend seinen Höhepunkt.
 <br><b>ein Anderer</b><br>
 "Wir wissen nur, dass es dunkel ist."
 
-<br><br><i>
+<br><i>
 Eine kleine Wolke zieht vor den Mond und verstummt sein Licht, während wir jauchzen.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Alles was wir wollen ist Feuer anzuzünden."
@@ -328,16 +328,16 @@ Eine kleine Wolke zieht vor den Mond und verstummt sein Licht, während wir jauc
 <br><b>ein Anderer</b><br>
 "Erst wenn alle brennen haben wir vielleicht genug Licht um in der ganzen Dunkelheit etwas zu sehen."
 
-<br><br><i>
+<br><i>
 Das Jauchzen weicht Tränen.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Es wird nie funktionieren. Leute werden Leuten weh tun. Wir sehen im Feuer Wärme und Geborgenheit. Andere einen Scheiterhaufen. Diese Frage verlangt nach Erwachsenen, die wir nicht haben."
 
-<br><br><i>
+<br><i>
 Einer wird von Schluchzern geschüttelt, während der andere seine Arme um ihn schlingt.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Soll ich lügen?"
@@ -346,27 +346,27 @@ Einer wird von Schluchzern geschüttelt, während der andere seine Arme um ihn s
 <br><b>ein Anderer</b><br>
 "Alles wird gut."
 
-<br><br><i>
+<br><i>
 Es folgen nur noch weitere Schluchzer.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Zu eindeutig eine Lüge."
 <br><b>ein Anderer</b><br>
 "Ja, habs mir auch gedacht."
 
-<br><br><i>
+<br><i>
 Die Nacht neigt sich dem Ende zu.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Aber egal was passiert... unser Kompass wird nach Norden zeigen."
 <br><b>Einer</b><br>
 "Und manchmal nach oben."
 
-<br><br><i>
+<br><i>
 Wir kichern, während sich die Traurigkeit und die geschlungenen Arme in zwei haltende Hände auflösen.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Quo vadis?"
@@ -375,16 +375,16 @@ Wir kichern, während sich die Traurigkeit und die geschlungenen Arme in zwei ha
 <br><b>ein Anderer</b><br>
 "Zu einem grünen Meer und netten Leuten."
 
-<br><br><i>
+<br><i>
 Wir schauen uns an.
-</i><br><br>
+</i><br>
 
 <br><b>ein Anderer</b><br>
 "Was machen wir als erstes?"
 
-<br><br><i>
+<br><i>
 Wir lachen.
-</i><br><br>
+</i><br>
 
 <br><b>Einer</b><br>
 "Wer bin ich jetzt eigentlich?"
@@ -395,6 +395,6 @@ Wir lachen.
 <br><b>ein Anderer</b><br>
 "Gemeinsam durch die Dunkelheit."
 
-<br><br><i>
+<br><i>
 Wir stehen auf und gehen gemeinsam in das Licht eines neuen Sonnenaufgangs.
-</i><br><br>
+</i>
