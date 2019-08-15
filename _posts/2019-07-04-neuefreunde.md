@@ -12,6 +12,8 @@ Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsi
 Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an.
 </i><br>
 
+<br>
+
 <br><b>Er</b><br>
 "Hey! Geld her oder ich stech dich ab!" 
 
