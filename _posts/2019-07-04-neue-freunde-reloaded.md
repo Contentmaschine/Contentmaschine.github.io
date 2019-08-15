@@ -85,7 +85,7 @@ Ich verstehe die Welt nicht mehr.
 
 <br><i>
 Ich schnaube ungläubig.  
-</i><br>
+</i>
 
 <br><b>Ich</b><br>
 "Meine Güte, ich weiß nicht was ich will und ich habe kein Geld, keine Freunde und Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." 
@@ -125,8 +125,6 @@ Ich blicke verträumt in den Himmel.
 <br><i>
 Ich blicke ihn an und stecke den Stein zurück in meine Hosentasche. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an.
 </i><br>
-
-<br>  
 
 <br><i>
 Einer von uns seufzt.
@@ -282,7 +280,7 @@ Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.
 <br><b>ein Anderer</b><br>
 "Tu was du nicht lassen kannst."
 <br><b>Einer</b><br>
-"Also, wenn Menschen schön und Gefühle wie Sternschnuppen sind, unsere tiefinnersten Bestrebungen kosmischen Bewegungen nichts nachstehen, Liebe wie eine Blume blühen kann und uns die Sinnlosigkeit lehrt, dass wir uns vom Sinn lösen müssen... in dieser Welt aber trotzdem Monster unter den Betten lauern, Gefühle genausoviel wert sind wie der Relativismus von dem sie verzerrt werden und die hellsten der Geister in depressivem Nebel versinken... wie können wir alle Menschen sein? Also: Sind wir wirklich alle Menschen?"
+"Also, wenn Menschen schön und Gefühle wie Sternschnuppen sind, unsere tiefinnersten Bestrebungen kosmischen Bewegungen nichts nachstehen, Liebe wie eine Blume blühen kann und uns die Sinnlosigkeit lehrt, dass wir uns vom Sinn lösen müssen... in dieser Welt aber trotzdem Monster unter den Betten lauern, Gefühle genausoviel wert sind wie der Relativismus von dem sie verzerrt werden und die hellsten der Geister in depressivem Nebel versinken... wie können wir alle Menschen sein? Sind wir wirklich alle Menschen?"
 
 <br><i>
 Schweigen hüllt uns ein, wie ein Feuerwehrmann ein in den Fluss gefallenes Reh in eine Wärmedecke.
