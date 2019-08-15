@@ -156,7 +156,7 @@ Einer von uns seufzt.
 "Und das ist schwierig."
 
 <br><i>
-Um unsere Füße marschiert unberührt von unseren Worten ein Battalion Ameisen.
+Um unsere Füße marschiert unberührt von unseren Worten ein Bataillon Ameisen.
 </i><br>
 
 <br><b>ein Anderer</b><br>
