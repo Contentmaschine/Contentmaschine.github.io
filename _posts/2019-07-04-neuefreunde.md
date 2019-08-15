@@ -280,7 +280,7 @@ Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.
 <br><b>ein Anderer</b><br>
 "Tu was du nicht lassen kannst."
 <br><b>Einer</b><br>
-"Also, wenn Menschen schön und Gefühle wie Sternschnuppen sind, unsere tiefinnersten Bestrebungen kosmischen Bewegungen nichts nachstehen, Liebe wie eine Blume blühen kann und uns die Sinnlosigkeit lehrt, dass wir uns vom Sinn lösen müssen... in dieser Welt aber trotzdem Monster unter den Betten lauern, Gefühle genausoviel wert sind wie der Relativismus von dem sie verzerrt werden und die hellsten der Geister in depressivem Nebel versinken... wie können wir alle Menschen sein? Sind wir wirklich alle Menschen?"
+"Also, wenn Menschen schön und Gefühle wie Sternschnuppen sind, unsere tiefinnersten Bestrebungen kosmischen Bewegungen nichts nachstehen, Liebe wie eine Blume blühen kann und uns die Sinnlosigkeit lehrt, dass wir uns vom Sinn lösen müssen... in dieser Welt aber trotzdem Monster unter den Betten lauern, Gefühle genausoviel wert sind wie das Neonlicht von dem sie verzerrt werden und die hellsten der Geister in depressivem Nebel versinken... wie können wir alle Menschen sein? Sind wir wirklich alle Menschen?"
 
 <br><i>
 Schweigen hüllt uns ein, wie ein Feuerwehrmann ein in den Fluss gefallenes Reh in eine Wärmedecke.
