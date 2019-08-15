@@ -45,7 +45,7 @@ Er schaut mich verständnislos an.
 
 <br><i>
 Ich hebe einen Stein auf.  
-</i><br>
+</i>
 
 <br><b>Ich</b><br>
 "Diese Runde Messer, Stein, Papier verlierst du." 
@@ -101,7 +101,7 @@ Ich lache schallend.
 
 <br><i>
 Er schaut missgünstig.  
-</i><br>
+</i>
 
 <br><b>Er</b><br>
 "Du bist gemein." 
