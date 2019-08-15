@@ -30,8 +30,8 @@ Er fuchtelt wild mit seinem Taschenmesser herum. Ich sehe ihn furchtlos an.
 "Du hast dir den Falschen ausgesucht." 
 
 <br><i>
-Ich knackse demonstrativ mit meinen Fingerknöcheln.  
-</i>
+Ich knackse demonstrativ mit meinen Fingerknöcheln.
+</i><br>
 
 <br><b>Er</b><br>
 "Hast du sie noch alle? Ich hab ein Messer!"  
@@ -44,8 +44,8 @@ Er schaut mich verständnislos an.
 "Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" 
 
 <br><i>
-Ich hebe einen Stein auf.  
-</i>
+Ich hebe einen Stein auf.
+</i><br>
 
 <br><b>Ich</b><br>
 "Diese Runde Messer, Stein, Papier verlierst du." 
@@ -75,8 +75,8 @@ Wir blicken uns einige Momente prüfend an, unsere Beine zucken in korrekter Hol
 <br><b>Er</b><br> "Liebe? Was willst du denn?"
 
 <br><i> 
-Ich verstehe die Welt nicht mehr.  
-</i>
+Ich verstehe die Welt nicht mehr.
+</i><br>
 
 <br><b>Ich</b><br>
 "Vielleicht nicht von einem Messer gemördert zu werden?!" 
@@ -84,11 +84,11 @@ Ich verstehe die Welt nicht mehr.
 "Unambitioniert." 
 
 <br><i>
-Ich schnaube ungläubig.  
-</i>
+Ich schnaube ungläubig.
+</i><br>
 
 <br><b>Ich</b><br>
-"Meine Güte, ich weiß nicht was ich will und ich habe kein Geld, keine Freunde und Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." 
+"Meine Güte, ich weiß nicht was ich will und ich hab kein Geld, keine Freunde und Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." 
 <br><b>Er</b><br>
 "Lügner, jeder kann einen Freund hergeben! Und zwar sich selber." 
 
@@ -100,8 +100,8 @@ Ich lache schallend.
 "Hahaha, Vorstadtpoet oder was?" 
 
 <br><i>
-Er schaut missgünstig.  
-</i>
+Er schaut missgünstig.
+</i><br>
 
 <br><b>Er</b><br>
 "Du bist gemein." 
@@ -114,8 +114,8 @@ Er schaut missgünstig.
 <br><b>Er</b><br> "Bist du aber nicht, oder?" 
 
 <br><i>
-Ich blicke verträumt in den Himmel.  
-</i>
+Ich blicke verträumt in den Himmel.
+</i><br>
 
 <br><b>Ich</b><br>
 "Nein, du hast Recht. So komisch es klingt. Das ist das längste und tatsächlich netteste Gespräch heute. Meine Güte, der ganzen Woche." 
