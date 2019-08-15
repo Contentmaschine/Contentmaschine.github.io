@@ -31,7 +31,7 @@ Er fuchtelt wild mit seinem Taschenmesser herum. Ich sehe ihn furchtlos an.
 
 <br><i>
 Ich knackse demonstrativ mit meinen Fingerknöcheln.  
-</i><br>
+</i>
 
 <br><b>Er</b><br>
 "Hast du sie noch alle? Ich hab ein Messer!"  
@@ -67,7 +67,7 @@ Wir blicken uns einige Momente prüfend an, unsere Beine zucken in korrekter Hol
 <br><b>Er</b><br>
 "Geld?"
 <br><b>Ich</b><br>
-"War das eine Frage?"  
+"War das eine Frage?"
 <br><b>Er</b><br>
 "Freunde?" 
 <br><b>Ich</b><br>
