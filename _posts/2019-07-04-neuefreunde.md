@@ -276,7 +276,7 @@ Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.
 <br><b>ein Anderer</b><br>
 "Sie könnte alles kaputtmachen."
 <br><b>Einer</b><br>
-"In Momenten wie diesen muss man mutig sein... Darf ich?"
+"In Momenten wie diesen muss man mutig sein... darf ich?"
 <br><b>ein Anderer</b><br>
 "Tu was du nicht lassen kannst."
 <br><b>Einer</b><br>
