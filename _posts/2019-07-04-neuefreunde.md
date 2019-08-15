@@ -1,6 +1,6 @@
 ---
 layout: post
-title: neue freunde reloaded 
+title: neue freunde
 klappentext: Leute kennenlernen.
 <> date: 2019-07-04 22:00
 <> author: contentmaschine
@@ -76,7 +76,7 @@ Wir blicken uns einige Momente prüfend an, unsere Beine zucken in korrekter Hol
 
 <br><i> 
 Ich verstehe die Welt nicht mehr.  
-</i><br>
+</i>
 
 <br><b>Ich</b><br>
 "Vielleicht nicht von einem Messer gemördert zu werden?!" 
@@ -115,7 +115,7 @@ Er schaut missgünstig.
 
 <br><i>
 Ich blicke verträumt in den Himmel.  
-</i><br>
+</i>
 
 <br><b>Ich</b><br>
 "Nein, du hast Recht. So komisch es klingt. Das ist das längste und tatsächlich netteste Gespräch heute. Meine Güte, der ganzen Woche." 
