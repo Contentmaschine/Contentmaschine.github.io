@@ -8,11 +8,9 @@ klappentext: Leute kennenlernen.
 
 <i>
 Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. 
-<br> 
+<br> <br>
 Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an.
 </i><br>
-
-<br>
 
 <br><b>Er</b><br>
 "Hey! Geld her oder ich stech dich ab!" 
