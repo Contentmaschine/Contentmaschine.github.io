@@ -4,4 +4,4 @@ title:
 permalink: /galerie/
 ---
 
-Bilder
+work in progress (html nicht die bilder(ok auch die bilder(aber hauptsächlich das html)))
