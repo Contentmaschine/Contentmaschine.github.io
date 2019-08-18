@@ -4,4 +4,9 @@ title:
 permalink: /galerie/
 ---
 
-work in progress (html nicht die bilder(ok auch die bilder(aber hauptsächlich das html)))
+![_config.yml]({{ site.baseurl }}/images/pingu.png)
+
+<br>
+
+![_config.yml]({{ site.baseurl }}/images/Fox.png)
+
