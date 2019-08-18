@@ -19,14 +19,14 @@ permalink: /galerie/
 ![_config.yml]({{ site.baseurl }}/images/Fox.png)
 <br><br>
 
-<p style="font-size:20px"><b><div style="text-align:center">Pingu der Fischzauberer</b></p>
+<p style="font-size:20px"><b><div style="text-align:center">Pingu der Fischzauberer</div></b></p>
 <br>
-Mammutfreund, Mondtänzer, Makrelenenthusiast </div>
+<div style="text-align:center">Mammutfreund, Mondtänzer, Makrelenenthusiast </div>
 
 ![_config.yml]({{ site.baseurl }}/images/pingu.png)
 <br><br>
 
-<p style="font-size:20px"><b><div style="text-align:center">Knuffl</b></div></p>
+<p style="font-size:20px"><b><div style="text-align:center">Knuffl</div></b></p>
 
 ![_config.yml]({{ site.baseurl }}/images/Knuffl.png)
 <!-- <br><br> -->
