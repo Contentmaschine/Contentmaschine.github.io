@@ -7,7 +7,7 @@ driveId: 1UXorbQjZRcKPEizMDZQVeko2pXgKfgRc/preview
 <a href="https://drive.google.com/file/d/1UXorbQjZRcKPEizMDZQVeko2pXgKfgRc/view?usp=sharing">SharedGoogleDriveFile</a>
 </p> 
 <p class="desktop">
-
+<a href="https://drive.google.com/file/d/1UXorbQjZRcKPEizMDZQVeko2pXgKfgRc/view?usp=sharing">SharedGoogleDriveFile</a>
 </p> -->
 
 <p id="changeMe">{% include googleDrivePlayer.html id=page.driveId %}</p>
