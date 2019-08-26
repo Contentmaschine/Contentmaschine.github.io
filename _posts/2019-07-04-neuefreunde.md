@@ -268,7 +268,7 @@ Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.
 </i><br>
 
 <br><b>Einer</b><br>
-"Wir müssen sie jetzt sofort stellen."
+"Oh nein."
 <br><b>ein Anderer</b><br>
 "Können wir sie nicht einfach ziehen lassen?"
 <br><b>Einer</b><br>
