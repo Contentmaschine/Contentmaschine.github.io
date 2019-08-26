@@ -318,13 +318,13 @@ Eine kleine Wolke zieht vor den Mond und verstummt sein Licht, während wir jauc
 </i><br>
 
 <br><b>Einer</b><br>
-"Alles was wir wollen ist Feuer anzuzünden."
+"Aber alles was wir wollen ist Feuer anzuzünden."
 <br><b>ein Anderer</b><br>
 "Wir kämpfen für die Menschheit in uns."
 <br><b>Einer</b><br>
 "Und für die Menschheit um uns."
 <br><b>ein Anderer</b><br>
-"Erst wenn alle brennen haben wir vielleicht genug Licht um in der ganzen Dunkelheit etwas zu sehen."
+"Erst wenn wir alle brennen haben wir vielleicht genug Licht um in der ganzen Schwärze etwas zu sehen."
 
 <br><i>
 Das Jauchzen weicht Tränen.
