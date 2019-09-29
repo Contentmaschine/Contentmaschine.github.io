@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nachleben
-klappentext:
+klappentext: tausend Dinge auf einmal
 align: <center>
 <> date: 2019-02-19 20:01
 <> author: contentmaschine
