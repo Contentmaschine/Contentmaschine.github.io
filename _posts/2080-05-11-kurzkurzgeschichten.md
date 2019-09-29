@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kurzkurzgeschichten 
-klappentext: 1+ Sätze & <1500 Zeichen
+klappentext: 1+ Sätze & <1466 Zeichen
 <> date: 2019-05-11 17:38
 <> author: contentmaschine
 ---
