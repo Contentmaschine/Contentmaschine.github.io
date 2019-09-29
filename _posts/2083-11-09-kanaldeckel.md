@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kanaldeckel heben sich selten
-klappentext: mit steinerner Faust Kiefer einschlagen
+klappentext:
 <> date: 2018-11-10 20:01
 <> author: contentmaschine
 ---
