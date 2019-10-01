@@ -9,7 +9,7 @@ klappentext: 1+ Sätze & <1466 Zeichen
 <p align="justify"> 
 
 <b>Regentropfen</b>
-tropfen uniform im Regen. Blau-silberne Strahlen die sich unentwegt auf das Herz dieser Welt bewegen. Es war ein Herz aus Stahl, eines aus Metallen aller Art. Mit Venen aus Lapis, Kanülen aus Zinnober, Adern aus Onyx. Wo das Blut aus feurigster Glut. Ein Herz nicht gehärtet durch das Leben, sondern geschmiedet vom Schicksal. Ein Herz das nicht erlaubt war von den Sternen zu träumen sondern in kalter Universumskälte den braven Trabanten zu mimen. Die Andromedanebel zwar zu atmen, aber ihrem Ruf nicht folgen zu dürfen. Leben ist Tragödie. Und nichts war so sehr am Leben, wie diese Amalgamation an Kohlenstoff und Bindungen.
+tropfen uniform im Regen. Blau-silberne Strahlen die sich unentwegt auf das Herz dieser Welt bewegen. Es war ein Herz aus Stahl, eines aus Metallen aller Art. Mit Venen aus Lapis, Kanülen aus Zinnober, Adern aus Onyx. Wo das Blut aus feurigster Glut. Ein Herz nicht gehärtet durch das Leben, sondern geschmiedet vom Schicksal. Ein Herz das nicht erlaubt war von den Sternen zu träumen sondern in kalter Universumskälte den braven Trabanten zu mimen. Die Andromedanebel zwar zu atmen, aber ihrem Ruf nicht folgen zu dürfen. Leben ist Tragödie. Und nichts war so sehr am Leben, wie dieser Zusammenschluss aus Kohlenstoff und Bindungen.
 
 <br><br>
 
