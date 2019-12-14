@@ -50,7 +50,7 @@ um uns zu bringen was wir verloren <br>
 wir ihn erkoren
 </div>
 
-<br><br>
+<br>
 
 <p align="justify"> 
 
