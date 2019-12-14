@@ -55,7 +55,7 @@ wir ihn erkoren
 <p align="justify"> 
 
 <b>Wir sitzen an der Kippe einer Klippe.</b>
-Wie zwei Möwen die sich mögen. Das Meer unter uns stößt vermehrt gegen den weißen Stein, der nichts zu wissen scheint. Von all den großen Hässlichkeiten unweit der Küste. Wo beste Freunde sich bekämpfen und die besten Kämpfer sich befreunden. Wo Liebe sich im Dunkeln versteckt und all den Schmerz unter nackten Körpern bedeckt. Nicht so hier. Hier halten vier Augen fest zwei Hände, in Verbundenheit, die die Wunden heilt. Und plötzlich tobt um uns ein Sturm. Wir blicken uns an und lassen uns treiben, geben uns selbst den Trommelwirbel wie der Orkan uns hochwirbelt. Auf einmal Stille. Blau. Weiß. Ein Vogel frisst mir die Wut und dir die Sorgen aus der Seele. Und auch wenn wir wieder zurückfallen sind wir frei. 
+Wie zwei Möwen die sich mögen. Das Meer unter uns stößt vermehrt gegen den weißen Stein, der nichts zu wissen scheint. Von all den großen Hässlichkeiten unweit der Küste. Wo beste Freunde sich bekämpfen und die besten Kämpfer sich befreunden. Wo Liebe sich im Dunkeln versteckt und all den Schmerz unter nackten Körpern bedeckt. Nicht so hier. Hier halten vier Augen fest zwei Hände, in Verbundenheit, die die Wunden heilt.
 
 <br><br>
 
