@@ -2,7 +2,6 @@
 layout: post
 title: Homo Feuer
 klappentext:
-align: <center>
 <> date: 2019-12-12 20:01
 <> author: contentmaschine
 ---
