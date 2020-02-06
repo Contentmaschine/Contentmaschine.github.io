@@ -32,7 +32,7 @@ und was mit hellem Schein begann <br>
 nun schnell in größter Furcht verrann <br>
 und Reh erschrickt am eigenen Schrei <br>
 da Amsel nur noch Knochen sei <br>
-durch prasselnde Glut zu Asche verbrennt <br>
+durch graue Glut zu Asche verbrennt <br>
 die Flamme sich jetzt Feuer nennt <br>
 und Hitze, Hitze, immer mehr <br>
 und Licht und Licht aus Feuermeer <br>
