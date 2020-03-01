@@ -406,5 +406,5 @@ Wir lachen.
 "Gemeinsam durch die Dunkelheit."
 
 <br><i>
-Wir stehen auf und gehen gemeinsam in das Licht eines neuen Sonne.
+Wir stehen auf und gehen gemeinsam in das Licht einer neuen Sonne.
 </i>
