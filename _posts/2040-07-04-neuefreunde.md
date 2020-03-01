@@ -52,7 +52,7 @@ Ich hebe einen Stein auf.
 <br><b>Er</b><br>
 "Ich glaub, du überschätzt deine Kampfkünste ein wenig." 
 <br><b>Ich</b><br>
-"Wär das erste Mal." 
+"Wäre das erste Mal." 
 <br><b>Er</b><br>
 "Dass du sie überschätzt?"
 <br><b>Ich</b><br> 
@@ -88,7 +88,7 @@ Ich schnaube ungläubig.
 </i><br>
 
 <br><b>Ich</b><br>
-"Meine Güte, ich weiß nicht was ich will und ich hab kein Geld, keine Freunde und Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." 
+"Meine Güte, ich weiß nicht was ich will und Geld, Freunde, Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." 
 <br><b>Er</b><br>
 "Lügner, jeder kann einen Freund hergeben! Und zwar sich selber." 
 
@@ -110,7 +110,7 @@ Er schaut missgünstig.
 <br><b>Er</b><br>
 "Und doch bist du immer noch hier, bist nicht nervös, nicht ängstlich, nicht einmal wütend. Wieso geht man denn spätabends alleine spazieren?" 
 <br><b>Ich</b><br>
- "Ich könnte auf dem Weg zur größten aller Partys sein." 
+"Ich könnte auf dem Weg zur größten aller Partys sein." 
 <br><b>Er</b><br> "Bist du aber nicht, oder?" 
 
 <br><i>
@@ -123,7 +123,7 @@ Ich blicke verträumt in den Himmel.
 "Für mich auch." 
 
 <br><i>
-Ich blicke ihn an und stecke den Stein zurück in meine Hosentasche. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an.
+Ich blicke ihn an und lege den Stein auf den Boden. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an.
 </i><br>
 
 <br><i>
@@ -307,7 +307,7 @@ Das Konzert der Grillen erreicht langsam zirpend seinen Höhepunkt.
 </i><br>
 
 <br><b>ein Anderer</b><br>
-"Ich beschreibs gern mit einer Flamme. Menschsein ist ein Feuer im Kopf oder im Herzen zu haben."
+"Ich beschreib es gern mit einer Flamme. Menschsein ist ein Feuer im Kopf und im Herzen zu haben."
 <br><b>Einer</b><br>
 "Wer weiß ob manche Leute erloschen auf die Welt kommen."
 <br><b>ein Anderer</b><br>
@@ -318,13 +318,25 @@ Eine kleine Wolke zieht vor den Mond und verstummt sein Licht, während wir jauc
 </i><br>
 
 <br><b>Einer</b><br>
-"Aber alles was wir wollen ist Feuer anzuzünden."
+"Alles was wir wollen ist Feuer anzuzünden."
 <br><b>ein Anderer</b><br>
 "Wir kämpfen für die Menschheit in uns."
 <br><b>Einer</b><br>
 "Und für die Menschheit um uns."
 <br><b>ein Anderer</b><br>
-"Erst wenn wir alle brennen haben wir vielleicht genug Licht um in der ganzen Schwärze etwas zu sehen."
+"Erst wenn wir alle brennen, haben wir vielleicht genug Licht, um in der ganzen Schwärze etwas zu sehen."
+
+
+<br><i>
+Wir erinnern uns.
+</i><br>
+
+<br><b>Einer</b><br>
+"Zwielicht ist ein schönes Licht"
+<br><b>ein Anderer</b><br>
+"Im Zwielicht sieht man nämlich nicht"
+<br><b>Einer</b><br>
+"wie ringsherum die Welt zerbricht."
 
 <br><i>
 Das Jauchzen weicht Tränen.
@@ -334,7 +346,7 @@ Das Jauchzen weicht Tränen.
 "Es wird nie funktionieren. Leute werden Leuten weh tun. Wir sehen im Feuer Wärme und Geborgenheit. Andere einen Scheiterhaufen. Diese Frage verlangt nach Erwachsenen, die wir nicht haben."
 
 <br><i>
-Einer wird von Schluchzern geschüttelt, während der andere seine Arme um ihn schlingt.
+Einer wird von Schluchzern geschüttelt, während der Andere seine Arme um ihn schlingt.
 </i><br>
 
 <br><b>ein Anderer</b><br>
@@ -394,5 +406,5 @@ Wir lachen.
 "Gemeinsam durch die Dunkelheit."
 
 <br><i>
-Wir stehen auf und gehen gemeinsam in das Licht einer neuen Sonne.
+Wir stehen auf und gehen gemeinsam in das Licht eines neuen Sonne.
 </i>
