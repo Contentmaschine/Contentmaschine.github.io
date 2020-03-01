@@ -108,7 +108,7 @@ Er schaut missgünstig.
 <br><b>Ich</b><br>
 "Also habe ich das richtig verstanden, du willst dir einen Freund erräubern? So funktioniert das nicht." 
 <br><b>Er</b><br>
-"Und doch bist du immer noch hier, bist nicht nervös, nicht ängstlich, nicht einmal wütend. Wieso geht man denn spätabends alleine spazieren?" 
+"Und doch bist du immer noch hier, nicht nervös, nicht ängstlich, nicht einmal wütend. Wieso geht man denn spätabends alleine spazieren?" 
 <br><b>Ich</b><br>
 "Ich könnte auf dem Weg zur größten aller Partys sein." 
 <br><b>Er</b><br> "Bist du aber nicht, oder?" 
