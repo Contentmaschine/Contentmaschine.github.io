@@ -100,7 +100,7 @@ einen Reim zurück <br>
 einen Reim so zart <br>
 wie ein Blatt im Wind <br>
 einen Reim so traurig <br>
-wie eine weinendes Kind <br>
+wie ein weinendes Kind <br>
 einen Reim so schön <br>
 wie ein erster Kuss <br>
 einen Reim so unendlich <br>
