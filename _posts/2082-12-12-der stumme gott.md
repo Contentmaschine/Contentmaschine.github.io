@@ -6,42 +6,42 @@ klappentext:
 <> author: contentmaschine
 ---
 
-Die Welt ist ein Kreis.
-Immer nimmt alles seinen Lauf.
-Was beginnt hört wieder auf.
-Was vergeht.
-Aufersteht.
-Das, was für alle Zeiten bleibt.
-Sich mit der Gottesregel reibt.
-
-Die Welt ist ein Kreis.
-Eine Welt, die Schmerz nicht Schmerzen nennt.
-Wesen um Wesen sein Leid nicht kennt.
-Ein gott.
-Der nicht Gezeiten lenkt.
-Für den ein Taschenrechner denkt.
-Von keiner Wahrheit weiß.
-Denn dieser gott ein Kreis.
-
-Ein Kreis mit Krallen, Federn.
-Mit Schnabel, Huf und Schweif.
-Von Küken, Hahn und Henne.
-Von Adler und von Greif.
-Ein gott der kräht und piept.
-Von keiner Macht geliebt.
-Ein Wesen das sich windet.
-Dessen Weisung niemand bindet.
-Auf alle Bitten hört.
-Und sich an keiner stört.
-
-Ein gott der nur verliert.
-Doch tausendfach gebiert.
-Sein Schaffen kennt kein Ende.
-Seine Taten sprechen Bände.
-Er die Welt als Kreis verflucht.
-Doch keinen Anfang sucht.
-
-Verlassen und verloren.
-Zur Untat auserkoren.
-Nicht böse und nicht dumm.
+Die Welt ist ein Kreis. <br>
+Immer nimmt alles seinen Lauf. <br>
+Was beginnt hört wieder auf. <br>
+Was vergeht. <br>
+Aufersteht. <br>
+Das, was für alle Zeiten bleibt. <br>
+Sich mit der Gottesregel reibt. <br>
+ <br>
+Die Welt ist ein Kreis. <br>
+Eine Welt, die Schmerz nicht Schmerzen nennt. <br>
+Wesen um Wesen sein Leid nicht kennt. <br>
+Ein gott. <br>
+Der nicht Gezeiten lenkt. <br>
+Für den ein Taschenrechner denkt. <br>
+Von keiner Wahrheit weiß. <br>
+Denn dieser gott ein Kreis. <br>
+ <br>
+Ein Kreis mit Krallen, Federn. <br>
+Mit Schnabel, Huf und Schweif. <br>
+Von Küken, Hahn und Henne. <br>
+Von Adler und von Greif. <br>
+Ein gott der kräht und piept. <br>
+Von keiner Macht geliebt. <br>
+Ein Wesen das sich windet. <br>
+Dessen Weisung niemand bindet. <br>
+Auf alle Bitten hört. <br>
+Und sich an keiner stört. <br>
+ <br>
+Ein gott der nur verliert. <br>
+Doch tausendfach gebiert. <br>
+Sein Schaffen kennt kein Ende. <br>
+Seine Taten sprechen Bände. <br>
+Er die Welt als Kreis verflucht. <br>
+Doch keinen Anfang sucht. <br>
+ <br>
+Verlassen und verloren. <br>
+Zur Untat auserkoren. <br>
+Nicht böse und nicht dumm. <br>
 Stumm.
