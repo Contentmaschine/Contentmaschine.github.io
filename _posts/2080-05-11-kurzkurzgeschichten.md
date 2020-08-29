@@ -68,8 +68,6 @@ Seine raue Oberfläche glänzt nicht wenn die Sonne auf ihn scheint, sowie sein 
 
 <br><br>
 
-<b>Van Weidenholz : Anfänge</b> Eine laue Brise wehte durch das offene Fenster und brachte die arbiträren Geräusche der Stadt mit sich. „Alles Scheiße.“, dachte sich Felix van Weidenholz, Poet und Autor per excellance. Der zu Ruhe entkommene Seemann, der die dunkelsten Meere des gefallenen Kontinents befahren hatte, blickte in die Ferne. Sie rief ihn förmlich. „HEY FELIX! LANGE NICHT GESEHEN.“ Nostalgisch blickte Felix van Weidenholz auf die Artefakte und Mitbringsel seiner Abenteuer, die durch seine Wohnung verstreut lagen. Über ihnen, an den Wänden, hangen die Meisterwerke, die ihm seinen Ruhm gebracht hatten. Seine Lebenswerke, seine Sonne und Mond, seine Werke über die Mechaniken der Welt. Doch lange schon plagte ihn ein durchdringendes Gefühl, denn er wusste, dass er noch nicht die ganze Wahrheit kannte, nichts wirklich durchschaut hatte. Eine einsame Träne floss sein Wange hinunter, denn er hatte alles erforscht und erkundet und konnte trotzdem nicht zufrieden sein. Ein gigantisches Geräusch von draußen ließ ihn aufschrecken. Eine riesige fliegende Lokomotive durchdrang die Wolken über New Piccadily und ließ über Mark und Bein durchdringende Lautsprecher verkünden: „DER HIMMEL IST ERSCHLOSSEN WORDEN. LONDON WIRD FLIEGEN.“ Man konnte nur noch einen Blitz durch Felix van Weidenholz‘ Wohnung sausen sehen, wie ein Rucksack gepackt wurde und die Tür ins Schloss fiel. Lange noch würde man sich von einem Jauchzer erzählen, der auch in weit entfernten Gassen erklang. Nach einem Leben auf der See, zog es Felix van Weidenholz nun in die Lüfte.
-Und so fängt die Geschichte an.
 
 
 </p>
