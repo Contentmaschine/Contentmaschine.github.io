@@ -6,6 +6,8 @@ klappentext:
 <> author: contentmaschine
 ---
 
+<p align="justify"> 
+  
 <u>Kapitel 1</u>
 
 Lily war immer schon ein schüchternes Kind gewesen. Wenn ihre Eltern sie zum Essen riefen, versteckte Lily sich in jedem erdenklichen Kasten, sodass sie zum Esstisch nur noch geflüstert wurde. Flitzten die Nachbarskinder spätabends springend und tollend durch die Straßen, lag Lily unter einem Hügel aus Decken wie Pölstern und malte sich mit Pastellkreiden in große, dunkle Höhlen. Zu ihrem zehnten Geburtstag wanderte ihre Familie mit ihr in einen tiefen Wald und keiner sprach von Früh bis Abend ein einziges Wort, was wohl der beste Tag in Lilys bisherigem Leben war. 
