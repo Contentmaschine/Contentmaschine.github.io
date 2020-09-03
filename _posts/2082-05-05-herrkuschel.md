@@ -17,3 +17,5 @@ Als solch ruhige und kontrollierte Person ließ Lily sich in die Schubladen ihre
 Bis sie Herrn Kuschel traf. Beide lernten sich kennen, als Lily, unter der Brücke mit den gelben Blumen, Herrn Kuschel beim Sprayen eines Anarcho-Zeichens beobachtete. Noch nie hatte sie einen Teddybären ein Verbrechen begehen gesehen. Ein unbändiges Grinsen schlich sich auf ihre Lippen, das Lily gänzlich ungewohnt war und auch nicht wieder weg ging. Sie fühlte sich dem Zeichen hingezogen wie die Katze dem Kater, die Mücke dem Licht und wie sie bald lernen würde, die Unterdrückung dem Menschen. Erst nach einer gefühlten Ewigkeit an geröteten Wangen und einem komischen Gefühl im Bauch, hatte Lily, in all ihrer kindlichen Unschuld, irgendwie verstanden, dass sie sich gerade verliebt hatte. Und wie Herr Kuschel die Dose dann schüttelte und ein "FUCK THE SYSTEM" ansetzte, konnte sie sich nicht halten, das zu tun, was niemand, sie miteingeschlossen, jemals von ihr erwartet hätte. Sie ging auf ihn zu. Blickte ihn an. Und stellte sich vor. 
 <br><br>
 Damit begann ein Leben voller Symbolik, Schwarzpulver und aufwühlender Reden. Denn Herr Kuschel war ein Anarchist. 
+
+</p>
