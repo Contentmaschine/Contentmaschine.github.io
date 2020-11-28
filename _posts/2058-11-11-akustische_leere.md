@@ -1,7 +1,7 @@
 ---
 layout: post
 title: _
-klappentext: <a href="https://contentmaschine.github.io/promtply/">promptly</a>
+klappentext: <a href="https://contentmaschine.github.io/promptly/">promptly</a>
 <> date: 2020-11-20 20:01
 <> author: contentmaschine
 ---
