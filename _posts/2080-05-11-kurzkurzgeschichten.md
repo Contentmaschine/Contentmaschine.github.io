@@ -68,6 +68,6 @@ Seine raue Oberfläche glänzt nicht wenn die Sonne auf ihn scheint, sowie sein 
 
 <br><br>
 
-
+<b>Es war dunkel geworden</b> und meine Schwester unauffindbar. Keiner hatte sie gesehen und keiner gehört. Als hätte sie sich in ihrem Unglück einfach in Luft aufgelöst, wäre davongeflogen, wie einer der Vögel, von denen sie so gerne zeichnete. Vielleicht konnte sie nun tatsächlich die Freiheit schmecken, von denen ihr die Fäuste unseres Vaters die letzten Jahre zu erzählen schienen. Dieses beständige Talent, jene unnachgiebige Begabung, selbst im trübsten Licht die Farben zu sehen, hatte sie zu dem still schlagenden, blutroten Herz unserer Familie gemacht.
 
 </p>
