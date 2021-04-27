@@ -70,4 +70,8 @@ Seine raue Oberfläche glänzt nicht wenn die Sonne auf ihn scheint, sowie sein 
 
 <b>Es war dunkel geworden</b> und meine Schwester unauffindbar. Keiner hatte sie gesehen und keiner gehört. Als hätte sie sich in ihrem Unglück einfach in Luft aufgelöst, wäre davongeflogen, wie einer der Vögel, von denen sie so gerne zeichnete. Vielleicht konnte sie nun tatsächlich die Freiheit schmecken, von denen ihr die Fäuste unseres Vaters die letzten Jahre zu erzählen schienen. Dieses beständige Talent, jene unnachgiebige Begabung, selbst im trübsten Licht die Farben zu sehen, hatte sie zu dem still schlagenden, blutroten Herz unserer Familie gemacht.
 
+<br><br>
+
+Sie saßen im Bett und blickten sich an, schworen sich Treue egal wo, egal wann. Er mit dem verträumten Blick und den herbstbraunen Haaren, sie mit den himmelblauen Augen und dem Versprechen, dass sie sind und nicht waren. So saßen sie sich gegenüber und er sagte: "Ich liebe dich sehr." Ihre Augen kein Himmel, sondern ein Meer. Und lange bevor sich die ersten Schluchzer aus den Kehlen krallen, waren sie sich bereits in die Arme gefallen.
+
 </p>
