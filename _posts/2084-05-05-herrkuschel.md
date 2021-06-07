@@ -32,7 +32,7 @@ Damit begann ein Leben voller Symbolik, Schwarzpulver und aufwühlender Reden. D
 
 <br><br>
 
-Herr Kuschel schob den Vorhang aus Tabakqualm beiseite, der das Hinterzimmer des <k>Hölzernen Schuh</k> vor neugierigen Blicken verschlossen hielt und führte Lily in ein Labyrinth aus beständigem Gemurmel, bestückt mit funkelnden Augen im Schatten hoher Hüte. Hände schüttelnd schob Herr Kuschel sich und Lily durch den dichten Nebel, seine Wortwechsel leise und präzise. Nur eine der Hände ließ, mit einem rasch geäußerten "Freiheit für Baron Piep!", etwas Lebendiges an sich erahnen, wobei die Anwesenden alles daranlegten, den Moment ungeschehen zu machen. Doch statt es ihnen gleich zu tun, krempelte Herr Kuschel weder seinen Mantelkragen hoch, noch vertiefte er sich demonstrativ in einer Zeitung. Er drückte die Hand fest, hielt sie nur für den Bruchteil einer Sekunde länger als nötig und hatte doch dem ganzen Raum eine eindeutige Nachricht gesandt. Herr Kuschel stand hinter Baron Piep. Wie ein Laubfeuer an einem nieseligen Tag, schwabbte die Nachricht durch die diffusen Lichtverhältnisse des Raumes und brachte Ohren zum Lauschen.
+Herr Kuschel schob den Vorhang aus Tabakqualm beiseite, der das Hinterzimmer des <i>Hölzernen Schuh</i> vor neugierigen Blicken verschlossen hielt und führte Lily in ein Labyrinth aus beständigem Gemurmel, bestückt mit funkelnden Augen im Schatten hoher Hüte. Hände schüttelnd schob Herr Kuschel sich und Lily durch den dichten Nebel, seine Wortwechsel leise und präzise. Nur eine der Hände ließ, mit einem rasch geäußerten "Freiheit für Baron Piep!", etwas Lebendiges an sich erahnen, wobei die Anwesenden alles daranlegten, den Moment ungeschehen zu machen. Doch statt es ihnen gleich zu tun, krempelte Herr Kuschel weder seinen Mantelkragen hoch, noch vertiefte er sich demonstrativ in einer Zeitung. Er drückte die Hand fest, hielt sie nur für den Bruchteil einer Sekunde länger als nötig und hatte doch dem ganzen Raum eine eindeutige Nachricht gesandt. Herr Kuschel stand hinter Baron Piep. Wie ein Laubfeuer an einem nieseligen Tag, schwabbte die Nachricht durch die diffusen Lichtverhältnisse des Raumes und brachte Ohren zum Lauschen.
 
 <br><br>
 
@@ -48,7 +48,7 @@ Durch das folgende Schweigen hindurch, stupste Lily Herrn Kuschel an und flüste
 
 <br><br>
 
-Sie reichten den Vertrag reihum und schlussendlich drückte Herr Kuschel seine tintene Pfote neben die Krallen, zwei Klauen und eine Tatze: "Somit ist es beschlossen. Die <k>Schwarze Rose</k> wird ihre Dornen zeigen.", sprach er feierlich. Und wie Dame Kulimu den Port holen ging, blickten sich Lily und Herr Kuschel aufgeregt an. "Und was passiert jetzt?", fragte Lily mit großen Augen. Herr Kuschel grinste sie an. "Jetzt warten wir auf die Revolution."
+Sie reichten den Vertrag reihum und schlussendlich drückte Herr Kuschel seine tintene Pfote neben die Krallen, zwei Klauen und eine Tatze: "Somit ist es beschlossen. Die <i>Schwarze Rose</i> wird ihre Dornen zeigen.", sprach er feierlich. Und wie Dame Kulimu den Port holen ging, blickten sich Lily und Herr Kuschel aufgeregt an. "Und was passiert jetzt?", fragte Lily mit großen Augen. Herr Kuschel grinste sie an. "Jetzt warten wir auf die Revolution."
 
 <br><br>
 
