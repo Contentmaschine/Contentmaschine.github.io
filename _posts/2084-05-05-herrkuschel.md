@@ -26,7 +26,7 @@ Bis sie Herrn Kuschel traf. Beide lernten sich kennen, als Lily, unter der Brüc
 
 Damit begann ein Leben voller Symbolik, Schwarzpulver und aufwühlender Reden. Denn Herr Kuschel war ein Anarchist. 
 
-<br><br><br>
+<br><br>
 
 <u>Kapitel 2</u>
 
