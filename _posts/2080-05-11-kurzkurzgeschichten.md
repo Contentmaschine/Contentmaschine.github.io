@@ -72,6 +72,11 @@ Seine raue Oberfläche glänzt nicht wenn die Sonne auf ihn scheint, sowie sein 
 
 <br><br>
 
-Sie saßen im Bett und blickten sich an, schworen sich Treue egal wo, egal wann. Er mit dem verträumten Blick und den herbstbraunen Haaren, sie mit den himmelblauen Augen und dem Versprechen, dass sie sind und nicht waren. So saßen sie sich gegenüber und er sagte: "Ich liebe dich sehr." Ihre Augen kein Himmel, sondern ein Meer. Und lange bevor sich die ersten Schluchzer aus den Kehlen krallen, waren sie sich bereits in die Arme gefallen.
+<b>Sie saßen im Bett</b> und blickten sich an, schworen sich Treue egal wo, egal wann. Er mit dem verträumten Blick und den herbstbraunen Haaren, sie mit den himmelblauen Augen und dem Versprechen, dass sie sind und nicht waren. So saßen sie sich gegenüber und er sagte: "Ich liebe dich sehr." Ihre Augen kein Himmel, sondern ein Meer. Und lange bevor sich die ersten Schluchzer aus den Kehlen krallen, waren sie sich bereits in die Arme gefallen.
+
+<br><br>
+
+**Ich bin eine Katze.** Schnurr. Mein Fell ist asphaltschwarz und in der Nacht sind meine Augen heller als jede Straßenlaterne. Ich lebe in eurer Welt, aber ihr nicht in meiner. Ich habe Angst vor euren Füßen, ihr nicht vor meinen Pfoten. Ich streife elegant durch die Dunkelheit, wie ihr plump den Tag durchwacht. Ich stamme von mächtigen Raubkatzen ab und ihr von Affen. Ich miaue über euch. Gerade warte ich auf einer karminroten Schindel, die noch warm von dem verblasstem Licht des großen Feuerballs ist und blicke in den Abendhimmel. Atme die Luft einer neuen Nacht ein, die nach Zimt und Geschichten riecht. Ich sehe die Sterne und sie sehen mich. Ich bin ich. Ich bin frei, während ihr gefangen seid. In euren Köpfen, euren Beziehungen. Euren Unzulänglichkeiten. Und würdet ihr erkennen, dass der Mond der Schlüssel zu euren Herzen ist, dann würden wir gemeinsam auf dieser Schindel sitzen. Doch hier bin nur ich.
+
 
 </p>
