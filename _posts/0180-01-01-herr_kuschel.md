@@ -12,7 +12,7 @@ Lily war immer schon ein schüchternes Kind gewesen. Wenn ihre Eltern sie zum Es
 
 Als solch ruhige und kontrollierte Person ließ Lily sich in die Schubladen ihrer Mitmenschen einsortieren. Doch in Lily war es gar nicht ruhig. In Lily stürmte es. Tag um Tag krachten die Wellen ihrer Gefühle, gegen die Klippen ihrer Person. Wogten ihre Gezeiten ohne Halt, ohne Rücksicht, ohne Gnade unter dem dunklen Mond ihrer selbst. Und immerwegs, saß inmitten dieser Bewegungen ein kleines Mädchen und wusste nicht wohin mit sich. Sie hatte sich damit zufrieden gegeben, ihre Bewegungen eisern hinter Schloss und Riegel zu halten, sich ihr einziger Kapitän zu bleiben. Lily war gut darin geworden sich einzufügen, mit dem Hintergrund zu verschmelzen, eines der unerkannten Zahnräder der Maschine des Lebens zu sein. 
 
-Bis sie Herrn Kuschel traf. Beide lernten sich kennen, als Lily, unter der Brücke mit den gelben Blumen, Herrn Kuschel beim Sprayen eines Anarcho-Zeichens beobachtete. Noch nie hatte sie einen Teddybären ein Verbrechen begehen gesehen. Ein unbändiges Grinsen schlich sich auf ihre Lippen, das Lily gänzlich ungewohnt war und auch nicht wieder weg ging. Sie fühlte sich dem Zeichen hingezogen wie die Katze dem Kater, die Mücke dem Licht und wie sie bald lernen würde, die Unterdrückung dem Menschen. Erst nach einer gefühlten Ewigkeit an geröteten Wangen und einem komischen Gefühl im Bauch, hatte Lily, in all ihrer kindlichen Unschuld, irgendwie verstanden, dass sie sich gerade verliebt hatte. Und wie Herr Kuschel die Dose dann schüttelte und ein "FUCK THE SYSTEM" ansetzte, konnte sie sich nicht halten, das zu tun, was niemand, sie miteingeschlossen, jemals von ihr erwartet hätte. Sie ging auf ihn zu. Blickte ihn an. Und stellte sich vor. 
+Bis sie Herrn Kuschel traf. Beide lernten sich kennen, als Lily, unter der Brücke mit den gelben Blumen, Herrn Kuschel beim Sprayen eines Anarcho-Zeichens beobachtete. Noch nie hatte sie einen Teddybären ein Verbrechen begehen gesehen. Ein unbändiges Grinsen schlich sich auf ihre Lippen, das Lily gänzlich ungewohnt war und auch nicht wieder weg ging. Sie fühlte sich dem Zeichen hingezogen wie die Katze dem Kater, die Mücke dem Licht und wie sie bald lernen würde, die Unterdrückung dem Menschen. Erst nach einer gefühlten Ewigkeit an geröteten Wangen und einem komischen Gefühl im Bauch, hatte Lily, in all ihrer kindlichen Unschuld, irgendwie verstanden, dass sie sich gerade verliebt hatte. Und als Herr Kuschel die Dose dann schüttelte und ein "FUCK THE SYSTEM" ansetzte, konnte sie sich nicht halten, das zu tun, was niemand, sie miteingeschlossen, jemals von ihr erwartet hätte. Sie ging auf ihn zu. Blickte ihn an. Und stellte sich vor. 
 
 Damit begann ein Leben voller Symbolik, Schwarzpulver und aufwühlender Reden. Denn Herr Kuschel war ein Anarchist. 
 
@@ -26,4 +26,29 @@ Nachdem Lily eifrig Hände geschüttelt und die beiden sich niedergesetzt hatten
 
 Durch das folgende Schweigen hindurch, stupste Lily Herrn Kuschel an und flüsterte: "Wer ist der Baron?" Betretene Stille. "Ein Dilettant.", zischte Dame Kulimu. "Ein wahrer Freund.", erwiderte Genosse Bär erbost. "Ein Held.", stellte Herr Kuschel in klarem Ton fest. "Baron Piep wusste zu viel und der Arm unserer Feinde ist lang." Er blickte Genosse Bär direkt an. "Aber Sie irren sich. Der Baron hatte seine Meinung geändert." Herr Kuschel holte ein Stück Pergament hervor, voll mit den scharfen Linien einer fanatischen Feder, unterzeichnet mit vier in Tinte getauchten Krallen. Überraschung spiegelte sich in den anwesenden Gesichtern wider. Genosse Bär senkte seinen Kopf. "Wir begehen einen Fehler. Sie liegen alle falsch. Doch wenn Sie die Unterstützung des Baron haben... werde mich fügen. In Zeiten wie diesen, müssen wir geschlossen auftreten." Die Gemeinschaft stand erhaben auf und vor Lilys innerem Auge tanzten schon die Feuer der Veränderung, die der Moment zu versprechen schien.
 
-Sie reichten den Vertrag reihum und schlussendlich drückte Herr Kuschel seine tintene Pfote neben die Krallen, zwei Klauen und eine Tatze: "Somit ist es beschlossen. Die *Schwarze Rose* wird ihre Dornen zeigen.", sprach er feierlich. Und wie Dame Kulimu den Port holen ging, blickten sich Lily und Herr Kuschel aufgeregt an. "Und was passiert jetzt?", fragte Lily mit großen Augen. Herr Kuschel grinste sie an. "Jetzt warten wir auf die Revolution."
+Sie reichten den Vertrag reihum und schlussendlich drückte Herr Kuschel seine tintene Pfote neben die Krallen, zwei Klauen und eine Tatze: "Somit ist es beschlossen. Die *Schwarze Rose* wird ihre Dornen zeigen.", sprach er feierlich. Und als Dame Kulimu den Port holen ging, blickten sich Lily und Herr Kuschel aufgeregt an. "Und was passiert jetzt?", fragte Lily mit großen Augen. Herr Kuschel grinste sie an. "Jetzt warten wir auf die Revolution."
+	
+<!--Kapitel 3
+
+Lily hasste warten.
+
+
+Freiheit für Baron Piep! Baron Piep sei ein Held. Baron Piep sei für die gute Sache aufgestanden. Baron Piep sei eingesperrt worden, weil er zu viel wusste. Herr Kuschel wandte sich in einer fließenden Bewegung zu seinem Megaphon und schrie Spucke spuckend: Freiheit für Baron Piep! und war schon wieder im Gespräch. Baron Piep liebte die Freiheit des Menschen mehr als seine eigenen Kinder. Baron Piep wurde eines Nachts von einem Sonderkommando aus seinem Bett gezerrt. Freiheit für Baron Piep!
+
+"Die Leute verlangen ihr Recht auf Gewalt zurück."
+
+Gewalt ist ein Werkzeug im Arsenal des Anarchisten
+
+Sie war das Feuer zu seinem Zunder, er das Schrot zu ihrer Flinte.
+
+
+
+
+
+Als Herr Kuschel sanft sagte, dass die Bullenschweine kommen, besiegelte Lily, Steinschleuder in der einen Hand und Schlagring an der anderen, mit einem feurigen Blick ihren Entschluss, jene unausgesproche Übereinkunft welche sie seit ihrem schicksalshaften ersten Treffen unter der Brücke mit den gelben Blumen, ohnehin in ihren Herzen getragen hatten. Sie würden sich nicht ergeben, niemals brave Lämmer in Vater Staats Herde sein.
+
+Lass uns Systemlinge schlachten.
+
+Und so warteten sie Seite an Seite auf das Ende.
+
+-->

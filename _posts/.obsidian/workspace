@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0200-01-01-an eventuality.md",
+            "file": "0180-01-01-herr_kuschel.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0200-01-01-an eventuality.md",
+                "file": "0180-01-01-herr_kuschel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d270e6e751fc5f6d",
   "lastOpenFiles": [
-    "0200-01-01-an eventuality.md",
-    "2200-12-31-Morgenstern.md",
-    "2180-12-12-Eklipse.md",
-    "2175-12-11-porträt.md",
-    "2099-01-19-nachleben.md",
-    "2098-06-19-an eventuality.md",
-    "2085-11-20-gib halt.md",
-    "2084-05-05-herrkuschel.md",
-    "2083-11-09-kanaldeckel.md",
-    "2082-12-12-der stumme gott.md"
+    "0180-01-01-herr_kuschel.md",
+    "Untitled.md",
+    "0230-01-01-Eklipse.md",
+    "0240-01-01-Morgenstern.md",
+    "0220-01-01-porträt.md",
+    "0135-00-00-bürokrat_in_rot.md",
+    "0130-01-01-murmeltiertag.md",
+    "0080-01-01-neuefreunde.md",
+    "0160-01-01-der_stumme_gott.md",
+    "0200-01-01-an eventuality.md"
   ]
 }
