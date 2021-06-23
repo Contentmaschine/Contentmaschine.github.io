@@ -58,7 +58,7 @@ Our creation still needed a final touch. Until now we hadn't decided on a name a
 
 We thought that it embodied our journey and the essence of what we were doing too well: A number that would seemingly never surpass its borders, but be infinite in itself, just as we managed to work around our boundaries, to get to this point. The point of no return. Here be dragons.
 
-We would broadcast the activation of π and before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal. 
+We would broadcast the activation of π and before the eyes of the planet we would welcome it amidst our ranks. We had decided to treat it as a partner rather than a tool. It would search with us as an equal.  
 <b style="font-size:1.5em">CLONK</b>
 
 We thought that we were ready. <b style="font-size:1.9em">CLONK</b>
@@ -79,7 +79,8 @@ this could have been how it was all along:
 
 We did not anticipate its first move, neither did we understand what it said, nor could we comprehend its power.
 
-But of course we couldn't. Wasn't that the idea in the first place? I cannot remember  
+But of course we couldn't. Wasn't that the idea in the first place?  
+I cannot remember  
 We played with fire, I realize that now. And we are still burning. 
 
 I was punished with not knowing myself anymore. But The Engineer... 
