@@ -6,62 +6,62 @@ klappentext:
 <> author: contentmaschine
 ---
 
-die sinnlosigkeit lehrt uns <br>
-dass wir uns vom sinn lösen müssen <br>
- <br>
-Ich bin zwei. <br>
-Im einen Moment liebe ich mich bedingungslos, im anderen reiße ich mir mein Herz aus der Brust. <br>
-Metaphorisch natürlich. <br>
-Statistisch gesehen sicher nichts Außergewöhnliches. <br>
-Und die Leute sagen: <br>
-„'s Leben geht weiter.“ <br>
-„Geht's scheißen.“ <br>
-Sagt in mir ein Zweiter. <br>
- <br>
-Der Andere ist wie ein Tier, ein Viech <br>
-und steht der Mond hoch <br>
-und pocht nur Tinte durchs Herz, <br>
-dann bellt's in mir. <br>
-Es reißt und fetzt, <br>
-und so sehr ich auch dagegen drücke, <br>
-öffnet er den Zwinger <br>
-und Gnade vor Gott, <br>
-wenn da sonst noch wer ist. <br>
-Dann heißts nicht mehr Orchidee und Malachit in meinem Kopf, sondern Blut und Knochen und Feuer und Schwert. <br>
- <br>
-Ich habe versucht, ihn zu verjagen. <br>
-Saß eine Woche lang im Sturm, ohne Essen und Schlaf. <br>
-Meditierte auf glühenden Kohlen. <br>
-Schlug und schlug ihn immer wieder. <br>
-Und traf nur mich. <br>
- <br>
-Ich habe versucht, ihn zu verstehen. <br>
-Bin auf die grauesten Berge gewandert, sprach mit den bärtigsten Eremiten. <br>
-Studierte monatelang die Weisheiten des Windes. <br>
-Flehte die ältesten der Sterne an mich zu leiten. <br>
-Und begriff weniger. <br>
- <br>
-Ich habe versucht ihn zu töten. <br>
-Doch er ließ es nicht zu, <br>
-da wir beide gestorben wären. <br>
- <br>
-Für lange Zeit hoffte ich, <br>
-dass er mal geht und nicht mehr kommt, <br>
-doch nun verstehe ich, <br>
-meinen verborgenen Wunsch zu vergessen, <br>
-dass er mein einziger Freund ist. <br>
- <br>
-Denn am Ende des Tages, <br>
-tanzen wir gemeinsam durch die Nacht. <br>
-Fauchen im Einklang. <br>
-Heulen Hand in Hand den Mond an. <br> <br>
+die sinnlosigkeit lehrt uns  
+dass wir uns vom sinn lösen müssen  
+  
+Ich bin zwei.  
+Im einen Moment liebe ich mich bedingungslos, im anderen reiße ich mir mein Herz aus der Brust.  
+Metaphorisch natürlich.  
+Statistisch gesehen sicher nichts Außergewöhnliches.  
+Und die Leute sagen:  
+„'s Leben geht weiter.“  
+„Geht's scheißen.“  
+Sagt in mir ein Zweiter.  
+  
+Der Andere ist wie ein Tier, ein Viech  
+und steht der Mond hoch  
+und pocht nur Tinte durchs Herz,  
+dann bellt's in mir.  
+Es reißt und fetzt,  
+und so sehr ich auch dagegen drücke,  
+öffnet er den Zwinger  
+und Gnade vor Gott,  
+wenn da sonst noch wer ist.  
+Dann heißts nicht mehr Orchidee und Malachit in meinem Kopf, sondern Blut und Knochen und Feuer und Schwert.  
+  
+Ich habe versucht, ihn zu verjagen.  
+Saß eine Woche lang im Sturm, ohne Essen und Schlaf.  
+Meditierte auf glühenden Kohlen.  
+Schlug und schlug ihn immer wieder.  
+Und traf nur mich.  
+  
+Ich habe versucht, ihn zu verstehen.  
+Bin auf die grauesten Berge gewandert, sprach mit den bärtigsten Eremiten.  
+Studierte monatelang die Weisheiten des Windes.  
+Flehte die ältesten der Sterne an mich zu leiten.  
+Und begriff weniger.  
+  
+Ich habe versucht ihn zu töten.  
+Doch er ließ es nicht zu,  
+da wir beide gestorben wären.  
+  
+Für lange Zeit hoffte ich,  
+dass er mal geht und nicht mehr kommt,  
+doch nun verstehe ich,  
+meinen verborgenen Wunsch zu vergessen,  
+dass er mein einziger Freund ist.  
+  
+Denn am Ende des Tages,  
+tanzen wir gemeinsam durch die Nacht.  
+Fauchen im Einklang.  
+Heulen Hand in Hand den Mond an.    
 
-Wir sind das Gift, <br>
-das die Welt heilen wird. <br>
-Wir sind die Farben, <br>
-dieser grauen Zeit. <br>
-Wir sind das Ende, <br>
-mit dem ein Anfang beginnt. <br> <br>
+Wir sind das Gift,  
+das die Welt heilen wird.  
+Wir sind die Farben,  
+dieser grauen Zeit.  
+Wir sind das Ende,  
+mit dem ein Anfang beginnt.    
 
-Ich bin nicht zwei. <br>
+Ich bin nicht zwei.  
 Wir sind eins.

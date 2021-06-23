@@ -25,7 +25,7 @@ Er fuchtelt wild mit seinem Taschenmesser herum. Ich sehe ihn furchtlos an.
 
 *Ich knackse demonstrativ mit meinen Fingerknöcheln.*
 
-**Er** 
+**Er**  
 "Hast du sie noch alle? Ich hab ein Messer!"  
 
 *Er schaut mich verständnislos an.*
