@@ -7,8 +7,11 @@
         "id": "d270e6e751fc5f6d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2015-07-25-faustus.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2015-07-25-faustus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +88,9 @@
   },
   "active": "d270e6e751fc5f6d",
   "lastOpenFiles": [
-    "2200-12-31-Morgenstern.md",
-    "2010-01-03-dronomir.md",
     "2015-07-25-faustus.md",
-    "2000-02-26-blipblup.md"
+    "2010-01-03-dronomir.md",
+    "2000-02-26-blipblup.md",
+    "2200-12-31-Morgenstern.md"
   ]
 }
