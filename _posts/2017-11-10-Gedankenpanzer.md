@@ -5,34 +5,33 @@ klappentext:
 <> date: 2017-11-10 17:38
 <> author: contentmaschine
 ---
+aus dem Bett und in die Rüstung  
+Teil um Teil und Schicht um Schicht  
+das Kettenhemd sitzt, der Helm gerade  
+ein notwendiger Schritt die Gedankenrochade  
+raus in die Welt  
+du tapferer Held  
+das Ziel gesetzt und die Riemen gezurrt  
+es wird gelächelt, nicht gemurrt    
 
-aus dem Bett und in die Rüstung <br>
-Teil um Teil und Schicht um Schicht <br>
-das Kettenhemd sitzt, der Helm gerade <br>
-ein notwendiger Schritt die Gedankenrochade <br>
-raus in die Welt <br>
-du tapferer Held <br>
-das Ziel gesetzt und die Riemen gezurrt <br>
-es wird gelächelt, nicht gemurrt <br> <br>
+Aber  
+Schild im Anschlag und Hand am Schwert  
+dein Leben hat hier keinen Wert  
+nun werden Schritt um Schritt die Platten dichter  
+niemals, niemals die Vorkehrungen lichter  
+Arme verschränkt  
+warst bereit zum Werden  
+Visier gesenkt  
+jetzt bereit zum Sterben    
 
-Aber <br>
-Schild im Anschlag und Hand am Schwert <br>
-dein Leben hat hier keinen Wert <br>
-nun werden Schritt um Schritt die Platten dichter <br>
-niemals, niemals die Vorkehrungen lichter <br>
-Arme verschränkt <br>
-warst bereit zum Werden <br>
-Visier gesenkt <br>
-jetzt bereit zum Sterben <br> <br>
-
-Aber <br>
-Licht am Ende des Tunnels <br>
-ist oft nur eine sterbende Leuchtqualle <br>
-und doch scheints hell von weit weg <br>
-Herztrabant zwar leck <br>
-Engel im Kopf außer Rand und Band <br>
-nichts außer einen Schlagring an der Hand <br>
-aber Tinte wie Blut fließt <br>
-seltener Regen gießt <br>
-und zur Musik des Lebens tanzt er <br>
+Aber  
+Licht am Ende des Tunnels  
+ist oft nur eine sterbende Leuchtqualle  
+und doch scheints hell von weit weg  
+Herztrabant zwar leck  
+Engel im Kopf außer Rand und Band  
+nichts außer einen Schlagring an der Hand  
+aber Tinte wie Blut fließt  
+seltener Regen gießt  
+und zur Musik des Lebens tanzt er  
 tief drin, in seinem Gedankenpanzer

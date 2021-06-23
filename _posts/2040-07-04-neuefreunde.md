@@ -5,406 +5,445 @@ klappentext: Leute kennenlernen.
 <> date: 2019-07-04 22:00
 <> author: contentmaschine
 ---
+<div style="text-align:justify">
+*Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju.*
 
-<i>
-Ich ging gutgelaunt durch die Nacht. Gerade dachte ich mir, dass mein Lieblingsinstrument die Arschgeige ist, wie ich am Straßenrand einen verdächtig aussehenden Busch bemerkte. Und wie der Busch dann niesen musste, war es klar. Dies war kein ordinärer George Dubbelju. 
-<br> <br>
-Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an.
-</i><br>
+*Eine vermummte Gestalt springt aus ihrem Versteck und faucht mich an.*
 
-<br><b>Er</b><br>
+**Er**  
 "Hey! Geld her oder ich stech dich ab!" 
 
-<br><i>
-Ich schaue ihn fragend an. 
-</i><br>
+*Ich schaue ihn fragend an.*
 
-<br><b>Er</b><br>
+**Er**  
 "Geld her hab ich gesagt!"  
 
-<br><i>
 Er fuchtelt wild mit seinem Taschenmesser herum. Ich sehe ihn furchtlos an. 
-</i><br>
 
-<br><b>Ich</b><br>
+**Ich**  
 "Du hast dir den Falschen ausgesucht." 
 
-<br><i>
-Ich knackse demonstrativ mit meinen Fingerknöcheln.
-</i><br>
+*Ich knackse demonstrativ mit meinen Fingerknöcheln.*
 
-<br><b>Er</b><br>
+**Er** 
 "Hast du sie noch alle? Ich hab ein Messer!"  
 
-<br><i>
-Er schaut mich verständnislos an. 
-</i><br>
+*Er schaut mich verständnislos an.*
 
-<br><b>Er</b><br>
+**Er**  
 "Du glaubst doch nicht wirklich, dass du gegen ein Messer gewinnen kannst?" 
 
-<br><i>
-Ich hebe einen Stein auf.
-</i><br>
+*Ich hebe einen Stein auf.*
 
-<br><b>Ich</b><br>
+**Ich**  
 "Diese Runde Messer, Stein, Papier verlierst du." 
-<br><b>Er</b><br>
+
+**Er**  
 "Ich glaub, du überschätzt deine Kampfkünste ein wenig." 
-<br><b>Ich</b><br>
+
+**Ich**  
 "Wäre das erste Mal." 
-<br><b>Er</b><br>
+
+**Er**  
 "Dass du sie überschätzt?"
-<br><b>Ich</b><br> 
+
+**Ich**  
 "Genau. Und dass ich kämpfe. Aber das mindert die Tatsache nicht, dass ich ungeschlagen bin." 
 
-<br><i>
-Wir blicken uns einige Momente prüfend an, unsere Beine zucken in korrekter Hollywoodmanier vor und zurück. Wir umkreisen uns wie zwei verliebte Jaguare.
-</i><br>
+*Wir blicken uns einige Momente prüfend an, unsere Beine zucken in korrekter Hollywoodmanier vor und zurück. Wir umkreisen uns wie zwei verliebte Jaguare.*
 
-<br><b>Ich</b><br>
+**Ich**  
 "Was willst du eigentlich?"
-<br><b>Er</b><br>
+
+**Er**  
 "Geld?"
-<br><b>Ich</b><br>
+
+**Ich**  
 "War das eine Frage?"
-<br><b>Er</b><br>
+
+**Er**  
 "Freunde?" 
-<br><b>Ich</b><br>
+
+**Ich**  
 "Häh- " 
-<br><b>Er</b><br> "Liebe? Was willst du denn?"
 
-<br><i> 
-Ich verstehe die Welt nicht mehr.
-</i><br>
+**Er**  
+"Liebe? Was willst du denn?"
 
-<br><b>Ich</b><br>
+*Ich verstehe die Welt nicht mehr.*
+
+**Ich**  
 "Vielleicht nicht von einem Messer gemördert zu werden?!" 
-<br><b>Er</b><br>
+
+**Er**  
 "Unambitioniert." 
 
-<br><i>
-Ich schnaube ungläubig.
-</i><br>
+*Ich schnaube ungläubig.*
 
-<br><b>Ich</b><br>
+**Ich**  
 "Meine Güte, ich weiß nicht was ich will und Geld, Freunde, Liebe, hah! Du hast dir wirklich den Falschen ausgesucht." 
-<br><b>Er</b><br>
+
+**Er**  
 "Lügner, jeder kann einen Freund hergeben! Und zwar sich selber." 
 
-<br><i>
-Ich lache schallend.
-</i><br>
+*Ich lache schallend.*
 
-<br><b>Ich</b><br>
+**Ich**  
 "Hahaha, Vorstadtpoet oder was?" 
 
-<br><i>
-Er schaut missgünstig.
-</i><br>
+*Er schaut missgünstig.*
 
-<br><b>Er</b><br>
+**Er**  
 "Du bist gemein." 
-<br><b>Ich</b><br>
+
+**Ich**  
 "Also habe ich das richtig verstanden, du willst dir einen Freund erräubern? So funktioniert das nicht." 
-<br><b>Er</b><br>
+
+**Er**  
 "Und doch bist du immer noch hier, nicht nervös, nicht ängstlich, nicht einmal wütend. Wieso geht man denn spätabends alleine spazieren?" 
-<br><b>Ich</b><br>
+
+**Ich**  
 "Ich könnte auf dem Weg zur größten aller Partys sein." 
-<br><b>Er</b><br> "Bist du aber nicht, oder?" 
 
-<br><i>
-Ich blicke verträumt in den Himmel.
-</i><br>
+**Er**  
+"Bist du aber nicht, oder?" 
 
-<br><b>Ich</b><br>
+*Ich blicke verträumt in den Himmel.*
+
+**Ich**  
 "Nein, du hast Recht. So komisch es klingt. Das ist das längste und tatsächlich netteste Gespräch heute. Meine Güte, der ganzen Woche." 
-<br><b>Er</b><br>
+
+**Er**  
 "Für mich auch." 
 
-<br><i>
-Ich blicke ihn an und lege den Stein auf den Boden. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an.
-</i><br>
+*Ich blicke ihn an und lege den Stein auf den Boden. Er blickt mich an und klappt sein Messer zu. Wir setzen uns an den Straßenrand. Die Sterne funkeln uns an.*
 
-<br><i>
-Einer von uns seufzt.
-</i><br>
+*Einer von uns seufzt.*
 
-<br><b>Einer</b><br> 
+**Einer**  
 "Wie konnte es jemals so weit kommen. Man muss zum Messer greifen um diese kollektive Isolation zu durchbrechen."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Ich glaube, dass wir alle überfordert sind. Mit Massengesellschaft und Anonymität."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Mit Individualität und Einsamkeit." 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Vielleicht ist es das. Vielleicht sind wir alle wirklich einsam."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Die Leute auf den größten aller Parties werden uns nicht glauben."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Wenn man glaubt, dass der Alkohol das gebrochene Herz zusammenschweißen kann, dann kann man auch das glauben."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Stimmt. Promille induzierte Redeschwälle haben nichts mit echten Gefühlen zu tun."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Ein paar werden schon eine gute Zeit haben."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Aber es hat nicht jeder eine, der glaubt sie zu haben."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Und die Arschgeigen die tatsächlich nicht im tiefsten Inneren zerüttet sind, haben uns alleine gelassen."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Also vergessen wir sie, wir müssen unseren eigenen Weg finden."
-<br><b>ein Anderer</b><br> 
+
+**ein Anderer**  
 "Und das ist schwierig."
 
-<br><i>
-Um unsere Füße marschiert unberührt von unseren Worten ein Bataillon Ameisen.
-</i><br>
+*Um unsere Füße marschiert unberührt von unseren Worten ein Bataillon Ameisen.*
 
-<br><b>ein Anderer</b><br>
+**ein Anderer**  
 „Wir wurden einfach nicht gemacht für das was jetzt ist.“
-<br><b>Einer</b><br>
+
+**Einer**  
 „Haha, aber für was denn sonst? Ficken und Sterben?“
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 „Das hast du schön gesagt. Stimmt auch wieder. Das wär ziemlich trocken. Und Menschen sind nicht trocken. Menschen sind nass.“
-<br><b>Einer</b><br>
+
+**Einer**  
 „Bunt. Bunt wie ein Regenbogen.“
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 „Aber manche sind mehr Regen als Bogen. Wie passt das in das Bild?“
-<br><b>Einer</b><br>
+
+**Einer**  
 „Hm, verstecken sie sich vor den echten Gefühlen? Oder haben sie keine?“
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 „Beides wäre tragisch. Aber vielleicht gibt es überhaupt keine solchen Leute auf der Welt. Vielleicht gibt es nur ganz viele die für einen winzigen Moment die Wahrheit erhascht haben und sich daraufhin für ewig in Wut und Angst und nackten Körpern verstecken.” 
-<br><b>Einer</b><br> 
+
+**Einer**  
 "Vor der Wahrheit, dass Realität ein Traum ist?"
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Dass das Leben eine Lüge ist."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Auf der Flucht vor dem Wahren." 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Ein Rückzug in eine Illusion."
 
-<br><i>
-Zwei Vögel fliegen weit über uns Richtung Süden.
-</i><br>
+*Zwei Vögel fliegen weit über uns Richtung Süden.*
 
-<br><b>Einer</b><br>
+**Einer**  
 "Aber funktioniert das? Dass sie die Wahrheit gesehen haben und daran zerbrochen sind? Darf man das? Wo bleibt die Verantwortung? Wieso dürfen sie sich verstecken, wenn wir nicht können?" 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Hm, das stimmt... wahrscheinlich nicht. Ist aber ein netter Gedanke." 
 
-<br><i>
-Eine Sternschnuppe bricht mit der Schwärze der Nacht, gegenüber packt eine Grille ihren Kontrabass aus. 
-</i><br>
+*Eine Sternschnuppe bricht mit der Schwärze der Nacht, gegenüber packt eine Grille ihren Kontrabass aus. *
 
-<br><b>ein Anderer</b><br>
+**ein Anderer**  
 "Sag den Leuten die du gern hast, dass du sie gern hast." 
-<br><b>Einer</b><br>
+
+**Einer**  
 "Was?" 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Ein Ratschlag, eine Weisheit, nenns wie du willst." 
-<br><b>Einer</b><br>
+
+**Einer**  
 "Ich glaube ich hab dich gern." 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Ich glaub auch." 
 
-<br><i>
-Unsere Gehirnmaschinen rattern. 
-</i><br>
+*Unsere Gehirnmaschinen rattern. *
 
-<br><b>Einer</b><br>
+**Einer**  
 "Aber heißt das dann, dass alle die denken und schreiben und leben voll mutig sind?" 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Oder sie sind die Dümmsten. Die dies einfach nicht checken." 
-<br><b>Einer</b><br>
+
+**Einer**  
 "Die vollsten aller Vasen."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Die Ochsen mit den größten Hörnern."
 
-<br><i>
-Ich hebe einen kleinen Ast auf.
-</i><br>
+*Ich hebe einen kleinen Ast auf.*
 
-<br><b>Einer</b><br>
+**Einer**  
 "Vielleicht gibts ja wirklich nicht mehr zum Leben." 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Ein Stückchen Dreck auf der Windschutzscheibe des Universums..."
 
-<br><i>
-Und breche ihn entzwei.
-</i><br>
+*Und breche ihn entzwei.*
 
-<br><b>ein Anderer</b><br>
+**ein Anderer**  
 "Aber was wenn? So what! Gedanken sind und bleiben schön. Und wenn wir den kosmischen Anspruch fallen lassen müssen. Dann ist es halt nur für mich und dich schön. Die Ewigkeit wird überbewertet."
-<br><b>Einer</b><br> 
+
+**Einer**   
 "Gefühle bleiben. Auch wenn man sie leugnet und vielleicht sogar weil die Sonne immer noch scheint, wenn unsere Knochen längst zu Staub zerfallen sind. Menschen sind nicht klein, nur weil das Universum groß ist."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Nein, das sind wir nicht."
 
-<br><i>
-Hinter uns hören wir einen Zug vorbeiziehen.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Hinter uns hören wir einen Zug vorbeiziehen.*
+
+
+**ein Anderer**  
 "Mir doch egal was der Mond davon hält ob ich ein Gedicht schreibe." 
-<br><b>Einer</b><br>
-"Unsere Werte sind zwangsläufig in uns. Der Maßstab ist der Mensch. Nicht irgendein verdammter Trabant. Wenn ich was wichtig finde, dann gibt es keine höhere Instanz die es für unwichtig erklären kann. Weil <k>wichtig</k> nur im menschlichen Kontext Sinn macht." 
-<br><b>ein Anderer</b><br>
+
+**Einer**  
+"Unsere Werte sind zwangsläufig in uns. Der Maßstab ist der Mensch. Nicht irgendein verdammter Trabant. Wenn ich was wichtig finde, dann gibt es keine höhere Instanz die es für unwichtig erklären kann. Weil wichtig nur im menschlichen Kontext Sinn macht." 
+
+**ein Anderer**  
 "Jetzt kommt gleich wieder wer, der denkt, dass er dann alles machen kann."
 
-<br><i>
-Der Mond steht unbeeindruckt hoch am Himmel.
-</i><br>
 
-<br><b>Einer</b><br>
+*Der Mond steht unbeeindruckt hoch am Himmel.*
+
+
+**Einer**  
 "Homo homini deus."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Voll. Auch wenn einen keine kosmische Entität ans Kreuz nageln wird, weil man irgendwie seine Tochter gefickt hat: Wir nageln dich sehr wohl ans Kreuz."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Moral gibt es nur im Menschen." 
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Aber Menschen sind wir alle."
 
-<br><i>
-Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.
-</i><br>
 
-<br><b>Einer</b><br>
+*Wir schauen in die nicht sichtbare Ferne, wie wir unseren Fehler bemerken.*
+
+
+**Einer**  
 "Oh nein."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Können wir sie nicht einfach ziehen lassen?"
-<br><b>Einer</b><br>
+
+**Einer**  
 "Du weißt, dass wir das nicht können."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Sie könnte alles kaputtmachen."
-<br><b>Einer</b><br>
+
+**Einer**  
 "In Momenten wie diesen muss man mutig sein... darf ich?"
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Tu was du nicht lassen kannst."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Also, wenn Menschen schön und Gefühle wie Sternschnuppen sind, unsere tiefinnersten Bestrebungen kosmischen Bewegungen nichts nachstehen, Liebe wie eine Blume blühen kann und uns die Sinnlosigkeit lehrt, dass wir uns vom Sinn lösen müssen... in dieser Welt aber trotzdem Monster unter den Betten lauern, Gefühle genausoviel wert sind wie das Neonlicht von dem sie verzerrt werden und die hellsten der Geister in depressivem Nebel versinken... wie können wir alle Menschen sein? Sind wir wirklich alle Menschen?"
 
-<br><i>
-Schweigen hüllt uns ein, wie ein Feuerwehrmann ein in den Fluss gefallenes Reh in eine Wärmedecke.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Schweigen hüllt uns ein, wie ein Feuerwehrmann ein in den Fluss gefallenes Reh in eine Wärmedecke.*
+
+
+**ein Anderer**  
 "Sind wir alle Menschen..."
 
-<br><i>
-Eine graue Katze schnurrt leise vorbei. Wir schweigen weiter.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Eine graue Katze schnurrt leise vorbei. Wir schweigen weiter.*
+
+
+**ein Anderer**  
 "Nein. Ich glaube nicht."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Nein. Ich auch nicht."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Bitte sags den Nazis nicht."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Die machen wieder alles kaputt."
 
-<br><i>
-Das Konzert der Grillen erreicht langsam zirpend seinen Höhepunkt.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Das Konzert der Grillen erreicht langsam zirpend seinen Höhepunkt.*
+
+
+**ein Anderer**  
 "Ich beschreib es gern mit einer Flamme. Menschsein ist ein Feuer im Kopf und im Herzen zu haben."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Wer weiß ob manche Leute erloschen auf die Welt kommen."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Wir wissen nur, dass es dunkel ist."
 
-<br><i>
-Eine kleine Wolke zieht vor den Mond und verstummt sein Licht, während wir jauchzen.
-</i><br>
 
-<br><b>Einer</b><br>
+*Eine kleine Wolke zieht vor den Mond und verstummt sein Licht, während wir jauchzen.*
+
+
+**Einer**  
 "Alles was wir wollen ist Feuer anzuzünden."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Wir kämpfen für die Menschheit in uns."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Und für die Menschheit um uns."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Erst wenn wir alle brennen, haben wir vielleicht genug Licht, um in der ganzen Schwärze etwas zu sehen."
 
 
-<br><i>
-Wir erinnern uns.
-</i><br>
+*Wir erinnern uns.*
 
-<br><b>Einer</b><br>
+
+**Einer**  
 "Zwielicht ist ein schönes Licht"
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Im Zwielicht sieht man nämlich nicht"
-<br><b>Einer</b><br>
+
+**Einer**  
 "wie ringsherum die Welt zerbricht."
 
-<br><i>
-Das Jauchzen weicht Tränen.
-</i><br>
 
-<br><b>Einer</b><br>
+*Das Jauchzen weicht Tränen.*
+
+
+**Einer**  
 "Es wird nie funktionieren. Leute werden Leuten weh tun. Wir sehen im Feuer Wärme und Geborgenheit. Andere einen Scheiterhaufen. Diese Frage verlangt nach Erwachsenen, die wir nicht haben."
 
-<br><i>
-Einer wird von Schluchzern geschüttelt, während der Andere seine Arme um ihn schlingt.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Einer wird von Schluchzern geschüttelt, während der Andere seine Arme um ihn schlingt.*
+
+
+**ein Anderer**  
 "Soll ich lügen?"
-<br><b>Einer</b><br>
+
+**Einer**  
 "Bitte."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Alles wird gut."
 
-<br><i>
-Es folgen nur noch weitere Schluchzer.
-</i><br>
 
-<br><b>Einer</b><br>
+*Es folgen nur noch weitere Schluchzer.*
+
+
+**Einer**  
 "Zu eindeutig eine Lüge."
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Ja, habs mir auch gedacht."
 
-<br><i>
-Die Nacht neigt sich dem Ende zu.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Die Nacht neigt sich dem Ende zu.*
+
+
+**ein Anderer**  
 "Aber egal was passiert... unser Kompass wird nach Norden zeigen."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Und manchmal nach oben."
 
-<br><i>
-Wir kichern, während sich die Traurigkeit und die geschlungenen Arme in zwei haltende Hände auflösen.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Wir kichern, während sich die Traurigkeit und die geschlungenen Arme in zwei haltende Hände auflösen.*
+
+
+**ein Anderer**  
 "Quo vadis?"
-<br><b>Einer</b><br>
+
+**Einer**  
 "Ich will bei einem Gewitter auf einen Berg und den Blitzen beim Blitzen zusehen. Du?"
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Zu einem grünen Meer und netten Leuten."
 
-<br><i>
-Wir schauen uns an.
-</i><br>
 
-<br><b>ein Anderer</b><br>
+*Wir schauen uns an.*
+
+
+**ein Anderer**  
 "Was machen wir als erstes?"
 
-<br><i>
-Wir lachen.
-</i><br>
 
-<br><b>Einer</b><br>
+*Wir lachen.*
+
+
+**Einer**  
 "Wer bin ich jetzt eigentlich?"
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Hat sich etwas verlaufen, aber wir sind sowieso eins."
-<br><b>Einer</b><br>
+
+**Einer**  
 "Stimmt auch wieder. Gemeinsam durch die Dunkelheit?"
-<br><b>ein Anderer</b><br>
+
+**ein Anderer**  
 "Gemeinsam durch die Dunkelheit."
 
-<br><i>
-Wir stehen auf und gehen gemeinsam in das Licht einer neuen Sonne.
-</i>
+
+*Wir stehen auf und gehen gemeinsam in das Licht einer neuen Sonne.*
+

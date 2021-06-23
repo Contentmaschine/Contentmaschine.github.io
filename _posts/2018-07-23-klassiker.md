@@ -5,43 +5,43 @@ klappentext: Steine! Metaphern! Zeug!
 <> date: Steinzeit bitches!
 <> author: contentmaschine
 ---
-<b>Wie ein Stein</b> <br> 
+ **Wie ein Stein **   
 
-schneller, schneller <br>
-immer weiter <br>
-Berge runter und nicht rauf! <br>
-durch das Leben immer heiter <br>
-der frühe Stein der fängt den Wurm <br>
-Ja nicht stoppen, niemals stehn <br>
-rollen, rollen und nicht gehn! <br>
-Berge sind bloß große Steine <br>
-Brüder wir warn auch so groß <br>
-nie verzagen und selbst dann: <br>
-unsere Reise fängt gerade erst an <br> <br>
+schneller, schneller  
+immer weiter  
+Berge runter und nicht rauf!  
+durch das Leben immer heiter  
+der frühe Stein der fängt den Wurm  
+Ja nicht stoppen, niemals stehn  
+rollen, rollen und nicht gehn!  
+Berge sind bloß große Steine  
+Brüder wir warn auch so groß  
+nie verzagen und selbst dann:  
+unsere Reise fängt gerade erst an    
 
-<b>Laub</b> <br>
+ **Laub **  
 
-wie rotglänzende Blätter <br>
-im Licht der untergehenden Sonne <br>
-schmiegen sich deine Haare <br>
-an deine rosigen Wangen <br>
-du hast viel erlebt <br>
-bist aufgeblüht, reif geworden <br>
-es ist der Lauf der Dinge <br>
-du bist im Herbst deines Lebens <br>
-und glaub mir <br>
-ich hab genauso viel Angst vor dem Winter <br>
-wie du <br>
-Hand in Hand <br>
-schauen wir in die Zukunft <br>
-wir blicken zurück  <br>
-auf Zeiten voller Sonnenschein <br>
-halten Gläser, randvoll mit Wein <br>
-und trotzdem fallen wir <br>
-immer weiter, weiter <br>
-doch kurz vor dem Aufkommen <br>
-am Boden der Tatsachen <br>
-lächeln wir uns an <br>
-und fallen gemeinsam <br> <br>
+wie rotglänzende Blätter  
+im Licht der untergehenden Sonne  
+schmiegen sich deine Haare  
+an deine rosigen Wangen  
+du hast viel erlebt  
+bist aufgeblüht, reif geworden  
+es ist der Lauf der Dinge  
+du bist im Herbst deines Lebens  
+und glaub mir  
+ich hab genauso viel Angst vor dem Winter  
+wie du  
+Hand in Hand  
+schauen wir in die Zukunft  
+wir blicken zurück   
+auf Zeiten voller Sonnenschein  
+halten Gläser, randvoll mit Wein  
+und trotzdem fallen wir  
+immer weiter, weiter  
+doch kurz vor dem Aufkommen  
+am Boden der Tatsachen  
+lächeln wir uns an  
+und fallen gemeinsam    
 
 
