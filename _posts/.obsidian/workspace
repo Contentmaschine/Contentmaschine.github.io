@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000-0-0-blipblup.md",
+            "file": "000-00-00-blipblup.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-0-0-blipblup.md",
+                "file": "000-00-00-blipblup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d270e6e751fc5f6d",
   "lastOpenFiles": [
+    "000-0-0-blipblup.md.md",
+    "2010-01-03-dronomir.md",
     "000-02-26-blipblup.md",
     "2080-05-11-kurzkurzgeschichten.md",
-    "2010-01-03-dronomir.md",
     "2000-02-26-blipblup.md",
     "2098-06-19-an eventuality.md",
     "2200-12-31-Morgenstern.md",
     "2180-12-12-Eklipse.md",
     "2175-12-11-porträt.md",
-    "2099-01-19-nachleben.md",
-    "2085-11-20-gib halt.md"
+    "2099-01-19-nachleben.md"
   ]
 }
