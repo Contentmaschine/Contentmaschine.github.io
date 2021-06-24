@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0135-01-01-bürokrat_in_rot.md",
+            "file": "0110-01-01-I_was_not_built_for_this.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0135-01-01-bürokrat_in_rot.md",
+                "file": "0110-01-01-I_was_not_built_for_this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d270e6e751fc5f6d",
   "lastOpenFiles": [
+    "0110-01-01-I_was_not_built_for_this.md",
+    "0100-01-01-Zweisamkeit.md",
+    "0135-01-01-bürokrat_in_rot.md",
+    "0225-01-01-godspeed.md",
     "0135-00-00-bürokrat_in_rot.md",
     "0130-01-01-murmeltiertag.md",
     "0180-01-01-herr_kuschel.md",
     "Untitled.md",
     "0230-01-01-Eklipse.md",
-    "0240-01-01-Morgenstern.md",
-    "0220-01-01-porträt.md",
-    "0080-01-01-neuefreunde.md",
-    "0160-01-01-der_stumme_gott.md",
-    "0200-01-01-an eventuality.md"
+    "0240-01-01-Morgenstern.md"
   ]
 }
