@@ -7,8 +7,11 @@
         "id": "53964118a487b003",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0225-01-01-godspeed.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0225-01-01-godspeed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,10 +88,10 @@
   },
   "active": "53964118a487b003",
   "lastOpenFiles": [
+    "0225-01-01-godspeed.md",
     "000-01-01-memento mori.md",
     "0150-01-01-homofeuer.md",
     "0160-01-01-der_stumme_gott.md",
-    "0225-01-01-godspeed.md",
     "0140-01-01-kurzkurzgeschichten.md",
     "0110-01-01-I_was_not_built_for_this.md",
     "0100-01-01-Zweisamkeit.md",
