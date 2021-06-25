@@ -21,7 +21,7 @@ klappentext: 1+ Sätze & <1466 Zeichen
 **Die Humpen standen verwaist auf den Tischen als die Tavernentür aufschwang.** Ein sanfter Geruch von Zimt erfüllte den Raum, wie braune Augen eintraten. Traurige Mundwinkel verfolgten traurig die braunen Haare, als einer von ihnen erkannte wer sie waren. Es ging ein Raunen durch die Menge. Geflüster und Gemunkel durchzog die anwesenden Ohren, wie der braune Bart auf langen Schritten zum Wirt marschierte. Er war groß wie ein Hüne neben einer Düne, hatte aber doch eine Eleganz wie ein Tanz. Seine Ausrüstung war die eines Abenteurers, neben einem unscheinbar prall gefülltem Gürtel voller Utensilien aus Sizilien und einer spektral leuchtenden fünffachen Sammlung von Jonglierbällen hatte er sich einen großen spitzen Stab auf seinen Rücken geschnallt, von dem noch frische Tinte tropfte. Mit einem großen Pflatsch warf er ein schlagendes Herz auf den Tresen. Stille. Nur ein Pochen, Pochen. Auf einmal ein Aufschrei, ein Brüllen, ein Jubeln. Gelächter schwappte wie eine glückliche Welle durch die anwesenden Kehlen. Schlanke Hände holten Instrumente hervor und begannen zu spielen, wie eine wunderschöne Stimme ein wunderschönes Lied anstimmte. Lippen wurden rot nachgezogen, wie den Fenstern verheißende Verse entflogen: 
 </div>
 
-<div style="text-align: justify">
+<div style="text-align: center">
 in grauer Welt ein Herz zu tragen  
 wollte lange lange keiner wagen  
 doch nun ist einer Herzensträger  
@@ -32,7 +32,7 @@ um uns zu bringen was wir verloren
 wir ihn erkoren  
 </div>
 
-<div style="text-align: center">
+<div style="text-align: justify">
 **Wir sitzen an der Kippe einer Klippe.** Wie zwei Möwen die sich mögen. Das Meer unter uns stößt vermehrt gegen den weißen Stein, der nichts zu wissen scheint. Von all den großen Hässlichkeiten unweit der Küste. Wo beste Freunde sich bekämpfen und die besten Kämpfer sich befreunden. Wo Liebe sich im Dunkeln versteckt und all den Schmerz unter nackten Körpern bedeckt. Nicht so hier. Hier halten vier Augen fest zwei Hände, in Verbundenheit, die die Wunden heilt. Und plötzlich tobt um uns ein Sturm. Wir blicken uns an und lassen uns treiben, geben uns selbst den Trommelwirbel wie der Orkan uns hochwirbelt. Auf einmal Stille. Blau. Weiß. Ein Vogel frisst mir die Wut und dir die Sorgen aus der Seele. Und auch wenn wir wieder zurückfallen, sind wir frei. 
 
 **Derbe Kanten zeichnen den Umriss eines grauen Wesens.** Seine raue Oberfläche glänzt nicht wenn die Sonne auf ihn scheint, sowie sein Schatten keine Täler bedeckt. Er ist keiner seiner großen Brüder. Und doch fließt derselbe Kies durch seine Venen, der schon seiner granitenen Familie den Sieg über das Gras und die Blumen ermöglichte. Nun hockt er neben der Wurzel eines hölzernen Riesen und betrachtet den Sonnenuntergang. Schwelgt in Erinnerungen an Tage, an denen der Wind liebevoll um ihn tanzte, Malachit kein fernes Verlangen bedeutete und er im Sturm noch die Sonne sah. Und doch läuft kein Kiesel über seine Wangen. Denn sein Volk weiß schon lange: Was gut ist vergeht und nichts steht für immer. Der Preis für Leben ist Streben und die Folge von Werden ist Sterben. Über die Äonen zu zerbröseln lässt einen von Gut und Böse lösen. Somit ist was ist und was nicht ist kann nicht sein und was wird das wird. Felserne Wahrheiten, die die Tränen zurückhalten. Wie lange bevor sich das erste Kalkmolekül auf seine eigene Reise macht? Zehntausend Jahre? Weniger? Deshalb genießt er in bittersüßer Melancholie jeden Sonnenuntergang vor seinem unaufhaltbaren Einzug in die ewigen Salzminen.
