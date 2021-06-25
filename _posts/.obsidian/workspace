@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d270e6e751fc5f6d",
+        "id": "53964118a487b003",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0225-01-01-godspeed.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0225-01-01-godspeed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d270e6e751fc5f6d",
+  "active": "53964118a487b003",
   "lastOpenFiles": [
+    "000-01-01-memento mori.md",
+    "0150-01-01-homofeuer.md",
+    "0160-01-01-der_stumme_gott.md",
     "0225-01-01-godspeed.md",
     "0140-01-01-kurzkurzgeschichten.md",
     "0110-01-01-I_was_not_built_for_this.md",
     "0100-01-01-Zweisamkeit.md",
     "0135-01-01-bürokrat_in_rot.md",
     "0135-00-00-bürokrat_in_rot.md",
-    "0130-01-01-murmeltiertag.md",
-    "0180-01-01-herr_kuschel.md",
-    "Untitled.md",
-    "0230-01-01-Eklipse.md"
+    "0130-01-01-murmeltiertag.md"
   ]
 }
