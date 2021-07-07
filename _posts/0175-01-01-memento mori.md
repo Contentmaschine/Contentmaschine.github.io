@@ -38,7 +38,8 @@ die zeit wunden heilt
 sowie wunden vertieft  
 darum ein auge trieft  
 ein kind weint  
-zweifelsohne ist die welt unser feind  
+zweifelsohne  
+ist die welt unser feind  
 aus unseren reihen einer gerissen  
 egal wie beflissen  
 tapfer und freundlich  
@@ -47,7 +48,7 @@ alles vergeht
 
 darum krieg  
 krieg der zeit, der alten mechanik  
-krieg dem tod, dem vater der panik  
+krieg dem tod, dem grund aller panik  
 diese welt nicht für uns gebaut  
 wir der hammer  
 der diese welt zerhaut  
