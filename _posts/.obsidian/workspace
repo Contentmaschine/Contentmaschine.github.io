@@ -7,11 +7,8 @@
         "id": "53964118a487b003",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0175-01-01-memento mori.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0175-01-01-memento mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "53964118a487b003",
   "lastOpenFiles": [
+    "0200-01-01-an_eventuality.md",
+    "0190-01-01-gib halt.md",
+    "0180-01-01-herr_kuschel.md",
     "0175-01-01-memento mori.md",
     "0140-01-01-kurzkurzgeschichten.md",
     "0225-01-01-godspeed.md",
     "000-01-01-memento mori.md",
     "0150-01-01-homofeuer.md",
     "0160-01-01-der_stumme_gott.md",
-    "0110-01-01-I_was_not_built_for_this.md",
-    "0100-01-01-Zweisamkeit.md",
-    "0135-01-01-bürokrat_in_rot.md",
-    "0135-00-00-bürokrat_in_rot.md"
+    "0110-01-01-I_was_not_built_for_this.md"
   ]
 }
