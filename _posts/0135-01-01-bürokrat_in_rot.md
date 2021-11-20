@@ -2,7 +2,7 @@
 layout: post
 title: Der Bürokrat in Rot
 klappentext:
-align: center
+align: <center>
 <> date: 2020-04-10 20:01
 <> author: contentmaschine
 ---
