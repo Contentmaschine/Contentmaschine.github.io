@@ -2,7 +2,7 @@
 layout: post
 title: Nachleben
 klappentext:
-align: <center>
+align:
 <> date: 2019-02-19 20:01
 <> author: contentmaschine
 ---

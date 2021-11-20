@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "3f537bb332e6fd61",
+    "id": "3f046197e86de874",
     "type": "split",
     "children": [
       {
-        "id": "6f092a55af6ef009",
+        "id": "07054fdb1f75f8f2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0215-01-01-mausmuseum.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a0c1d16ae4d5038e",
+    "id": "6ff9b4155332586b",
     "type": "split",
     "children": [
       {
-        "id": "66f1e2b8811b1aba",
+        "id": "44f570a893105f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "8ff7784ad13b1ff2",
+            "id": "3b0284f77bfabaa7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "5009b8040e90f6fa",
+            "id": "f84a7fbe525e58b7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "dcd15b53d04ccd8a",
+    "id": "a6e4e6683109edcd",
     "type": "split",
     "children": [
       {
-        "id": "8725a1a5ee8d35e7",
+        "id": "a60e62485f697c7b",
         "type": "tabs",
         "children": [
           {
-            "id": "d073ad2dce058c83",
+            "id": "222565e7fc6a36dd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0215-01-01-mausmuseum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f092a55af6ef009",
-  "lastOpenFiles": [
-    "0215-01-01-mausmuseum.md",
-    "0212-01-01-phoenix.md",
-    "0240-01-01-Morgenstern.md",
-    "0220-01-01-porträt.md",
-    "0100-01-01-Zweisamkeit.md",
-    "0090-01-01-symmetriker.md",
-    "0080-01-01-neue_freunde.md",
-    "0060-01-01-Schildbürger.md",
-    "0050-01-01-klassiker.md",
-    "0000-01-01-blipblup.md"
-  ]
+  "active": "07054fdb1f75f8f2",
+  "lastOpenFiles": []
 }
