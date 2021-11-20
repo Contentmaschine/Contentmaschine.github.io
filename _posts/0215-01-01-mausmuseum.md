@@ -17,15 +17,15 @@ die Mausheit ihr Museum baute
 	
 Willkommen, willkommen! Fotos machen ist erlaubt, bitte bleibt zu allen Zeiten bei der Gruppe und NIEMAND berührt unter KEINEN Umständen die Ausstellungsstücke. Ein paar der eher bösartigen Präparate haben ein gewisses Eigenleben und unter meiner Obhut wird keiner von Euch auch nur ein einziges Büschel Fell verlieren! In diesem Wissen: Tretet ein, tretet ein.
 
-*[mit großen Augen marschiert eine Gruppe junger Spitzmäuse im Mäusemarsch durch ein elegantes Tor und passiert dabei die Statue einer aufrechten Maus in einem Miniatur-Raumanzug, auf einem Podest mit der Aufschrift: "Ein kleines Stück Gouda für mich, ein großer Gorgonzola für die Mausheit. -Neil Pawstrong"]*
+>*[mit großen Augen marschiert eine Gruppe junger Spitzmäuse im Mäusemarsch durch ein elegantes Tor und passiert dabei die Statue einer aufrechten Maus in einem Miniatur-Raumanzug, auf einem Podest mit der Aufschrift: "Ein kleines Stück Gouda für mich, ein großer Gorgonzola für die Mausheit. -Neil Pawstrong"]*
 
 Diese Welt ist nicht für uns gemacht, das lernten wir früh. Krallen und Zähne, Sturm und Frost: Für eine Maus ist Leben lebensgefährlich. Neben den Mäulern von Luchsen und Mardern, trachtete das größte Raubtier der hiesigen Wälder beständig nach unseren Schnurrhaaren: Der Bär. Ob Schwarz- oder Braun-, Zimt- oder Kardamonbär, es bereitete ihnen Freude uns zu jagen und erst zu stoppen, als eine von uns sich erschöpft und vor Angst zitternd ihrem Schicksal ergab.
 
-	*[leises Stapfen führt durch einen kleinen Gang am Rande eines riesigen Raumes, die Wände nach dem Himmel greifend, mit den funkelnden Schneidezähnen eines Monstrums an Tier als Sterne am Firmament] [erschrockenes Piepsen bricht mit der Stille]*
+ >*[leises Stapfen führt durch einen kleinen Gang am Rande eines riesigen Raumes, die Wände nach dem Himmel greifend, mit den funkelnden Schneidezähnen eines Monstrums an Tier als Sterne am Firmament] [erschrockenes Piepsen bricht mit der Stille]*
 
 Ausgestopft, meine tapferen Besucher! Kein Grund zur Panik. Blickt genau hin und seht, was für Kräfte gegen uns standen und wie unausweichlich unser Untergang schien. Doch wir waren für mehr bestimmt.
 
-	*[kleine Pfoten tänzeln an einem Ölgemälde voll traubenblauer Hyazinthen und purpurner Veilchen vorbei]*
+*[kleine Pfoten tänzeln an einem Ölgemälde voll traubenblauer Hyazinthen und purpurner Veilchen vorbei]*
 
 Unsere Vergangenheit entschied sich in den ersten Tagen eines unscheinbaren Frühlings, an dem eine besonders tapfere Maus einer plötzlichen Eingebung folgte und sich gegen unsere Verstecke tief unter der Erde entschied. Sie wühlte sich einen mühevollen Weg durch zugeschüttete Gänge, vorbei an sperrigen Wurzeln und spitzen Kieseln, um auf einmal, geblendet vom Sonnenlicht und von kühler Frühlingsluft umweht, das Leben, wie zum ersten Mal, in all seiner Pracht wahrzunehmen. Farben präsentierten sich in ungeahnter Intensität und lebendigste Pflanzen schienen in alle Himmelsrichtungen zu sprießen, sodass Abenteuer keine Verheißung, sondern ein Versprechen schien. Doch auch ein tiefes Brummen durchdrang die Grashalme der Erde, die Blätter auf den Bäumen und die Vögel in der Luft. Die erste Pionierin der Mausgeschichte erkannte: Die Bären schliefen noch.
 
