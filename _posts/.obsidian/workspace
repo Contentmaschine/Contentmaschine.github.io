@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0215-01-01-mausmuseum.md",
-            "mode": "preview"
+            "file": "0212-01-01-phoenix.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0215-01-01-mausmuseum.md",
+                "file": "0212-01-01-phoenix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "6f092a55af6ef009",
   "lastOpenFiles": [
-    "0215-01-01-mausmuseum.md",
     "0212-01-01-phoenix.md",
+    "0215-01-01-mausmuseum.md",
     "0240-01-01-Morgenstern.md",
     "0220-01-01-porträt.md",
     "0100-01-01-Zweisamkeit.md",

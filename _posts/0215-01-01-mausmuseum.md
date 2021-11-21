@@ -11,7 +11,7 @@ align: <center>
 blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
-    font-size: 10px;
+    font-size: 7px;
     border-left: 5px solid #eee;
 }
 ````
@@ -33,7 +33,7 @@ Diese Welt ist nicht für uns gemacht, das lernten wir früh. Krallen und Zähne
 
 Ausgestopft, meine tapferen Besucher! Kein Grund zur Panik. Blickt genau hin und seht, was für Kräfte gegen uns standen und wie unausweichlich unser Untergang schien. Doch wir waren für mehr bestimmt.
 
-*[kleine Pfoten tänzeln an einem Ölgemälde voll traubenblauer Hyazinthen und purpurner Veilchen vorbei]*
+>>*[kleine Pfoten tänzeln an einem Ölgemälde voll traubenblauer Hyazinthen und purpurner Veilchen vorbei]*
 
 Unsere Vergangenheit entschied sich in den ersten Tagen eines unscheinbaren Frühlings, an dem eine besonders tapfere Maus einer plötzlichen Eingebung folgte und sich gegen unsere Verstecke tief unter der Erde entschied. Sie wühlte sich einen mühevollen Weg durch zugeschüttete Gänge, vorbei an sperrigen Wurzeln und spitzen Kieseln, um auf einmal, geblendet vom Sonnenlicht und von kühler Frühlingsluft umweht, das Leben, wie zum ersten Mal, in all seiner Pracht wahrzunehmen. Farben präsentierten sich in ungeahnter Intensität und lebendigste Pflanzen schienen in alle Himmelsrichtungen zu sprießen, sodass Abenteuer keine Verheißung, sondern ein Versprechen schien. Doch auch ein tiefes Brummen durchdrang die Grashalme der Erde, die Blätter auf den Bäumen und die Vögel in der Luft. Die erste Pionierin der Mausgeschichte erkannte: Die Bären schliefen noch.
 
@@ -43,35 +43,35 @@ Es folgte eine Zeit des Umbruchs.
 
 Die wiffesten Ingenieure der Mausheit, bis jetzt beschäftigt mit der Konstruktion der allerschnellsten Fluchtwege, grübelten wieder über oberirdische Konstruktionen nach und tüftelten erneut an den verstaubten Prototypen einer vergessenen Zeit. Die größten Strategen der Mausheit, versiert im Rückzug und geübt im Entkommen, begonnen ihre Nadeln zu schärfen und offensive Taktiken zu entwerfen. Die klügsten Anführer der Mausheit lösten sich von dem nostalgischen Nebel über ihren Herzen und mit der Präzision eines Uhrmachers entwickelten sie jenen Plan, der die Mausheit endgültig von ihren Ketten befreien würde.
 
-*[junge Näschen nehmen den Geruch von Rost und vergilbtem Bärenfell war, die Gruppe betritt einen Raum scheinbar gänzlich aus Metall, in seiner Mitte eine massive eiserne Konstruktion mit messerscharfen Rändern, von einem komplexen Mechanismus durchlaufen]*
+>*[junge Näschen nehmen den Geruch von Rost und vergilbtem Bärenfell war, die Gruppe betritt einen Raum scheinbar gänzlich aus Metall, in seiner Mitte eine massive eiserne Konstruktion mit messerscharfen Rändern, von einem komplexen Mechanismus durchlaufen]*
 
-*[sie strahlt eine Macht aus, die einen ehrfürchtigen Stolz auslöst und eine Gewalt, welche jegliche Nackenhaare aufstellt]*
+>*[sie strahlt eine Macht aus, die einen ehrfürchtigen Stolz auslöst und eine Gewalt, welche jegliche Nackenhaare aufstellt]*
 
 Wie immer schon zuvor, trotteten die Bären gähnend aus ihren Höhlen, bereit für ein weiteres Jahr der unangetasteten Dominanz. Ein Bote der Mausheit übermittelte ihnen ein großzügiges Friedensangebot. Die Bären lehnten lachend ab. Der Rest ist Geschichte.
 
-*[die Gruppe versammelt sich um ein gläsernes Podest, darin ein Stück Pergament auf einer samtenen Erhöhung, dessen Worten sich wie verschlungene Ornamente Zeile für Zeile ihren Weg zu den Abdrücken einer gigantischen Tatze und einer minimalen Pfote bahnen]*
+>*[die Gruppe versammelt sich um ein gläsernes Podest, darin ein Stück Pergament auf einer samtenen Erhöhung, dessen Worten sich wie verschlungene Ornamente Zeile für Zeile ihren Weg zu den Abdrücken einer gigantischen Tatze und einer minimalen Pfote bahnen]*
 
 Ein Friede wurde geschlossen, der bis heute bestandhält. Mit der Kraft der Bären und unserer Kreativität konnten wir jene Welt bauen, in der ihr heute aufgewachsen seid.
 
-*[die Gruppe zieht es immer weiter, immer tiefer in den Gebäudekomplex, wie von einer unbekannten Gravitation gezogen]*
+>*[die Gruppe zieht es immer weiter, immer tiefer in den Gebäudekomplex, wie von einer unbekannten Gravitation gezogen]*
 
 Und damit sind wir im Herzstück des Museums angelangt, dem Mausoleum. Blickt euch um, nehmt euch Zeit.
 
-*[die Besucher werfen ihren Blick auf eine verwinkelte Konstruktionen an Kerzenlicht und Bücherrücken, schnuppern Wegen und Stiegen entlang, die einen weitlaufenden Ort vermuten lassen, die Wände rein aus Bücherregalen, wird das ganze Gebäude scheinbar nur von gebundenem Papier gehalten]*
+>*[die Besucher werfen ihren Blick auf eine verwinkelte Konstruktionen an Kerzenlicht und Bücherrücken, schnuppern Wegen und Stiegen entlang, die einen weitlaufenden Ort vermuten lassen, die Wände rein aus Bücherregalen, wird das ganze Gebäude scheinbar nur von gebundenem Papier gehalten]*
 
-*[die Ecken und Enden der unterschiedlichen Räume behausen kleine Hocker mit Pölstern und hölzerne Tische mit dampfenden Kaffeetassen, viele Mäuse sitzen und liegen entlang der Ränge an Worten, lesen konzentriert, lachen offen, weinen in Abständen]*
+>*[die Ecken und Enden der unterschiedlichen Räume behausen kleine Hocker mit Pölstern und hölzerne Tische mit dampfenden Kaffeetassen, viele Mäuse sitzen und liegen entlang der Ränge an Worten, lesen konzentriert, lachen offen, weinen in Abständen]*
 
-*[neugierige Augen trauen sich näher und erblicken den gedruckten Namen ihres zu kurz gekannten Großvaters, blättern um und finden sich mitten in den fein kalligraphierte Zeilen der Geschichte seines Lebens wieder, riechen die alte Pfeife und blicken in seine lachenden Schnurrhaare, als ob sich das Rad der Zeit nie gedreht hätte]*
+>*[neugierige Augen trauen sich näher und erblicken den gedruckten Namen ihres zu kurz gekannten Großvaters, blättern um und finden sich mitten in den fein kalligraphierte Zeilen der Geschichte seines Lebens wieder, riechen die alte Pfeife und blicken in seine lachenden Schnurrhaare, als ob sich das Rad der Zeit nie gedreht hätte]*
 
-*[Stunden vergehen, bis die Euphorie des Moments einer wohl verdienten Müdigkeit weicht und die Gruppe wieder zusammenfindet]*
+>*[Stunden vergehen, bis die Euphorie des Moments einer wohl verdienten Müdigkeit weicht und die Gruppe wieder zusammenfindet]*
 
 Wir kommen an diesen Ort, um uns zu erinnern, wir verlassen ihn, um zu leben. Unserer Vergangenheit sind wir keine Tränen schuldig - nur das Versprechen mutig zu sein. Komme was wolle.
 
 Ich wünsche euch eine gute Reise.
 
-*[zarte Füße trommeln respektvoll auf den Boden]*
+>*[zarte Füße trommeln respektvoll auf den Boden]*
 
-*[gehen mit einem entfachten Feuer im Herzen in die Welt hinaus]*  
+>*[gehen mit einem entfachten Feuer im Herzen in die Welt hinaus]*  
 
 </div>
 
