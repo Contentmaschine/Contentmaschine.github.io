@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0212-01-01-phoenix.md",
+            "file": "0215-01-01-mausmuseum.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0212-01-01-phoenix.md",
+                "file": "0215-01-01-mausmuseum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6f092a55af6ef009",
   "lastOpenFiles": [
-    "0212-01-01-phoenix.md",
     "0215-01-01-mausmuseum.md",
+    "0130-01-01-murmeltiertag.md",
+    "0212-01-01-phoenix.md",
     "0240-01-01-Morgenstern.md",
     "0220-01-01-porträt.md",
     "0100-01-01-Zweisamkeit.md",
     "0090-01-01-symmetriker.md",
     "0080-01-01-neue_freunde.md",
     "0060-01-01-Schildbürger.md",
-    "0050-01-01-klassiker.md",
-    "0000-01-01-blipblup.md"
+    "0050-01-01-klassiker.md"
   ]
 }

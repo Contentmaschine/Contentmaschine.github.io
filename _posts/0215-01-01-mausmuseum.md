@@ -6,15 +6,7 @@ align: <center>
 <> date: 2021-10-19 20:01
 <> author: contentmaschine
 ---
-
-```{css style settings, echo = FALSE}
-blockquote {
-    padding: 10px 20px;
-    margin: 0 0 20px;
-    font-size: 7px;
-    border-left: 5px solid #eee;
-}
-````
+<object data="../Mausmuseum New.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 an Orten die im Dunklen lagen  
 hinter Wänden die Gemälde tragen  
@@ -33,7 +25,7 @@ Diese Welt ist nicht für uns gemacht, das lernten wir früh. Krallen und Zähne
 
 Ausgestopft, meine tapferen Besucher! Kein Grund zur Panik. Blickt genau hin und seht, was für Kräfte gegen uns standen und wie unausweichlich unser Untergang schien. Doch wir waren für mehr bestimmt.
 
->>*[kleine Pfoten tänzeln an einem Ölgemälde voll traubenblauer Hyazinthen und purpurner Veilchen vorbei]*
+>*[kleine Pfoten tänzeln an einem Ölgemälde voll traubenblauer Hyazinthen und purpurner Veilchen vorbei]*
 
 Unsere Vergangenheit entschied sich in den ersten Tagen eines unscheinbaren Frühlings, an dem eine besonders tapfere Maus einer plötzlichen Eingebung folgte und sich gegen unsere Verstecke tief unter der Erde entschied. Sie wühlte sich einen mühevollen Weg durch zugeschüttete Gänge, vorbei an sperrigen Wurzeln und spitzen Kieseln, um auf einmal, geblendet vom Sonnenlicht und von kühler Frühlingsluft umweht, das Leben, wie zum ersten Mal, in all seiner Pracht wahrzunehmen. Farben präsentierten sich in ungeahnter Intensität und lebendigste Pflanzen schienen in alle Himmelsrichtungen zu sprießen, sodass Abenteuer keine Verheißung, sondern ein Versprechen schien. Doch auch ein tiefes Brummen durchdrang die Grashalme der Erde, die Blätter auf den Bäumen und die Vögel in der Luft. Die erste Pionierin der Mausgeschichte erkannte: Die Bären schliefen noch.
 
