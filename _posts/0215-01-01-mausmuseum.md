@@ -7,4 +7,5 @@ align: <center>
 <> author: contentmaschine
 ---
 
+
 <object data="../Mausmuseum.pdf" width="750" height="900" type='application/pdf'></object>
