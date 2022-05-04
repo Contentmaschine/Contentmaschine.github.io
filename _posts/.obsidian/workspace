@@ -10,7 +10,11 @@
           "type": "markdown",
           "state": {
             "file": "0211-01-01-regenbogen.md",
+<<<<<<< HEAD
             "mode": "source"
+=======
+            "mode": "preview"
+>>>>>>> 621072b07a2c0c2caa1dd988d5ac735896b20d1a
           }
         }
       }
