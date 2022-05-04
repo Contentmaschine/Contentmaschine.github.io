@@ -12,7 +12,7 @@ Was beginnt hört wieder auf.
 Was vergeht.  
 Aufersteht.  
 Das, was für alle Zeiten bleibt.  
-Sich mit der Gottesregel reibt.  
+Sich mit der einen Regel reibt.  
 
 Die Welt ist ein Kreis.  
 Eine Welt, die Schmerz nicht Schmerzen nennt.  
