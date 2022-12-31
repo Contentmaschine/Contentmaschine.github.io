@@ -48,7 +48,7 @@ alles vergeht
 
 darum krieg  
 krieg der zeit, der alten mechanik  
-krieg dem tod, dem grund aller panik  
+krieg dem tod, dem grund dieser panik  
 diese welt nicht für uns gebaut  
 wir der hammer  
 der diese welt zerhaut  
